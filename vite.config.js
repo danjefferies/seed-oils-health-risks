@@ -3,6 +3,5 @@ import { svelte } from '@sveltejs/vite-plugin-svelte'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/usrtk-seed-oils-project/',
-  plugins: [svelte()],
+  plugins: [svelte()]
 })
