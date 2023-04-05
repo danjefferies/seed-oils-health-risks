@@ -1,0 +1,53 @@
+<script>
+    export let step;
+  
+      // setup list of images to be passed in
+      let backdrops = [
+        {
+          src: "src/img/ai2html-output/fat-forms.html",
+          title: "Types of fatty acids"
+        },
+        {
+          src: "src/img/ai2html-output/fatty-acids.html",
+          title: "Fatty acid composition of common cooking oils"
+        },
+        {
+          src: "src/img/crisco2.jpg"
+        }
+      ];
+  
+      function changeBackground(s){
+        console.log(s);
+        if (s != undefined) {
+          switch(s){
+            case 0:
+              return backdrops[0];
+            case 1:
+              return backdrops[0];
+            case 2:
+              return backdrops[1];
+            case 3:
+              return backdrops[2];
+          }
+        } 
+        return backdrops[0];
+      }
+  
+      $: backdrop = changeBackground(step)
+    </script>
+
+<div>
+    <iframe class="mobile-ai2html"
+        src={backdrop.src}
+        title={backdrop.title}
+        style="border: none;" width="100%" height="550px" scrolling="no"/>
+
+</div>
+
+<style>
+    @media screen and (max-width: 700px) {
+      .mobile-ai2html {
+      height: 550px;
+    }
+  }
+</style>

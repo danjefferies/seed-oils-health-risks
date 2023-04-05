@@ -1,0 +1,157 @@
+/* Font palette */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
+
+/* Color palette */
+/* Unsaturated fat red #C90000
+Saturated fat green #B8C46B
+Canola yellow #FFDD73 */
+
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  /* color-scheme: light dark; */
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+a {
+  font-weight: 500;
+  color: #2069BB;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #0b7dff;
+}
+
+#banner{
+  background-position: 50% 100%;
+  background-size: cover;
+  padding: 18vh 10%;
+  text-align: center;
+}
+
+body {
+  background-color: #FFDD73;
+  margin: 0;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100%;
+  font-family: "Georgia", serif;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.header {
+  font-family: "PT Serif", serif;
+  color: #000;
+}
+
+.byline {
+  font-family: "Lato", sans-serif;
+  font-size: 0.875em;
+  color: #6C757D;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+/* #app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+/* main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+} */
+
+.padded {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #0b7dff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* .chartHeight {
+  height: 75%;
+} */
+
+#line-chart {
+  height: 75vh;
+}
+
+.background-img {
+  width: auto;
+  height: 70%;
+  }
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #0b7dff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+  #line-chart {
+    height: 75vh;
+  }
+}
+
+/* Media queries for mobile text sizes */
+@media screen and (max-width: 500px) {
+  h1 {
+    font-size: 2em;
+    line-height: 1.1;
+  }
+  .background-img {
+    width: 100%;
+    height: auto;
+    }
+}
