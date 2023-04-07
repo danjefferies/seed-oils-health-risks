@@ -49,7 +49,7 @@
   </div>
   
   <!-- <div id="banner" style="background-image: url(src/img/seedoil-banner_desktop.png)"> -->
-    <div id="banner" style="background-color: red;">
+    <div id="banner">
     <h1>Big Seed: How vegetable oils became the backbone of the American diet</h1>
   </div>
 
