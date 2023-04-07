@@ -44,7 +44,7 @@
 <main>
   <div class="padded">
     <a href="https://usrtk.org/" target="_blank" rel="noreferrer">
-      <img src="usrtk.svg" class="logo" alt="USRTK Logo" />
+      <img src="img/usrtk.svg" class="logo" alt="USRTK Logo" />
     </a>
   </div>
   

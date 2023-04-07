@@ -4,15 +4,18 @@
       // setup list of images to be passed in
       let backdrops = [
         {
-          src: "src/img/ai2html-output/fat-forms.html",
+          src: "img/ai2html-output/fat-forms.html",
           title: "Types of fatty acids"
         },
         {
-          src: "src/img/ai2html-output/fatty-acids.html",
+          src: "img/ai2html-output/fatty-acids.html",
           title: "Fatty acid composition of common cooking oils"
         },
         {
-          src: "red.png"
+          src: "img/red.png"
+        },
+        {
+          src: "img/crisco1.jpg"
         }
       ];
   
@@ -28,6 +31,8 @@
               return backdrops[1];
             case 3:
               return backdrops[2];
+            case 4:
+              return backdrops[3];
           }
         } 
         return backdrops[0];
