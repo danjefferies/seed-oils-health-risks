@@ -12,10 +12,10 @@
           title: "Fatty acid composition of common cooking oils"
         },
         {
-          src: "img/red.png"
+          src: "img/crisco1.jpg"
         },
         {
-          src: "img/crisco1.jpg"
+          src: "img/ai2html-output/seedoil-banner.html"
         }
       ];
   
@@ -24,15 +24,17 @@
         if (s != undefined) {
           switch(s){
             case 0:
-              return backdrops[0];
+              return backdrops[3];
             case 1:
               return backdrops[0];
             case 2:
-              return backdrops[1];
+              return backdrops[0];
             case 3:
-              return backdrops[2];
+              return backdrops[1];
             case 4:
-              return backdrops[3];
+              return backdrops[2];
+            case 5:
+              return backdrops[2];
           }
         } 
         return backdrops[0];
