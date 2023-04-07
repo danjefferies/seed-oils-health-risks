@@ -48,10 +48,9 @@
     </a>
   </div>
   
-  <!-- <div id="banner" style="background-image: url(src/img/seedoil-banner_desktop.png)"> -->
-    <div id="banner">
+  <banner>
     <h1>Big Seed: How vegetable oils became the backbone of the American diet</h1>
-  </div>
+  </banner>
 
   <h3 class="byline">
    Posted: April 18, 2023 by <a href='https://datadanica.com' target="_blank">Danica Jefferies</a>
@@ -61,38 +60,24 @@
     <Counter />
   </div> -->
 
-  <section>
-    <div>
-    <p> Here is some intro text.</p>
-    <br>
-    <p> Here is some intro text.</p>
-    <br>
-    <p> Here is some intro text.</p>
-    <br>
-    </div>
-    
+  <section id="intro">
+    <p>When my father was in anesthesia school, his instructor asked each student to justify their daily dietary choices with the material taught in class. "One egg, but never the yolk because of the cholesterol," he wrote.
+    </p>
+    <p>What else? Cookies and cereals and maybe a tv dinner – oh, but no saturated fat, to protect his heart health. He passed his assignment that week.</p>
+    <p>Did your mother also insist on cooking all her recipes with vegetable oil when you were growing up? Were your grandparents insistent on avoiding saturated fat like the plague?</p>
+    <p>For thousands of years, humans consumed and cooked with animal fats. But like many modern foods, the industrially processed seed oils we've come to know and accept as the <span style="background-color: #FF4B00;">"heart-healthy vegetable oil"</span> found ubiquitously in restaurants and kitchen cabinets across the globe, did not make their way into the human diet until just over a century ago. </p>
+    <p>In the late 1800s, two businessmen would alter the way the world eats forever. Since then, nearly everyone and their mother has consumed these substances steeped in contention and potentially faulty research – and in copious amounts. In 2010, researchers estimated that per-capita seed oil consumption <a href="https://pubmed.ncbi.nlm.nih.gov/21367944/" target="_blank">skyrocketed over 1,000-fold</a> between 1909 and 1999.</p>
+    <p>Millions of Americans who grew up under the seemingly indisputable advice that saturated fat was the enemy would go on to develop a slew of conditions including diabetes and cardiovascular disease. Scientists have repeatedly found risks to consuming these oils, from <a href="https://www.sciencedaily.com/releases/2020/01/200117080827.htm#:~:text=New%20UC%20Riverside%20research%20shows,disease%2C%20anxiety%2C%20and%20depression." target="_blank">inducing genetic changes in the brain</a> to <a href="https://www.sciencedirect.com/science/article/pii/S0002916523233031?via%3Dihub" target="_blank">increasing bodily inflammation</a>, yet they are <a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/scientists-debunk-seed-oil-health-risks/" target="_blank">regularly accepted as the healthy norm</a>.
+  </p>
+    <p>So what is a "seed oil" and how did we get here?</p>
+
     </section>
 </main>
 
-<!-- Photo gallery -->
-<!-- <section class="padded">
-      <div class="row">
-        <div class="column">
-          <img src="src/img/crisco1.jpg" alt="Snow" style="width:100%">
-        </div>
-        <div class="column">
-          <img src="src/img/red.png" alt="Forest" style="width:100%">
-        </div>
-        <div class="column">
-          <img src="src/img/crisco2.jpg" alt="Mountains" style="width:100%">
-        </div>
-      </div>
-</section> -->
-
-<div class="temporary"></div>
+<div class="temporary"><h2>Below: Chapter one</h2> <p>Scroller 1: What are seed oils, where did they come from, advertising history, the Diet Heart Hypothesis. Interaction: scrolling. Goal: educational, passive interaction</p></div>
 
 
-<!-- Side by side scroller with scatterplot -->
+<!-- Side by side scroller with scatterplot (NOW FRAME.SVELTE)-->
 <section>
   <div class="section-container">
     <div class="steps-container">
@@ -107,8 +92,6 @@
     </div>
     <div class="sticky">
       <!-- <Scatterplot step={value} /> -->
-      <!-- <iframe class="mobile-ai2html" src="src/img/ai2html-output/fatty-forms.html" 
-    title = "Oil fatty acid composition" style="border: none;" width="100%" height="550px" scrolling="no"></iframe> -->
     <Frame step={value}/>
 
     </div>
@@ -116,9 +99,7 @@
 
 </section>
 
-<div class="temporary"></div>
-
-
+<div class="temporary"><p>Filler text will go here to elaborate on what studies say, need to elaborate more on HDL/LDL cholesterol, health and environmental consequences before getting into the next sections.</p></div>
 
 <!-- Text on top scrolly  -->
 <!-- <section>
@@ -147,15 +128,10 @@
 
 <div class="temporary"></div> -->
 
+<div class="temporary"><h2>Placeholder, Chapter two</h2> <p>Quiz/drag and drop/flipcards where people can guess what surprising products seed oils are found in. Interaction: Dragging and dropping or clicking an animated flip-card to turn it over. Goal: they. are. in. EVERYTHING.</p></div>
 
-<section>
-  <div>
-    <p> I think this is where the ai2html graphic documenting increased disease rates should go.</p>
-  </div>
 
-</section>
-
-<div class="temporary"></div>
+<div class="temporary"><h2>Below: Chapter three</h2> <p>Ai2html graphic of increased disease incidence. Then gets into Scroller 2: health consequences. Interaction: scrolling. Goal: educational before exploratory</p></div>
 
 <section>
   <div class="section-container">
@@ -175,10 +151,9 @@
   </div>
 </section>
 
-<div class="temporary"></div>
+<div class="temporary"> <p>Exploratory section: Seed oil consumption of different countries chart. Interaction: Filter the drop down menu. Goal: Exploratory</p></div>
 
 <section>
-  <p>INTERACTIVE: SEED OIL CONSUMPTION OF DIFFERENT COUNTRIES</p>
   <div style="background-color :white;">
     <Searchable />
     <select>
@@ -195,7 +170,7 @@
   </select> -->
 </section>
 
-<div class="temporary"></div>
+<div class="temporary"> <p>Close out, provide more research, resources, anything USRTK wants to include</p></div>
 
 
 
@@ -204,14 +179,14 @@
     overflow-x: hidden;
   }
   
-  .header {
+  /* .header {
     height: 60vh;
     display: flex;
     place-items: center;
     flex-direction: column;
     justify-content: center;
     text-align: center;
-  }
+  } */
 
   .spacer {
     height: 40vh;
@@ -226,53 +201,8 @@
     max-width: 1280px;
   }
 
-  /*  for the centered scroller */
-  .section-container-cen {
-    /* margin-top: 1em; */
-    text-align: center;
-    transition: background 100ms;
-  }
-  
-  .steps-container-cen,
-  .sticky-cen {
-    height: 100%;
-    position: sticky;
-    justify-content: center;
-    top: 5%;
-    bottom: 10%;
-    margin: auto;
-  }
-
-  .step-cen {
-    height: 80vh;
-    display: flex;
-    place-items: center;
-    justify-content: center;
-  }
-
-  .step-content-cen {
-    background: whitesmoke;
-    color: #ccc;
-    border-radius: 5px;
-    padding: 0.5rem 1rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    transition: background 500ms ease;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
-    z-index: 10;
-  }
-
-  .step-cen.active .step-content-cen {
-    background: white;
-    color: black;
-  }
-
-
-
-
-  /* for the side-by-side default scroller */
-  .section-container {
+    /* for the side-by-side default scroller */
+    .section-container {
     margin-top: 1em;
     text-align: center;
     transition: background 100ms;
@@ -342,15 +272,47 @@
     z-index: 10;
   }
 
-  .row {
-    display: flex;
-    flex-wrap: wrap;
+
+  /*  for the centered scroller */
+  /* .section-container-cen {
+    text-align: center;
+    transition: background 100ms;
+  }
+  
+  .steps-container-cen,
+  .sticky-cen {
+    height: 100%;
+    position: sticky;
+    justify-content: center;
+    top: 5%;
+    bottom: 10%;
+    margin: auto;
   }
 
-  .column {
-    flex: 29%;
-    padding: 2px;
+  .step-cen {
+    height: 80vh;
+    display: flex;
+    place-items: center;
+    justify-content: center;
   }
+
+  .step-content-cen {
+    background: whitesmoke;
+    color: #ccc;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: background 500ms ease;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+    z-index: 10;
+  }
+
+  .step-cen.active .step-content-cen {
+    background: white;
+    color: black;
+  } */
 
 /* Text-on-top on small screens */
   /* @media screen and (max-width: 768px) {
@@ -372,12 +334,6 @@
       width: 95%;
       margin: auto;
     }
-    /* .column {
-      flex: 29%;
-  } */
-    .row {
-      flex-direction: column;
-    }
   }
 
   /*  This was from the Vite package demo */
@@ -392,7 +348,8 @@
 } */
 
 .temporary {
-  height: 400px;
+  height: 250px;
+  background-color: orange;
 }
 
   </style>

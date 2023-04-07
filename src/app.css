@@ -33,11 +33,22 @@ a:hover {
   color: #0b7dff;
 }
 
-#banner{
+banner{
   background-position: 50% 100%;
   background-size: cover;
   padding: 18vh 10%;
   text-align: center;
+}
+
+#intro {
+  font-family: "Georgia", serif;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: left;
+  margin: 5%;
+  padding: 0 0 1vh 0;
+  /* max-width: 1200px; */
+  justify-content: center;
 }
 
 body {
