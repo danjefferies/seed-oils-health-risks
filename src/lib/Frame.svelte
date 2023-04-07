@@ -12,7 +12,7 @@
           title: "Fatty acid composition of common cooking oils"
         },
         {
-          src: "public/red.png"
+          src: "red.png"
         }
       ];
   
