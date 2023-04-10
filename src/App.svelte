@@ -172,6 +172,7 @@
     width: 70%;
     height: 100vh;   /*  this is new */
     max-width: 1280px;
+    z-index: 0;
   }
 
     /* for the side-by-side default scroller */
@@ -271,6 +272,7 @@
     .sticky {
       width: 95%;
       margin: auto;
+      z-index: 0;
     }
 
     .steps-container {
