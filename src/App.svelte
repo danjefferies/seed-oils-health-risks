@@ -273,6 +273,11 @@
       margin: auto;
     }
 
+    .steps-container {
+    flex: 1 1 40%;
+    z-index: 10;
+    }
+
     .step-content {
       font-size: 1rem;
       background: whitesmoke;
@@ -288,7 +293,7 @@
       width: 75%;
       margin: auto;
       max-width: 500px;
-      z-index: 1;
+      z-index: 10;
     }
 
     .step-content-side {
@@ -306,7 +311,7 @@
       width: 75%;
       margin: auto;
       max-width: 500px;
-      z-index: 1;
+      z-index: 10;
     }
   }
 
