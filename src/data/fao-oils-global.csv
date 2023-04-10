@@ -1,1884 +1,1398 @@
-Area,Item,Year,Unit,Value
-Brazil,"Oilcrops, Other",2010,kcal/capita/day,18.31
-Brazil,"Oilcrops, Other",2011,kcal/capita/day,19.05
-Brazil,"Oilcrops, Other",2012,kcal/capita/day,18.46
-Brazil,"Oilcrops, Other",2013,kcal/capita/day,18.3
-Brazil,"Oilcrops, Other",2014,kcal/capita/day,19.08
-Brazil,"Oilcrops, Other",2015,kcal/capita/day,20.52
-Brazil,"Oilcrops, Other",2016,kcal/capita/day,19.87
-Brazil,"Oilcrops, Other",2017,kcal/capita/day,21.08
-Brazil,"Oilcrops, Other",2018,kcal/capita/day,21.9
-Brazil,"Oilcrops, Other",2019,kcal/capita/day,0
-Brazil,"Oilcrops, Other",2020,kcal/capita/day,0
-Brazil,Soyabean Oil,2010,kcal/capita/day,284.62
-Brazil,Soyabean Oil,2011,kcal/capita/day,284.48
-Brazil,Soyabean Oil,2012,kcal/capita/day,283.16
-Brazil,Soyabean Oil,2013,kcal/capita/day,283.11
-Brazil,Soyabean Oil,2014,kcal/capita/day,301.6
-Brazil,Soyabean Oil,2015,kcal/capita/day,309.86
-Brazil,Soyabean Oil,2016,kcal/capita/day,308.37
-Brazil,Soyabean Oil,2017,kcal/capita/day,308.46
-Brazil,Soyabean Oil,2018,kcal/capita/day,307.55
-Brazil,Soyabean Oil,2019,kcal/capita/day,325.68
-Brazil,Soyabean Oil,2020,kcal/capita/day,313.22
-Brazil,Groundnut Oil,2010,kcal/capita/day,0.12
-Brazil,Groundnut Oil,2011,kcal/capita/day,0.13
-Brazil,Groundnut Oil,2012,kcal/capita/day,0.09
-Brazil,Groundnut Oil,2013,kcal/capita/day,0.48
-Brazil,Groundnut Oil,2014,kcal/capita/day,0.43
-Brazil,Groundnut Oil,2015,kcal/capita/day,1.12
-Brazil,Groundnut Oil,2016,kcal/capita/day,0
-Brazil,Groundnut Oil,2017,kcal/capita/day,0.1
-Brazil,Groundnut Oil,2018,kcal/capita/day,0.95
-Brazil,Groundnut Oil,2019,kcal/capita/day,0.65
-Brazil,Groundnut Oil,2020,kcal/capita/day,0.52
-Brazil,Sunflowerseed Oil,2010,kcal/capita/day,7.69
-Brazil,Sunflowerseed Oil,2011,kcal/capita/day,7.93
-Brazil,Sunflowerseed Oil,2012,kcal/capita/day,10.05
-Brazil,Sunflowerseed Oil,2013,kcal/capita/day,8.4
-Brazil,Sunflowerseed Oil,2014,kcal/capita/day,8.46
-Brazil,Sunflowerseed Oil,2015,kcal/capita/day,8.95
-Brazil,Sunflowerseed Oil,2016,kcal/capita/day,7.66
-Brazil,Sunflowerseed Oil,2017,kcal/capita/day,8.53
-Brazil,Sunflowerseed Oil,2018,kcal/capita/day,10.94
-Brazil,Sunflowerseed Oil,2019,kcal/capita/day,27.8
-Brazil,Sunflowerseed Oil,2020,kcal/capita/day,27.25
-Brazil,Cottonseed Oil,2010,kcal/capita/day,31.39
-Brazil,Cottonseed Oil,2011,kcal/capita/day,39.05
-Brazil,Cottonseed Oil,2012,kcal/capita/day,42.26
-Brazil,Cottonseed Oil,2013,kcal/capita/day,39.35
-Brazil,Cottonseed Oil,2014,kcal/capita/day,31.64
-Brazil,Cottonseed Oil,2015,kcal/capita/day,33.96
-Brazil,Cottonseed Oil,2016,kcal/capita/day,30.51
-Brazil,Cottonseed Oil,2017,kcal/capita/day,30.06
-Brazil,Cottonseed Oil,2018,kcal/capita/day,40.18
-Brazil,Cottonseed Oil,2019,kcal/capita/day,30.6
-Brazil,Cottonseed Oil,2020,kcal/capita/day,51.71
-Brazil,Palmkernel Oil,2010,kcal/capita/day,0
-Brazil,Palmkernel Oil,2011,kcal/capita/day,0
-Brazil,Palmkernel Oil,2012,kcal/capita/day,0
-Brazil,Palmkernel Oil,2013,kcal/capita/day,0
-Brazil,Palmkernel Oil,2014,kcal/capita/day,0
-Brazil,Palmkernel Oil,2015,kcal/capita/day,0
-Brazil,Palmkernel Oil,2016,kcal/capita/day,0
-Brazil,Palmkernel Oil,2017,kcal/capita/day,0
-Brazil,Palmkernel Oil,2018,kcal/capita/day,0
-Brazil,Palmkernel Oil,2019,kcal/capita/day,0
-Brazil,Palmkernel Oil,2020,kcal/capita/day,0
-Brazil,Palm Oil,2010,kcal/capita/day,45.12
-Brazil,Palm Oil,2011,kcal/capita/day,48.73
-Brazil,Palm Oil,2012,kcal/capita/day,54.88
-Brazil,Palm Oil,2013,kcal/capita/day,58.84
-Brazil,Palm Oil,2014,kcal/capita/day,61.6
-Brazil,Palm Oil,2015,kcal/capita/day,67.56
-Brazil,Palm Oil,2016,kcal/capita/day,66.87
-Brazil,Palm Oil,2017,kcal/capita/day,67.36
-Brazil,Palm Oil,2018,kcal/capita/day,66.88
-Brazil,Palm Oil,2019,kcal/capita/day,60.81
-Brazil,Palm Oil,2020,kcal/capita/day,88.25
-Brazil,Coconut Oil,2010,kcal/capita/day,0.32
-Brazil,Coconut Oil,2011,kcal/capita/day,0.33
-Brazil,Coconut Oil,2012,kcal/capita/day,0.34
-Brazil,Coconut Oil,2013,kcal/capita/day,0.33
-Brazil,Coconut Oil,2014,kcal/capita/day,0.32
-Brazil,Coconut Oil,2015,kcal/capita/day,0.33
-Brazil,Coconut Oil,2016,kcal/capita/day,0.33
-Brazil,Coconut Oil,2017,kcal/capita/day,0.33
-Brazil,Coconut Oil,2018,kcal/capita/day,0.33
-Brazil,Coconut Oil,2019,kcal/capita/day,0.93
-Brazil,Coconut Oil,2020,kcal/capita/day,1.09
-Brazil,Sesameseed Oil,2010,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2011,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2012,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2013,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2014,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2015,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2016,kcal/capita/day,0.1
-Brazil,Sesameseed Oil,2017,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2018,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2019,kcal/capita/day,0.11
-Brazil,Sesameseed Oil,2020,kcal/capita/day,0.1
-Brazil,Olive Oil,2010,kcal/capita/day,6.91
-Brazil,Olive Oil,2011,kcal/capita/day,7.82
-Brazil,Olive Oil,2012,kcal/capita/day,9.44
-Brazil,Olive Oil,2013,kcal/capita/day,8.82
-Brazil,Olive Oil,2014,kcal/capita/day,8.88
-Brazil,Olive Oil,2015,kcal/capita/day,6.82
-Brazil,Olive Oil,2016,kcal/capita/day,6.7
-Brazil,Olive Oil,2017,kcal/capita/day,7.04
-Brazil,Olive Oil,2018,kcal/capita/day,9.23
-Brazil,Olive Oil,2019,kcal/capita/day,10.38
-Brazil,Olive Oil,2020,kcal/capita/day,12.47
-Brazil,Ricebran Oil,2010,kcal/capita/day,1.86
-Brazil,Ricebran Oil,2011,kcal/capita/day,1.86
-Brazil,Ricebran Oil,2012,kcal/capita/day,1.87
-Brazil,Ricebran Oil,2013,kcal/capita/day,1.87
-Brazil,Ricebran Oil,2014,kcal/capita/day,1.87
-Brazil,Ricebran Oil,2015,kcal/capita/day,1.86
-Brazil,Ricebran Oil,2016,kcal/capita/day,1.85
-Brazil,Ricebran Oil,2017,kcal/capita/day,1.85
-Brazil,Ricebran Oil,2018,kcal/capita/day,1.85
-Brazil,Ricebran Oil,2019,kcal/capita/day,2.11
-Brazil,Ricebran Oil,2020,kcal/capita/day,1.65
-Brazil,Maize Germ Oil,2010,kcal/capita/day,1.91
-Brazil,Maize Germ Oil,2011,kcal/capita/day,1.92
-Brazil,Maize Germ Oil,2012,kcal/capita/day,1.92
-Brazil,Maize Germ Oil,2013,kcal/capita/day,1.92
-Brazil,Maize Germ Oil,2014,kcal/capita/day,1.92
-Brazil,Maize Germ Oil,2015,kcal/capita/day,1.91
-Brazil,Maize Germ Oil,2016,kcal/capita/day,1.91
-Brazil,Maize Germ Oil,2017,kcal/capita/day,1.91
-Brazil,Maize Germ Oil,2018,kcal/capita/day,1.91
-Brazil,Maize Germ Oil,2019,kcal/capita/day,11.21
-Brazil,Maize Germ Oil,2020,kcal/capita/day,3.89
-Brazil,"Oilcrops Oil, Other",2010,kcal/capita/day,49.02
-Brazil,"Oilcrops Oil, Other",2011,kcal/capita/day,49.17
-Brazil,"Oilcrops Oil, Other",2012,kcal/capita/day,49.22
-Brazil,"Oilcrops Oil, Other",2013,kcal/capita/day,49.32
-Brazil,"Oilcrops Oil, Other",2014,kcal/capita/day,49.31
-Brazil,"Oilcrops Oil, Other",2015,kcal/capita/day,49.08
-Brazil,"Oilcrops Oil, Other",2016,kcal/capita/day,48.85
-Brazil,"Oilcrops Oil, Other",2017,kcal/capita/day,48.86
-Brazil,"Oilcrops Oil, Other",2018,kcal/capita/day,48.9
-Brazil,"Oilcrops Oil, Other",2019,kcal/capita/day,82.4
-Brazil,"Oilcrops Oil, Other",2020,kcal/capita/day,77.9
-China,"Oilcrops, Other",2010,kcal/capita/day,0.05
-China,"Oilcrops, Other",2011,kcal/capita/day,0.04
-China,"Oilcrops, Other",2012,kcal/capita/day,0
-China,"Oilcrops, Other",2013,kcal/capita/day,0.01
-China,"Oilcrops, Other",2014,kcal/capita/day,0.01
-China,"Oilcrops, Other",2015,kcal/capita/day,0.01
-China,"Oilcrops, Other",2016,kcal/capita/day,0.01
-China,"Oilcrops, Other",2017,kcal/capita/day,0.01
-China,"Oilcrops, Other",2018,kcal/capita/day,0.01
-China,"Oilcrops, Other",2019,kcal/capita/day,0.01
-China,"Oilcrops, Other",2020,kcal/capita/day,0.02
-China,Soyabean Oil,2010,kcal/capita/day,51.03
-China,Soyabean Oil,2011,kcal/capita/day,51.14
-China,Soyabean Oil,2012,kcal/capita/day,53.69
-China,Soyabean Oil,2013,kcal/capita/day,55.94
-China,Soyabean Oil,2014,kcal/capita/day,60.34
-China,Soyabean Oil,2015,kcal/capita/day,63.49
-China,Soyabean Oil,2016,kcal/capita/day,64.97
-China,Soyabean Oil,2017,kcal/capita/day,68.18
-China,Soyabean Oil,2018,kcal/capita/day,70.06
-China,Soyabean Oil,2019,kcal/capita/day,70.58
-China,Soyabean Oil,2020,kcal/capita/day,73.97
-China,Groundnut Oil,2010,kcal/capita/day,19.04
-China,Groundnut Oil,2011,kcal/capita/day,17.76
-China,Groundnut Oil,2012,kcal/capita/day,16.04
-China,Groundnut Oil,2013,kcal/capita/day,16.73
-China,Groundnut Oil,2014,kcal/capita/day,17.4
-China,Groundnut Oil,2015,kcal/capita/day,18.03
-China,Groundnut Oil,2016,kcal/capita/day,18.82
-China,Groundnut Oil,2017,kcal/capita/day,19.49
-China,Groundnut Oil,2018,kcal/capita/day,19.38
-China,Groundnut Oil,2019,kcal/capita/day,16.75
-China,Groundnut Oil,2020,kcal/capita/day,20.2
-China,Sunflowerseed Oil,2010,kcal/capita/day,3.35
-China,Sunflowerseed Oil,2011,kcal/capita/day,3.39
-China,Sunflowerseed Oil,2012,kcal/capita/day,3.66
-China,Sunflowerseed Oil,2013,kcal/capita/day,3.8
-China,Sunflowerseed Oil,2014,kcal/capita/day,3.99
-China,Sunflowerseed Oil,2015,kcal/capita/day,4.08
-China,Sunflowerseed Oil,2016,kcal/capita/day,4.17
-China,Sunflowerseed Oil,2017,kcal/capita/day,4.35
-China,Sunflowerseed Oil,2018,kcal/capita/day,4.48
-China,Sunflowerseed Oil,2019,kcal/capita/day,5.19
-China,Sunflowerseed Oil,2020,kcal/capita/day,5.23
-China,Rape and Mustard Oil,2010,kcal/capita/day,34.23
-China,Rape and Mustard Oil,2011,kcal/capita/day,31.2
-China,Rape and Mustard Oil,2012,kcal/capita/day,31.92
-China,Rape and Mustard Oil,2013,kcal/capita/day,34.45
-China,Rape and Mustard Oil,2014,kcal/capita/day,35.38
-China,Rape and Mustard Oil,2015,kcal/capita/day,33.87
-China,Rape and Mustard Oil,2016,kcal/capita/day,35.98
-China,Rape and Mustard Oil,2017,kcal/capita/day,34.37
-China,Rape and Mustard Oil,2018,kcal/capita/day,35.46
-China,Rape and Mustard Oil,2019,kcal/capita/day,31.08
-China,Rape and Mustard Oil,2020,kcal/capita/day,43
-China,Cottonseed Oil,2010,kcal/capita/day,14.92
-China,Cottonseed Oil,2011,kcal/capita/day,14.83
-China,Cottonseed Oil,2012,kcal/capita/day,15.21
-China,Cottonseed Oil,2013,kcal/capita/day,13.87
-China,Cottonseed Oil,2014,kcal/capita/day,14.43
-China,Cottonseed Oil,2015,kcal/capita/day,14.97
-China,Cottonseed Oil,2016,kcal/capita/day,15.55
-China,Cottonseed Oil,2017,kcal/capita/day,13.95
-China,Cottonseed Oil,2018,kcal/capita/day,13.89
-China,Cottonseed Oil,2019,kcal/capita/day,14.37
-China,Cottonseed Oil,2020,kcal/capita/day,14.04
-China,Palmkernel Oil,2010,kcal/capita/day,1.23
-China,Palmkernel Oil,2011,kcal/capita/day,1.29
-China,Palmkernel Oil,2012,kcal/capita/day,1.36
-China,Palmkernel Oil,2013,kcal/capita/day,1.41
-China,Palmkernel Oil,2014,kcal/capita/day,1.47
-China,Palmkernel Oil,2015,kcal/capita/day,1.51
-China,Palmkernel Oil,2016,kcal/capita/day,1.57
-China,Palmkernel Oil,2017,kcal/capita/day,1.63
-China,Palmkernel Oil,2018,kcal/capita/day,1.68
-China,Palmkernel Oil,2019,kcal/capita/day,1.96
-China,Palmkernel Oil,2020,kcal/capita/day,1.98
-China,Palm Oil,2010,kcal/capita/day,52.17
-China,Palm Oil,2011,kcal/capita/day,53.62
-China,Palm Oil,2012,kcal/capita/day,48.96
-China,Palm Oil,2013,kcal/capita/day,50.87
-China,Palm Oil,2014,kcal/capita/day,53.02
-China,Palm Oil,2015,kcal/capita/day,54.72
-China,Palm Oil,2016,kcal/capita/day,56.76
-China,Palm Oil,2017,kcal/capita/day,51.61
-China,Palm Oil,2018,kcal/capita/day,53.13
-China,Palm Oil,2019,kcal/capita/day,66.23
-China,Palm Oil,2020,kcal/capita/day,60.47
-China,Coconut Oil,2010,kcal/capita/day,5.43
-China,Coconut Oil,2011,kcal/capita/day,3.03
-China,Coconut Oil,2012,kcal/capita/day,3.68
-China,Coconut Oil,2013,kcal/capita/day,2.34
-China,Coconut Oil,2014,kcal/capita/day,2.47
-China,Coconut Oil,2015,kcal/capita/day,2.54
-China,Coconut Oil,2016,kcal/capita/day,2.34
-China,Coconut Oil,2017,kcal/capita/day,2.33
-China,Coconut Oil,2018,kcal/capita/day,2.53
-China,Coconut Oil,2019,kcal/capita/day,2.94
-China,Coconut Oil,2020,kcal/capita/day,2.75
-China,Sesameseed Oil,2010,kcal/capita/day,3.69
-China,Sesameseed Oil,2011,kcal/capita/day,3.84
-China,Sesameseed Oil,2012,kcal/capita/day,4
-China,Sesameseed Oil,2013,kcal/capita/day,4.17
-China,Sesameseed Oil,2014,kcal/capita/day,4.33
-China,Sesameseed Oil,2015,kcal/capita/day,4.48
-China,Sesameseed Oil,2016,kcal/capita/day,4.65
-China,Sesameseed Oil,2017,kcal/capita/day,4.82
-China,Sesameseed Oil,2018,kcal/capita/day,4.98
-China,Sesameseed Oil,2019,kcal/capita/day,5.15
-China,Sesameseed Oil,2020,kcal/capita/day,4.83
-China,Olive Oil,2010,kcal/capita/day,0.64
-China,Olive Oil,2011,kcal/capita/day,0.71
-China,Olive Oil,2012,kcal/capita/day,0.77
-China,Olive Oil,2013,kcal/capita/day,0.72
-China,Olive Oil,2014,kcal/capita/day,0.79
-China,Olive Oil,2015,kcal/capita/day,0.71
-China,Olive Oil,2016,kcal/capita/day,0.79
-China,Olive Oil,2017,kcal/capita/day,0.76
-China,Olive Oil,2018,kcal/capita/day,0.78
-China,Olive Oil,2019,kcal/capita/day,0.97
-China,Olive Oil,2020,kcal/capita/day,1
-China,Ricebran Oil,2010,kcal/capita/day,1.95
-China,Ricebran Oil,2011,kcal/capita/day,1.95
-China,Ricebran Oil,2012,kcal/capita/day,1.8
-China,Ricebran Oil,2013,kcal/capita/day,1.88
-China,Ricebran Oil,2014,kcal/capita/day,1.96
-China,Ricebran Oil,2015,kcal/capita/day,2.03
-China,Ricebran Oil,2016,kcal/capita/day,2.11
-China,Ricebran Oil,2017,kcal/capita/day,2.19
-China,Ricebran Oil,2018,kcal/capita/day,2.22
-China,Ricebran Oil,2019,kcal/capita/day,1.98
-China,Ricebran Oil,2020,kcal/capita/day,1.98
-China,Maize Germ Oil,2010,kcal/capita/day,3.79
-China,Maize Germ Oil,2011,kcal/capita/day,3.93
-China,Maize Germ Oil,2012,kcal/capita/day,4.13
-China,Maize Germ Oil,2013,kcal/capita/day,4.26
-China,Maize Germ Oil,2014,kcal/capita/day,4.42
-China,Maize Germ Oil,2015,kcal/capita/day,4.58
-China,Maize Germ Oil,2016,kcal/capita/day,4.75
-China,Maize Germ Oil,2017,kcal/capita/day,4.93
-China,Maize Germ Oil,2018,kcal/capita/day,5.08
-China,Maize Germ Oil,2019,kcal/capita/day,5.89
-China,Maize Germ Oil,2020,kcal/capita/day,5.97
-China,"Oilcrops Oil, Other",2010,kcal/capita/day,1.48
-China,"Oilcrops Oil, Other",2011,kcal/capita/day,1.48
-China,"Oilcrops Oil, Other",2012,kcal/capita/day,1.57
-China,"Oilcrops Oil, Other",2013,kcal/capita/day,1.58
-China,"Oilcrops Oil, Other",2014,kcal/capita/day,1.86
-China,"Oilcrops Oil, Other",2015,kcal/capita/day,1.67
-China,"Oilcrops Oil, Other",2016,kcal/capita/day,1.56
-China,"Oilcrops Oil, Other",2017,kcal/capita/day,1.6
-China,"Oilcrops Oil, Other",2018,kcal/capita/day,1.72
-China,"Oilcrops Oil, Other",2019,kcal/capita/day,1.82
-China,"Oilcrops Oil, Other",2020,kcal/capita/day,1.76
-Germany,"Oilcrops, Other",2010,kcal/capita/day,1.57
-Germany,"Oilcrops, Other",2011,kcal/capita/day,1.67
-Germany,"Oilcrops, Other",2012,kcal/capita/day,1.79
-Germany,"Oilcrops, Other",2013,kcal/capita/day,1.63
-Germany,"Oilcrops, Other",2014,kcal/capita/day,1.75
-Germany,"Oilcrops, Other",2015,kcal/capita/day,1.75
-Germany,"Oilcrops, Other",2016,kcal/capita/day,1.76
-Germany,"Oilcrops, Other",2017,kcal/capita/day,1.75
-Germany,"Oilcrops, Other",2018,kcal/capita/day,1.56
-Germany,"Oilcrops, Other",2019,kcal/capita/day,0.93
-Germany,"Oilcrops, Other",2020,kcal/capita/day,1.06
-Germany,Soyabean Oil,2010,kcal/capita/day,125.45
-Germany,Soyabean Oil,2011,kcal/capita/day,125.63
-Germany,Soyabean Oil,2012,kcal/capita/day,125.78
-Germany,Soyabean Oil,2013,kcal/capita/day,125.89
-Germany,Soyabean Oil,2014,kcal/capita/day,103.93
-Germany,Soyabean Oil,2015,kcal/capita/day,85.67
-Germany,Soyabean Oil,2016,kcal/capita/day,116.86
-Germany,Soyabean Oil,2017,kcal/capita/day,120.58
-Germany,Soyabean Oil,2018,kcal/capita/day,123.35
-Germany,Soyabean Oil,2019,kcal/capita/day,129.05
-Germany,Soyabean Oil,2020,kcal/capita/day,130.08
-Germany,Groundnut Oil,2010,kcal/capita/day,1.6
-Germany,Groundnut Oil,2011,kcal/capita/day,1.48
-Germany,Groundnut Oil,2012,kcal/capita/day,1.11
-Germany,Groundnut Oil,2013,kcal/capita/day,1.15
-Germany,Groundnut Oil,2014,kcal/capita/day,1.17
-Germany,Groundnut Oil,2015,kcal/capita/day,0.59
-Germany,Groundnut Oil,2016,kcal/capita/day,0.33
-Germany,Groundnut Oil,2017,kcal/capita/day,0.34
-Germany,Groundnut Oil,2018,kcal/capita/day,0.38
-Germany,Groundnut Oil,2019,kcal/capita/day,0.89
-Germany,Groundnut Oil,2020,kcal/capita/day,0.71
-Germany,Sunflowerseed Oil,2010,kcal/capita/day,71.71
-Germany,Sunflowerseed Oil,2011,kcal/capita/day,72.09
-Germany,Sunflowerseed Oil,2012,kcal/capita/day,76.85
-Germany,Sunflowerseed Oil,2013,kcal/capita/day,75.42
-Germany,Sunflowerseed Oil,2014,kcal/capita/day,77.26
-Germany,Sunflowerseed Oil,2015,kcal/capita/day,82.81
-Germany,Sunflowerseed Oil,2016,kcal/capita/day,82.18
-Germany,Sunflowerseed Oil,2017,kcal/capita/day,90.76
-Germany,Sunflowerseed Oil,2018,kcal/capita/day,99.56
-Germany,Sunflowerseed Oil,2019,kcal/capita/day,112.77
-Germany,Sunflowerseed Oil,2020,kcal/capita/day,109.31
-Germany,Rape and Mustard Oil,2010,kcal/capita/day,119.51
-Germany,Rape and Mustard Oil,2011,kcal/capita/day,117.47
-Germany,Rape and Mustard Oil,2012,kcal/capita/day,131.95
-Germany,Rape and Mustard Oil,2013,kcal/capita/day,127.39
-Germany,Rape and Mustard Oil,2014,kcal/capita/day,132.44
-Germany,Rape and Mustard Oil,2015,kcal/capita/day,133.32
-Germany,Rape and Mustard Oil,2016,kcal/capita/day,132.16
-Germany,Rape and Mustard Oil,2017,kcal/capita/day,132.41
-Germany,Rape and Mustard Oil,2018,kcal/capita/day,132.62
-Germany,Rape and Mustard Oil,2019,kcal/capita/day,138.28
-Germany,Rape and Mustard Oil,2020,kcal/capita/day,134.91
-Germany,Cottonseed Oil,2014,kcal/capita/day,0
-Germany,Cottonseed Oil,2015,kcal/capita/day,0
-Germany,Cottonseed Oil,2016,kcal/capita/day,0
-Germany,Cottonseed Oil,2017,kcal/capita/day,0
-Germany,Cottonseed Oil,2019,kcal/capita/day,0
-Germany,Cottonseed Oil,2020,kcal/capita/day,0
-Germany,Palmkernel Oil,2014,kcal/capita/day,0
-Germany,Palmkernel Oil,2015,kcal/capita/day,0
-Germany,Palmkernel Oil,2016,kcal/capita/day,0
-Germany,Palmkernel Oil,2017,kcal/capita/day,0
-Germany,Palmkernel Oil,2019,kcal/capita/day,0
-Germany,Palmkernel Oil,2020,kcal/capita/day,0
-Germany,Palm Oil,2010,kcal/capita/day,45.04
-Germany,Palm Oil,2011,kcal/capita/day,33.16
-Germany,Palm Oil,2012,kcal/capita/day,38.06
-Germany,Palm Oil,2013,kcal/capita/day,37.04
-Germany,Palm Oil,2014,kcal/capita/day,39.92
-Germany,Palm Oil,2015,kcal/capita/day,39.63
-Germany,Palm Oil,2016,kcal/capita/day,64.7
-Germany,Palm Oil,2017,kcal/capita/day,65.18
-Germany,Palm Oil,2018,kcal/capita/day,47.59
-Germany,Palm Oil,2019,kcal/capita/day,53.04
-Germany,Palm Oil,2020,kcal/capita/day,51.85
-Germany,Coconut Oil,2010,kcal/capita/day,27.44
-Germany,Coconut Oil,2011,kcal/capita/day,31.93
-Germany,Coconut Oil,2012,kcal/capita/day,28.65
-Germany,Coconut Oil,2013,kcal/capita/day,34.12
-Germany,Coconut Oil,2014,kcal/capita/day,31.04
-Germany,Coconut Oil,2015,kcal/capita/day,31.67
-Germany,Coconut Oil,2016,kcal/capita/day,8.91
-Germany,Coconut Oil,2017,kcal/capita/day,9.05
-Germany,Coconut Oil,2018,kcal/capita/day,26.01
-Germany,Coconut Oil,2019,kcal/capita/day,18.93
-Germany,Coconut Oil,2020,kcal/capita/day,19.89
-Germany,Sesameseed Oil,2010,kcal/capita/day,1.47
-Germany,Sesameseed Oil,2011,kcal/capita/day,1.81
-Germany,Sesameseed Oil,2012,kcal/capita/day,1.94
-Germany,Sesameseed Oil,2013,kcal/capita/day,1.88
-Germany,Sesameseed Oil,2014,kcal/capita/day,2.09
-Germany,Sesameseed Oil,2015,kcal/capita/day,2.05
-Germany,Sesameseed Oil,2016,kcal/capita/day,1.95
-Germany,Sesameseed Oil,2017,kcal/capita/day,1.97
-Germany,Sesameseed Oil,2018,kcal/capita/day,1.91
-Germany,Sesameseed Oil,2019,kcal/capita/day,1.96
-Germany,Sesameseed Oil,2020,kcal/capita/day,1.94
-Germany,Olive Oil,2010,kcal/capita/day,15.36
-Germany,Olive Oil,2011,kcal/capita/day,17.32
-Germany,Olive Oil,2012,kcal/capita/day,17.69
-Germany,Olive Oil,2013,kcal/capita/day,18.01
-Germany,Olive Oil,2014,kcal/capita/day,18.11
-Germany,Olive Oil,2015,kcal/capita/day,18.13
-Germany,Olive Oil,2016,kcal/capita/day,18.15
-Germany,Olive Oil,2017,kcal/capita/day,18.18
-Germany,Olive Oil,2018,kcal/capita/day,18.2
-Germany,Olive Oil,2019,kcal/capita/day,18.41
-Germany,Olive Oil,2020,kcal/capita/day,21.75
-Germany,Maize Germ Oil,2010,kcal/capita/day,4.89
-Germany,Maize Germ Oil,2011,kcal/capita/day,3.36
-Germany,Maize Germ Oil,2012,kcal/capita/day,3.77
-Germany,Maize Germ Oil,2013,kcal/capita/day,3.63
-Germany,Maize Germ Oil,2014,kcal/capita/day,3.67
-Germany,Maize Germ Oil,2015,kcal/capita/day,3.68
-Germany,Maize Germ Oil,2016,kcal/capita/day,3.22
-Germany,Maize Germ Oil,2017,kcal/capita/day,3.69
-Germany,Maize Germ Oil,2018,kcal/capita/day,3.69
-Germany,Maize Germ Oil,2019,kcal/capita/day,4.5
-Germany,Maize Germ Oil,2020,kcal/capita/day,4.99
-Germany,"Oilcrops Oil, Other",2010,kcal/capita/day,12.18
-Germany,"Oilcrops Oil, Other",2011,kcal/capita/day,11.95
-Germany,"Oilcrops Oil, Other",2012,kcal/capita/day,12.09
-Germany,"Oilcrops Oil, Other",2013,kcal/capita/day,12.07
-Germany,"Oilcrops Oil, Other",2014,kcal/capita/day,12.75
-Germany,"Oilcrops Oil, Other",2015,kcal/capita/day,11.98
-Germany,"Oilcrops Oil, Other",2016,kcal/capita/day,12.06
-Germany,"Oilcrops Oil, Other",2017,kcal/capita/day,11.2
-Germany,"Oilcrops Oil, Other",2018,kcal/capita/day,21.43
-Germany,"Oilcrops Oil, Other",2019,kcal/capita/day,54.28
-Germany,"Oilcrops Oil, Other",2020,kcal/capita/day,50.38
-Indonesia,"Oilcrops, Other",2010,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2011,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2012,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2013,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2014,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2015,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2016,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2017,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2018,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2019,kcal/capita/day,0
-Indonesia,"Oilcrops, Other",2020,kcal/capita/day,0
-Indonesia,Soyabean Oil,2010,kcal/capita/day,40.82
-Indonesia,Soyabean Oil,2011,kcal/capita/day,41.41
-Indonesia,Soyabean Oil,2012,kcal/capita/day,41.98
-Indonesia,Soyabean Oil,2013,kcal/capita/day,42.51
-Indonesia,Soyabean Oil,2014,kcal/capita/day,42.98
-Indonesia,Soyabean Oil,2015,kcal/capita/day,43.43
-Indonesia,Soyabean Oil,2016,kcal/capita/day,43.9
-Indonesia,Soyabean Oil,2017,kcal/capita/day,44.36
-Indonesia,Soyabean Oil,2018,kcal/capita/day,44.91
-Indonesia,Soyabean Oil,2019,kcal/capita/day,43.53
-Indonesia,Soyabean Oil,2020,kcal/capita/day,43.11
-Indonesia,Groundnut Oil,2010,kcal/capita/day,3.21
-Indonesia,Groundnut Oil,2011,kcal/capita/day,2.8
-Indonesia,Groundnut Oil,2012,kcal/capita/day,2.57
-Indonesia,Groundnut Oil,2013,kcal/capita/day,2.6
-Indonesia,Groundnut Oil,2014,kcal/capita/day,2.72
-Indonesia,Groundnut Oil,2015,kcal/capita/day,2.75
-Indonesia,Groundnut Oil,2016,kcal/capita/day,2.52
-Indonesia,Groundnut Oil,2017,kcal/capita/day,2.44
-Indonesia,Groundnut Oil,2018,kcal/capita/day,2.45
-Indonesia,Groundnut Oil,2019,kcal/capita/day,2.39
-Indonesia,Groundnut Oil,2020,kcal/capita/day,2.19
-Indonesia,Sunflowerseed Oil,2010,kcal/capita/day,0.75
-Indonesia,Sunflowerseed Oil,2011,kcal/capita/day,0.76
-Indonesia,Sunflowerseed Oil,2012,kcal/capita/day,0.77
-Indonesia,Sunflowerseed Oil,2013,kcal/capita/day,0.78
-Indonesia,Sunflowerseed Oil,2014,kcal/capita/day,0.79
-Indonesia,Sunflowerseed Oil,2015,kcal/capita/day,0.8
-Indonesia,Sunflowerseed Oil,2016,kcal/capita/day,0.81
-Indonesia,Sunflowerseed Oil,2017,kcal/capita/day,0.81
-Indonesia,Sunflowerseed Oil,2018,kcal/capita/day,0.82
-Indonesia,Sunflowerseed Oil,2019,kcal/capita/day,0.8
-Indonesia,Sunflowerseed Oil,2020,kcal/capita/day,0.79
-Indonesia,Rape and Mustard Oil,2010,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2011,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2012,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2013,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2014,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2015,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2016,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2017,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2018,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2019,kcal/capita/day,0
-Indonesia,Rape and Mustard Oil,2020,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2010,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2011,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2012,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2013,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2014,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2015,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2016,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2017,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2018,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2019,kcal/capita/day,0
-Indonesia,Cottonseed Oil,2020,kcal/capita/day,0
-Indonesia,Palmkernel Oil,2010,kcal/capita/day,25.29
-Indonesia,Palmkernel Oil,2011,kcal/capita/day,26.95
-Indonesia,Palmkernel Oil,2012,kcal/capita/day,50.26
-Indonesia,Palmkernel Oil,2013,kcal/capita/day,46.88
-Indonesia,Palmkernel Oil,2014,kcal/capita/day,54.71
-Indonesia,Palmkernel Oil,2015,kcal/capita/day,55.27
-Indonesia,Palmkernel Oil,2016,kcal/capita/day,55.87
-Indonesia,Palmkernel Oil,2017,kcal/capita/day,56.46
-Indonesia,Palmkernel Oil,2018,kcal/capita/day,57.16
-Indonesia,Palmkernel Oil,2019,kcal/capita/day,63.85
-Indonesia,Palmkernel Oil,2020,kcal/capita/day,78.37
-Indonesia,Palm Oil,2010,kcal/capita/day,72.69
-Indonesia,Palm Oil,2011,kcal/capita/day,56.96
-Indonesia,Palm Oil,2012,kcal/capita/day,67.25
-Indonesia,Palm Oil,2013,kcal/capita/day,79.11
-Indonesia,Palm Oil,2014,kcal/capita/day,94.36
-Indonesia,Palm Oil,2015,kcal/capita/day,44.35
-Indonesia,Palm Oil,2016,kcal/capita/day,123.19
-Indonesia,Palm Oil,2017,kcal/capita/day,134.08
-Indonesia,Palm Oil,2018,kcal/capita/day,131.98
-Indonesia,Palm Oil,2019,kcal/capita/day,147.44
-Indonesia,Palm Oil,2020,kcal/capita/day,190.26
-Indonesia,Coconut Oil,2010,kcal/capita/day,27.27
-Indonesia,Coconut Oil,2011,kcal/capita/day,21.31
-Indonesia,Coconut Oil,2012,kcal/capita/day,9.98
-Indonesia,Coconut Oil,2013,kcal/capita/day,27.82
-Indonesia,Coconut Oil,2014,kcal/capita/day,13.15
-Indonesia,Coconut Oil,2015,kcal/capita/day,13.27
-Indonesia,Coconut Oil,2016,kcal/capita/day,35.21
-Indonesia,Coconut Oil,2017,kcal/capita/day,38.4
-Indonesia,Coconut Oil,2018,kcal/capita/day,23.4
-Indonesia,Coconut Oil,2019,kcal/capita/day,37.64
-Indonesia,Coconut Oil,2020,kcal/capita/day,5.15
-Indonesia,Sesameseed Oil,2010,kcal/capita/day,0.06
-Indonesia,Sesameseed Oil,2011,kcal/capita/day,0.05
-Indonesia,Sesameseed Oil,2012,kcal/capita/day,0.09
-Indonesia,Sesameseed Oil,2013,kcal/capita/day,0.05
-Indonesia,Sesameseed Oil,2014,kcal/capita/day,0.05
-Indonesia,Sesameseed Oil,2015,kcal/capita/day,0.04
-Indonesia,Sesameseed Oil,2016,kcal/capita/day,0.07
-Indonesia,Sesameseed Oil,2017,kcal/capita/day,0.07
-Indonesia,Sesameseed Oil,2018,kcal/capita/day,0.07
-Indonesia,Sesameseed Oil,2019,kcal/capita/day,0.05
-Indonesia,Sesameseed Oil,2020,kcal/capita/day,0.05
-Indonesia,Olive Oil,2010,kcal/capita/day,0.1
-Indonesia,Olive Oil,2011,kcal/capita/day,0.11
-Indonesia,Olive Oil,2012,kcal/capita/day,0.12
-Indonesia,Olive Oil,2013,kcal/capita/day,0.13
-Indonesia,Olive Oil,2014,kcal/capita/day,0.11
-Indonesia,Olive Oil,2015,kcal/capita/day,0.12
-Indonesia,Olive Oil,2016,kcal/capita/day,0.12
-Indonesia,Olive Oil,2017,kcal/capita/day,0.13
-Indonesia,Olive Oil,2018,kcal/capita/day,0.22
-Indonesia,Olive Oil,2019,kcal/capita/day,0.3
-Indonesia,Olive Oil,2020,kcal/capita/day,0.27
-Indonesia,Ricebran Oil,2010,kcal/capita/day,0
-Indonesia,Ricebran Oil,2011,kcal/capita/day,0
-Indonesia,Ricebran Oil,2012,kcal/capita/day,0
-Indonesia,Ricebran Oil,2013,kcal/capita/day,0
-Indonesia,Ricebran Oil,2014,kcal/capita/day,0
-Indonesia,Ricebran Oil,2015,kcal/capita/day,0
-Indonesia,Ricebran Oil,2016,kcal/capita/day,0
-Indonesia,Ricebran Oil,2017,kcal/capita/day,0
-Indonesia,Ricebran Oil,2018,kcal/capita/day,0
-Indonesia,Ricebran Oil,2019,kcal/capita/day,0
-Indonesia,Ricebran Oil,2020,kcal/capita/day,0
-Indonesia,Maize Germ Oil,2010,kcal/capita/day,0.65
-Indonesia,Maize Germ Oil,2011,kcal/capita/day,0.66
-Indonesia,Maize Germ Oil,2012,kcal/capita/day,0.67
-Indonesia,Maize Germ Oil,2013,kcal/capita/day,0.67
-Indonesia,Maize Germ Oil,2014,kcal/capita/day,0.68
-Indonesia,Maize Germ Oil,2015,kcal/capita/day,0.69
-Indonesia,Maize Germ Oil,2016,kcal/capita/day,0.7
-Indonesia,Maize Germ Oil,2017,kcal/capita/day,0.7
-Indonesia,Maize Germ Oil,2018,kcal/capita/day,0.71
-Indonesia,Maize Germ Oil,2019,kcal/capita/day,0.69
-Indonesia,Maize Germ Oil,2020,kcal/capita/day,0.68
-Indonesia,"Oilcrops Oil, Other",2010,kcal/capita/day,7.91
-Indonesia,"Oilcrops Oil, Other",2011,kcal/capita/day,8.9
-Indonesia,"Oilcrops Oil, Other",2012,kcal/capita/day,10.19
-Indonesia,"Oilcrops Oil, Other",2013,kcal/capita/day,9.8
-Indonesia,"Oilcrops Oil, Other",2014,kcal/capita/day,5.97
-Indonesia,"Oilcrops Oil, Other",2015,kcal/capita/day,8.42
-Indonesia,"Oilcrops Oil, Other",2016,kcal/capita/day,8.29
-Indonesia,"Oilcrops Oil, Other",2017,kcal/capita/day,8.96
-Indonesia,"Oilcrops Oil, Other",2018,kcal/capita/day,9.07
-Indonesia,"Oilcrops Oil, Other",2019,kcal/capita/day,31.75
-Indonesia,"Oilcrops Oil, Other",2020,kcal/capita/day,25.82
-Israel,"Oilcrops, Other",2010,kcal/capita/day,1.52
-Israel,"Oilcrops, Other",2011,kcal/capita/day,1.61
-Israel,"Oilcrops, Other",2012,kcal/capita/day,1.37
-Israel,"Oilcrops, Other",2013,kcal/capita/day,1.99
-Israel,"Oilcrops, Other",2014,kcal/capita/day,1.58
-Israel,"Oilcrops, Other",2015,kcal/capita/day,1.39
-Israel,"Oilcrops, Other",2016,kcal/capita/day,1.73
-Israel,"Oilcrops, Other",2017,kcal/capita/day,2.25
-Israel,"Oilcrops, Other",2018,kcal/capita/day,0.85
-Israel,"Oilcrops, Other",2019,kcal/capita/day,2.56
-Israel,"Oilcrops, Other",2020,kcal/capita/day,2.27
-Israel,Soyabean Oil,2010,kcal/capita/day,141.55
-Israel,Soyabean Oil,2011,kcal/capita/day,142.3
-Israel,Soyabean Oil,2012,kcal/capita/day,142.41
-Israel,Soyabean Oil,2013,kcal/capita/day,144.02
-Israel,Soyabean Oil,2014,kcal/capita/day,113.43
-Israel,Soyabean Oil,2015,kcal/capita/day,150.51
-Israel,Soyabean Oil,2016,kcal/capita/day,166.27
-Israel,Soyabean Oil,2017,kcal/capita/day,163.28
-Israel,Soyabean Oil,2018,kcal/capita/day,154.27
-Israel,Soyabean Oil,2019,kcal/capita/day,153.35
-Israel,Soyabean Oil,2020,kcal/capita/day,141.94
-Israel,Groundnut Oil,2010,kcal/capita/day,0.04
-Israel,Groundnut Oil,2011,kcal/capita/day,0.02
-Israel,Groundnut Oil,2012,kcal/capita/day,0
-Israel,Groundnut Oil,2013,kcal/capita/day,0.02
-Israel,Groundnut Oil,2014,kcal/capita/day,0.02
-Israel,Groundnut Oil,2015,kcal/capita/day,0
-Israel,Groundnut Oil,2016,kcal/capita/day,0.02
-Israel,Groundnut Oil,2017,kcal/capita/day,0
-Israel,Groundnut Oil,2018,kcal/capita/day,0.02
-Israel,Groundnut Oil,2019,kcal/capita/day,0
-Israel,Groundnut Oil,2020,kcal/capita/day,0
-Israel,Sunflowerseed Oil,2010,kcal/capita/day,48.63
-Israel,Sunflowerseed Oil,2011,kcal/capita/day,48.88
-Israel,Sunflowerseed Oil,2012,kcal/capita/day,48.92
-Israel,Sunflowerseed Oil,2013,kcal/capita/day,49.13
-Israel,Sunflowerseed Oil,2014,kcal/capita/day,49.25
-Israel,Sunflowerseed Oil,2015,kcal/capita/day,49.33
-Israel,Sunflowerseed Oil,2016,kcal/capita/day,49.5
-Israel,Sunflowerseed Oil,2017,kcal/capita/day,49.63
-Israel,Sunflowerseed Oil,2018,kcal/capita/day,38.44
-Israel,Sunflowerseed Oil,2019,kcal/capita/day,28.33
-Israel,Sunflowerseed Oil,2020,kcal/capita/day,39.67
-Israel,Rape and Mustard Oil,2010,kcal/capita/day,142.28
-Israel,Rape and Mustard Oil,2011,kcal/capita/day,145.42
-Israel,Rape and Mustard Oil,2012,kcal/capita/day,188.89
-Israel,Rape and Mustard Oil,2013,kcal/capita/day,182.51
-Israel,Rape and Mustard Oil,2014,kcal/capita/day,191.84
-Israel,Rape and Mustard Oil,2015,kcal/capita/day,172.92
-Israel,Rape and Mustard Oil,2016,kcal/capita/day,178.7
-Israel,Rape and Mustard Oil,2017,kcal/capita/day,207.21
-Israel,Rape and Mustard Oil,2018,kcal/capita/day,158.74
-Israel,Rape and Mustard Oil,2019,kcal/capita/day,118.83
-Israel,Rape and Mustard Oil,2020,kcal/capita/day,141.86
-Israel,Cottonseed Oil,2010,kcal/capita/day,10.84
-Israel,Cottonseed Oil,2011,kcal/capita/day,10.9
-Israel,Cottonseed Oil,2012,kcal/capita/day,10.91
-Israel,Cottonseed Oil,2013,kcal/capita/day,10.95
-Israel,Cottonseed Oil,2014,kcal/capita/day,10.98
-Israel,Cottonseed Oil,2015,kcal/capita/day,11
-Israel,Cottonseed Oil,2016,kcal/capita/day,11.04
-Israel,Cottonseed Oil,2017,kcal/capita/day,11.06
-Israel,Cottonseed Oil,2018,kcal/capita/day,8.07
-Israel,Cottonseed Oil,2019,kcal/capita/day,6.26
-Israel,Cottonseed Oil,2020,kcal/capita/day,6.04
-Israel,Palmkernel Oil,2010,kcal/capita/day,6.2
-Israel,Palmkernel Oil,2011,kcal/capita/day,5.27
-Israel,Palmkernel Oil,2012,kcal/capita/day,5.31
-Israel,Palmkernel Oil,2013,kcal/capita/day,5.3
-Israel,Palmkernel Oil,2014,kcal/capita/day,5.58
-Israel,Palmkernel Oil,2015,kcal/capita/day,4.77
-Israel,Palmkernel Oil,2016,kcal/capita/day,5.61
-Israel,Palmkernel Oil,2017,kcal/capita/day,5.63
-Israel,Palmkernel Oil,2018,kcal/capita/day,5.64
-Israel,Palmkernel Oil,2019,kcal/capita/day,5.47
-Israel,Palmkernel Oil,2020,kcal/capita/day,2.9
-Israel,Palm Oil,2010,kcal/capita/day,64
-Israel,Palm Oil,2011,kcal/capita/day,64.34
-Israel,Palm Oil,2012,kcal/capita/day,64.39
-Israel,Palm Oil,2013,kcal/capita/day,64.67
-Israel,Palm Oil,2014,kcal/capita/day,64.82
-Israel,Palm Oil,2015,kcal/capita/day,64.93
-Israel,Palm Oil,2016,kcal/capita/day,65.15
-Israel,Palm Oil,2017,kcal/capita/day,65.33
-Israel,Palm Oil,2018,kcal/capita/day,65.46
-Israel,Palm Oil,2019,kcal/capita/day,21.32
-Israel,Palm Oil,2020,kcal/capita/day,11.75
-Israel,Coconut Oil,2010,kcal/capita/day,2.36
-Israel,Coconut Oil,2011,kcal/capita/day,5.85
-Israel,Coconut Oil,2012,kcal/capita/day,3.03
-Israel,Coconut Oil,2013,kcal/capita/day,2.38
-Israel,Coconut Oil,2014,kcal/capita/day,3.83
-Israel,Coconut Oil,2015,kcal/capita/day,0.88
-Israel,Coconut Oil,2016,kcal/capita/day,2.49
-Israel,Coconut Oil,2017,kcal/capita/day,2.74
-Israel,Coconut Oil,2018,kcal/capita/day,2.37
-Israel,Coconut Oil,2019,kcal/capita/day,5.09
-Israel,Coconut Oil,2020,kcal/capita/day,3.79
-Israel,Sesameseed Oil,2010,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2011,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2012,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2013,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2014,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2015,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2016,kcal/capita/day,0.33
-Israel,Sesameseed Oil,2017,kcal/capita/day,0.34
-Israel,Sesameseed Oil,2018,kcal/capita/day,0.34
-Israel,Sesameseed Oil,2019,kcal/capita/day,0.42
-Israel,Sesameseed Oil,2020,kcal/capita/day,0.51
-Israel,Olive Oil,2010,kcal/capita/day,50.19
-Israel,Olive Oil,2011,kcal/capita/day,45.76
-Israel,Olive Oil,2012,kcal/capita/day,49.42
-Israel,Olive Oil,2013,kcal/capita/day,42.75
-Israel,Olive Oil,2014,kcal/capita/day,59.77
-Israel,Olive Oil,2015,kcal/capita/day,70.58
-Israel,Olive Oil,2016,kcal/capita/day,76.86
-Israel,Olive Oil,2017,kcal/capita/day,68
-Israel,Olive Oil,2018,kcal/capita/day,74.88
-Israel,Olive Oil,2019,kcal/capita/day,64.91
-Israel,Olive Oil,2020,kcal/capita/day,75.73
-Israel,Maize Germ Oil,2010,kcal/capita/day,42.11
-Israel,Maize Germ Oil,2011,kcal/capita/day,38.23
-Israel,Maize Germ Oil,2012,kcal/capita/day,36.34
-Israel,Maize Germ Oil,2013,kcal/capita/day,34.92
-Israel,Maize Germ Oil,2014,kcal/capita/day,37.58
-Israel,Maize Germ Oil,2015,kcal/capita/day,30.76
-Israel,Maize Germ Oil,2016,kcal/capita/day,33.56
-Israel,Maize Germ Oil,2017,kcal/capita/day,39.58
-Israel,Maize Germ Oil,2018,kcal/capita/day,26.23
-Israel,Maize Germ Oil,2019,kcal/capita/day,27.18
-Israel,Maize Germ Oil,2020,kcal/capita/day,31.14
-Israel,"Oilcrops Oil, Other",2010,kcal/capita/day,103.6
-Israel,"Oilcrops Oil, Other",2011,kcal/capita/day,105.55
-Israel,"Oilcrops Oil, Other",2012,kcal/capita/day,118.97
-Israel,"Oilcrops Oil, Other",2013,kcal/capita/day,108.98
-Israel,"Oilcrops Oil, Other",2014,kcal/capita/day,118.77
-Israel,"Oilcrops Oil, Other",2015,kcal/capita/day,96.03
-Israel,"Oilcrops Oil, Other",2016,kcal/capita/day,84.49
-Israel,"Oilcrops Oil, Other",2017,kcal/capita/day,82.27
-Israel,"Oilcrops Oil, Other",2018,kcal/capita/day,67.33
-Israel,"Oilcrops Oil, Other",2019,kcal/capita/day,96.08
-Israel,"Oilcrops Oil, Other",2020,kcal/capita/day,90.07
-Italy,"Oilcrops, Other",2010,kcal/capita/day,0
-Italy,"Oilcrops, Other",2011,kcal/capita/day,0
-Italy,"Oilcrops, Other",2012,kcal/capita/day,0
-Italy,"Oilcrops, Other",2013,kcal/capita/day,0
-Italy,"Oilcrops, Other",2014,kcal/capita/day,0
-Italy,"Oilcrops, Other",2015,kcal/capita/day,0
-Italy,"Oilcrops, Other",2016,kcal/capita/day,0
-Italy,"Oilcrops, Other",2017,kcal/capita/day,0
-Italy,"Oilcrops, Other",2018,kcal/capita/day,0
-Italy,"Oilcrops, Other",2019,kcal/capita/day,0.01
-Italy,"Oilcrops, Other",2020,kcal/capita/day,0.01
-Italy,Soyabean Oil,2010,kcal/capita/day,149.12
-Italy,Soyabean Oil,2011,kcal/capita/day,148.63
-Italy,Soyabean Oil,2012,kcal/capita/day,138.54
-Italy,Soyabean Oil,2013,kcal/capita/day,136.09
-Italy,Soyabean Oil,2014,kcal/capita/day,105.58
-Italy,Soyabean Oil,2015,kcal/capita/day,102.62
-Italy,Soyabean Oil,2016,kcal/capita/day,119.47
-Italy,Soyabean Oil,2017,kcal/capita/day,121.9
-Italy,Soyabean Oil,2018,kcal/capita/day,117.77
-Italy,Soyabean Oil,2019,kcal/capita/day,123.97
-Italy,Soyabean Oil,2020,kcal/capita/day,157.15
-Italy,Groundnut Oil,2010,kcal/capita/day,16.69
-Italy,Groundnut Oil,2011,kcal/capita/day,16.88
-Italy,Groundnut Oil,2012,kcal/capita/day,13.72
-Italy,Groundnut Oil,2013,kcal/capita/day,14.76
-Italy,Groundnut Oil,2014,kcal/capita/day,15.29
-Italy,Groundnut Oil,2015,kcal/capita/day,15.31
-Italy,Groundnut Oil,2016,kcal/capita/day,15.33
-Italy,Groundnut Oil,2017,kcal/capita/day,15.38
-Italy,Groundnut Oil,2018,kcal/capita/day,17.44
-Italy,Groundnut Oil,2019,kcal/capita/day,19.64
-Italy,Groundnut Oil,2020,kcal/capita/day,16.76
-Italy,Sunflowerseed Oil,2010,kcal/capita/day,95.06
-Italy,Sunflowerseed Oil,2011,kcal/capita/day,96.05
-Italy,Sunflowerseed Oil,2012,kcal/capita/day,106.69
-Italy,Sunflowerseed Oil,2013,kcal/capita/day,101.32
-Italy,Sunflowerseed Oil,2014,kcal/capita/day,102.51
-Italy,Sunflowerseed Oil,2015,kcal/capita/day,102.66
-Italy,Sunflowerseed Oil,2016,kcal/capita/day,102.82
-Italy,Sunflowerseed Oil,2017,kcal/capita/day,103.11
-Italy,Sunflowerseed Oil,2018,kcal/capita/day,103.32
-Italy,Sunflowerseed Oil,2019,kcal/capita/day,100
-Italy,Sunflowerseed Oil,2020,kcal/capita/day,100.14
-Italy,Rape and Mustard Oil,2010,kcal/capita/day,4.4
-Italy,Rape and Mustard Oil,2011,kcal/capita/day,7.34
-Italy,Rape and Mustard Oil,2012,kcal/capita/day,7.71
-Italy,Rape and Mustard Oil,2013,kcal/capita/day,7.6
-Italy,Rape and Mustard Oil,2014,kcal/capita/day,8.24
-Italy,Rape and Mustard Oil,2015,kcal/capita/day,8.47
-Italy,Rape and Mustard Oil,2016,kcal/capita/day,7.51
-Italy,Rape and Mustard Oil,2017,kcal/capita/day,6.35
-Italy,Rape and Mustard Oil,2018,kcal/capita/day,6.33
-Italy,Rape and Mustard Oil,2019,kcal/capita/day,4.9
-Italy,Rape and Mustard Oil,2020,kcal/capita/day,1.4
-Italy,Cottonseed Oil,2010,kcal/capita/day,0
-Italy,Cottonseed Oil,2011,kcal/capita/day,0
-Italy,Cottonseed Oil,2012,kcal/capita/day,0
-Italy,Cottonseed Oil,2013,kcal/capita/day,0
-Italy,Cottonseed Oil,2014,kcal/capita/day,0
-Italy,Cottonseed Oil,2015,kcal/capita/day,0
-Italy,Cottonseed Oil,2016,kcal/capita/day,0
-Italy,Cottonseed Oil,2017,kcal/capita/day,0
-Italy,Cottonseed Oil,2018,kcal/capita/day,0
-Italy,Cottonseed Oil,2019,kcal/capita/day,0
-Italy,Cottonseed Oil,2020,kcal/capita/day,0
-Italy,Palmkernel Oil,2010,kcal/capita/day,3.2
-Italy,Palmkernel Oil,2011,kcal/capita/day,3.19
-Italy,Palmkernel Oil,2012,kcal/capita/day,3.18
-Italy,Palmkernel Oil,2013,kcal/capita/day,3.18
-Italy,Palmkernel Oil,2014,kcal/capita/day,3.22
-Italy,Palmkernel Oil,2015,kcal/capita/day,3.22
-Italy,Palmkernel Oil,2016,kcal/capita/day,3.23
-Italy,Palmkernel Oil,2017,kcal/capita/day,3.24
-Italy,Palmkernel Oil,2018,kcal/capita/day,3.24
-Italy,Palmkernel Oil,2019,kcal/capita/day,3.23
-Italy,Palmkernel Oil,2020,kcal/capita/day,3.3
-Italy,Palm Oil,2010,kcal/capita/day,48.03
-Italy,Palm Oil,2011,kcal/capita/day,61.3
-Italy,Palm Oil,2012,kcal/capita/day,73.03
-Italy,Palm Oil,2013,kcal/capita/day,88.75
-Italy,Palm Oil,2014,kcal/capita/day,91.14
-Italy,Palm Oil,2015,kcal/capita/day,90.88
-Italy,Palm Oil,2016,kcal/capita/day,91.01
-Italy,Palm Oil,2017,kcal/capita/day,91.25
-Italy,Palm Oil,2018,kcal/capita/day,92.05
-Italy,Palm Oil,2019,kcal/capita/day,96.48
-Italy,Palm Oil,2020,kcal/capita/day,106.03
-Italy,Sesameseed Oil,2010,kcal/capita/day,0.98
-Italy,Sesameseed Oil,2011,kcal/capita/day,1.12
-Italy,Sesameseed Oil,2012,kcal/capita/day,1.11
-Italy,Sesameseed Oil,2013,kcal/capita/day,1.35
-Italy,Sesameseed Oil,2014,kcal/capita/day,1.21
-Italy,Sesameseed Oil,2015,kcal/capita/day,1.21
-Italy,Sesameseed Oil,2016,kcal/capita/day,1.21
-Italy,Sesameseed Oil,2017,kcal/capita/day,1.21
-Italy,Sesameseed Oil,2018,kcal/capita/day,1.22
-Italy,Sesameseed Oil,2019,kcal/capita/day,1.29
-Italy,Sesameseed Oil,2020,kcal/capita/day,1.39
-Italy,Olive Oil,2010,kcal/capita/day,267.65
-Italy,Olive Oil,2011,kcal/capita/day,279.45
-Italy,Olive Oil,2012,kcal/capita/day,260.38
-Italy,Olive Oil,2013,kcal/capita/day,241.32
-Italy,Olive Oil,2014,kcal/capita/day,244.87
-Italy,Olive Oil,2015,kcal/capita/day,245.22
-Italy,Olive Oil,2016,kcal/capita/day,245.61
-Italy,Olive Oil,2017,kcal/capita/day,238.28
-Italy,Olive Oil,2018,kcal/capita/day,213.7
-Italy,Olive Oil,2019,kcal/capita/day,208.94
-Italy,Olive Oil,2020,kcal/capita/day,220.13
-Italy,Ricebran Oil,2010,kcal/capita/day,0
-Italy,Ricebran Oil,2011,kcal/capita/day,0
-Italy,Ricebran Oil,2012,kcal/capita/day,0
-Italy,Ricebran Oil,2013,kcal/capita/day,0
-Italy,Ricebran Oil,2014,kcal/capita/day,0
-Italy,Ricebran Oil,2015,kcal/capita/day,0
-Italy,Ricebran Oil,2016,kcal/capita/day,0
-Italy,Ricebran Oil,2017,kcal/capita/day,0
-Italy,Maize Germ Oil,2010,kcal/capita/day,27.64
-Italy,Maize Germ Oil,2011,kcal/capita/day,23.76
-Italy,Maize Germ Oil,2012,kcal/capita/day,31.07
-Italy,Maize Germ Oil,2013,kcal/capita/day,26.73
-Italy,Maize Germ Oil,2014,kcal/capita/day,27.5
-Italy,Maize Germ Oil,2015,kcal/capita/day,27.54
-Italy,Maize Germ Oil,2016,kcal/capita/day,27.58
-Italy,Maize Germ Oil,2017,kcal/capita/day,27.66
-Italy,Maize Germ Oil,2018,kcal/capita/day,24.42
-Italy,Maize Germ Oil,2019,kcal/capita/day,23.74
-Italy,Maize Germ Oil,2020,kcal/capita/day,25.38
-Italy,"Oilcrops Oil, Other",2010,kcal/capita/day,43.06
-Italy,"Oilcrops Oil, Other",2011,kcal/capita/day,42.91
-Italy,"Oilcrops Oil, Other",2012,kcal/capita/day,40.82
-Italy,"Oilcrops Oil, Other",2013,kcal/capita/day,42.18
-Italy,"Oilcrops Oil, Other",2014,kcal/capita/day,42.99
-Italy,"Oilcrops Oil, Other",2015,kcal/capita/day,42.51
-Italy,"Oilcrops Oil, Other",2016,kcal/capita/day,37.98
-Italy,"Oilcrops Oil, Other",2017,kcal/capita/day,29.77
-Italy,"Oilcrops Oil, Other",2018,kcal/capita/day,42.78
-Italy,"Oilcrops Oil, Other",2019,kcal/capita/day,63.46
-Italy,"Oilcrops Oil, Other",2020,kcal/capita/day,67.03
-Japan,"Oilcrops, Other",2010,kcal/capita/day,0.01
-Japan,"Oilcrops, Other",2011,kcal/capita/day,0
-Japan,"Oilcrops, Other",2012,kcal/capita/day,0
-Japan,"Oilcrops, Other",2013,kcal/capita/day,0.04
-Japan,"Oilcrops, Other",2014,kcal/capita/day,0.02
-Japan,"Oilcrops, Other",2015,kcal/capita/day,0.04
-Japan,"Oilcrops, Other",2016,kcal/capita/day,0.05
-Japan,"Oilcrops, Other",2017,kcal/capita/day,0.04
-Japan,"Oilcrops, Other",2018,kcal/capita/day,0.01
-Japan,"Oilcrops, Other",2019,kcal/capita/day,0.05
-Japan,"Oilcrops, Other",2020,kcal/capita/day,0.01
-Japan,Soyabean Oil,2010,kcal/capita/day,82.26
-Japan,Soyabean Oil,2011,kcal/capita/day,72.63
-Japan,Soyabean Oil,2012,kcal/capita/day,67.71
-Japan,Soyabean Oil,2013,kcal/capita/day,72.33
-Japan,Soyabean Oil,2014,kcal/capita/day,68.91
-Japan,Soyabean Oil,2015,kcal/capita/day,74.1
-Japan,Soyabean Oil,2016,kcal/capita/day,76.56
-Japan,Soyabean Oil,2017,kcal/capita/day,82.8
-Japan,Soyabean Oil,2018,kcal/capita/day,82.37
-Japan,Soyabean Oil,2019,kcal/capita/day,88.7
-Japan,Soyabean Oil,2020,kcal/capita/day,80.14
-Japan,Groundnut Oil,2010,kcal/capita/day,0.16
-Japan,Groundnut Oil,2011,kcal/capita/day,0.16
-Japan,Groundnut Oil,2012,kcal/capita/day,0.16
-Japan,Groundnut Oil,2013,kcal/capita/day,0.16
-Japan,Groundnut Oil,2014,kcal/capita/day,0.16
-Japan,Groundnut Oil,2015,kcal/capita/day,0.16
-Japan,Groundnut Oil,2016,kcal/capita/day,0.16
-Japan,Groundnut Oil,2017,kcal/capita/day,0.16
-Japan,Groundnut Oil,2018,kcal/capita/day,0.16
-Japan,Groundnut Oil,2019,kcal/capita/day,0.16
-Japan,Groundnut Oil,2020,kcal/capita/day,0.13
-Japan,Sunflowerseed Oil,2010,kcal/capita/day,3.5
-Japan,Sunflowerseed Oil,2011,kcal/capita/day,3.5
-Japan,Sunflowerseed Oil,2012,kcal/capita/day,3.51
-Japan,Sunflowerseed Oil,2013,kcal/capita/day,3.53
-Japan,Sunflowerseed Oil,2014,kcal/capita/day,3.53
-Japan,Sunflowerseed Oil,2015,kcal/capita/day,3.54
-Japan,Sunflowerseed Oil,2016,kcal/capita/day,3.54
-Japan,Sunflowerseed Oil,2017,kcal/capita/day,3.55
-Japan,Sunflowerseed Oil,2018,kcal/capita/day,3.56
-Japan,Sunflowerseed Oil,2019,kcal/capita/day,5.24
-Japan,Sunflowerseed Oil,2020,kcal/capita/day,5.33
-Japan,Rape and Mustard Oil,2010,kcal/capita/day,156.27
-Japan,Rape and Mustard Oil,2011,kcal/capita/day,162.63
-Japan,Rape and Mustard Oil,2012,kcal/capita/day,169.04
-Japan,Rape and Mustard Oil,2013,kcal/capita/day,165.99
-Japan,Rape and Mustard Oil,2014,kcal/capita/day,168.29
-Japan,Rape and Mustard Oil,2015,kcal/capita/day,168.47
-Japan,Rape and Mustard Oil,2016,kcal/capita/day,159.06
-Japan,Rape and Mustard Oil,2017,kcal/capita/day,169.81
-Japan,Rape and Mustard Oil,2018,kcal/capita/day,160.92
-Japan,Rape and Mustard Oil,2019,kcal/capita/day,164.56
-Japan,Rape and Mustard Oil,2020,kcal/capita/day,161.17
-Japan,Palm Oil,2010,kcal/capita/day,20
-Japan,Palm Oil,2011,kcal/capita/day,20.25
-Japan,Palm Oil,2012,kcal/capita/day,19.62
-Japan,Palm Oil,2013,kcal/capita/day,20.37
-Japan,Palm Oil,2014,kcal/capita/day,20.67
-Japan,Palm Oil,2015,kcal/capita/day,20.82
-Japan,Palm Oil,2016,kcal/capita/day,20.7
-Japan,Palm Oil,2017,kcal/capita/day,21.79
-Japan,Palm Oil,2018,kcal/capita/day,21.72
-Japan,Palm Oil,2019,kcal/capita/day,22.02
-Japan,Palm Oil,2020,kcal/capita/day,22.91
-Japan,Coconut Oil,2010,kcal/capita/day,6.59
-Japan,Coconut Oil,2011,kcal/capita/day,6.41
-Japan,Coconut Oil,2012,kcal/capita/day,6.6
-Japan,Coconut Oil,2013,kcal/capita/day,6.61
-Japan,Coconut Oil,2014,kcal/capita/day,7.13
-Japan,Coconut Oil,2015,kcal/capita/day,7.53
-Japan,Coconut Oil,2016,kcal/capita/day,6.41
-Japan,Coconut Oil,2017,kcal/capita/day,6.39
-Japan,Coconut Oil,2018,kcal/capita/day,6.11
-Japan,Coconut Oil,2019,kcal/capita/day,5.93
-Japan,Coconut Oil,2020,kcal/capita/day,5.65
-Japan,Olive Oil,2010,kcal/capita/day,7.47
-Japan,Olive Oil,2011,kcal/capita/day,6.83
-Japan,Olive Oil,2012,kcal/capita/day,8.74
-Japan,Olive Oil,2013,kcal/capita/day,9.65
-Japan,Olive Oil,2014,kcal/capita/day,10.38
-Japan,Olive Oil,2015,kcal/capita/day,10.81
-Japan,Olive Oil,2016,kcal/capita/day,10.49
-Japan,Olive Oil,2017,kcal/capita/day,10.41
-Japan,Olive Oil,2018,kcal/capita/day,10.62
-Japan,Olive Oil,2019,kcal/capita/day,13.33
-Japan,Olive Oil,2020,kcal/capita/day,13.18
-Japan,Ricebran Oil,2010,kcal/capita/day,3.77
-Japan,Ricebran Oil,2011,kcal/capita/day,4.33
-Japan,Ricebran Oil,2012,kcal/capita/day,3.96
-Japan,Ricebran Oil,2013,kcal/capita/day,4.15
-Japan,Ricebran Oil,2014,kcal/capita/day,4.16
-Japan,Ricebran Oil,2015,kcal/capita/day,4.16
-Japan,Ricebran Oil,2016,kcal/capita/day,4.17
-Japan,Ricebran Oil,2017,kcal/capita/day,4.18
-Japan,Ricebran Oil,2018,kcal/capita/day,4.19
-Japan,Ricebran Oil,2019,kcal/capita/day,3.97
-Japan,Ricebran Oil,2020,kcal/capita/day,3.94
-Japan,Maize Germ Oil,2010,kcal/capita/day,15.65
-Japan,Maize Germ Oil,2011,kcal/capita/day,15.65
-Japan,Maize Germ Oil,2012,kcal/capita/day,15.69
-Japan,Maize Germ Oil,2013,kcal/capita/day,15.75
-Japan,Maize Germ Oil,2014,kcal/capita/day,16.01
-Japan,Maize Germ Oil,2015,kcal/capita/day,16.04
-Japan,Maize Germ Oil,2016,kcal/capita/day,15.32
-Japan,Maize Germ Oil,2017,kcal/capita/day,13.67
-Japan,Maize Germ Oil,2018,kcal/capita/day,15.17
-Japan,Maize Germ Oil,2019,kcal/capita/day,14.54
-Japan,Maize Germ Oil,2020,kcal/capita/day,13.32
-Japan,"Oilcrops Oil, Other",2010,kcal/capita/day,60.86
-Japan,"Oilcrops Oil, Other",2011,kcal/capita/day,60.57
-Japan,"Oilcrops Oil, Other",2012,kcal/capita/day,60.78
-Japan,"Oilcrops Oil, Other",2013,kcal/capita/day,60.34
-Japan,"Oilcrops Oil, Other",2014,kcal/capita/day,60.61
-Japan,"Oilcrops Oil, Other",2015,kcal/capita/day,60.54
-Japan,"Oilcrops Oil, Other",2016,kcal/capita/day,60.23
-Japan,"Oilcrops Oil, Other",2017,kcal/capita/day,60.18
-Japan,"Oilcrops Oil, Other",2018,kcal/capita/day,60.28
-Japan,"Oilcrops Oil, Other",2019,kcal/capita/day,65.66
-Japan,"Oilcrops Oil, Other",2020,kcal/capita/day,63.68
-Mexico,"Oilcrops, Other",2010,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2011,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2012,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2013,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2014,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2015,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2016,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2017,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2018,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2019,kcal/capita/day,0
-Mexico,"Oilcrops, Other",2020,kcal/capita/day,0
-Mexico,Soyabean Oil,2010,kcal/capita/day,109.81
-Mexico,Soyabean Oil,2011,kcal/capita/day,118.81
-Mexico,Soyabean Oil,2012,kcal/capita/day,119.69
-Mexico,Soyabean Oil,2013,kcal/capita/day,119.1
-Mexico,Soyabean Oil,2014,kcal/capita/day,119.27
-Mexico,Soyabean Oil,2015,kcal/capita/day,119.54
-Mexico,Soyabean Oil,2016,kcal/capita/day,110.92
-Mexico,Soyabean Oil,2017,kcal/capita/day,119.79
-Mexico,Soyabean Oil,2018,kcal/capita/day,119.94
-Mexico,Soyabean Oil,2019,kcal/capita/day,115.3
-Mexico,Soyabean Oil,2020,kcal/capita/day,159.17
-Mexico,Groundnut Oil,2010,kcal/capita/day,0.51
-Mexico,Groundnut Oil,2011,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2012,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2013,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2014,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2015,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2016,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2017,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2018,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2019,kcal/capita/day,0.52
-Mexico,Groundnut Oil,2020,kcal/capita/day,0.56
-Mexico,Sunflowerseed Oil,2010,kcal/capita/day,0.04
-Mexico,Sunflowerseed Oil,2011,kcal/capita/day,1.86
-Mexico,Sunflowerseed Oil,2012,kcal/capita/day,1.03
-Mexico,Sunflowerseed Oil,2013,kcal/capita/day,0.93
-Mexico,Sunflowerseed Oil,2014,kcal/capita/day,1.27
-Mexico,Sunflowerseed Oil,2015,kcal/capita/day,3.87
-Mexico,Sunflowerseed Oil,2016,kcal/capita/day,8.31
-Mexico,Sunflowerseed Oil,2017,kcal/capita/day,5.66
-Mexico,Sunflowerseed Oil,2018,kcal/capita/day,25.77
-Mexico,Sunflowerseed Oil,2019,kcal/capita/day,9.82
-Mexico,Sunflowerseed Oil,2020,kcal/capita/day,2.43
-Mexico,Rape and Mustard Oil,2010,kcal/capita/day,35.5
-Mexico,Rape and Mustard Oil,2011,kcal/capita/day,44.33
-Mexico,Rape and Mustard Oil,2012,kcal/capita/day,48.36
-Mexico,Rape and Mustard Oil,2013,kcal/capita/day,42.1
-Mexico,Rape and Mustard Oil,2014,kcal/capita/day,41.54
-Mexico,Rape and Mustard Oil,2015,kcal/capita/day,42.62
-Mexico,Rape and Mustard Oil,2016,kcal/capita/day,41.24
-Mexico,Rape and Mustard Oil,2017,kcal/capita/day,43.58
-Mexico,Rape and Mustard Oil,2018,kcal/capita/day,40.16
-Mexico,Rape and Mustard Oil,2019,kcal/capita/day,18.46
-Mexico,Rape and Mustard Oil,2020,kcal/capita/day,47.5
-Mexico,Cottonseed Oil,2010,kcal/capita/day,4.12
-Mexico,Cottonseed Oil,2011,kcal/capita/day,11.39
-Mexico,Cottonseed Oil,2012,kcal/capita/day,11.92
-Mexico,Cottonseed Oil,2013,kcal/capita/day,11.42
-Mexico,Cottonseed Oil,2014,kcal/capita/day,11.42
-Mexico,Cottonseed Oil,2015,kcal/capita/day,11.54
-Mexico,Cottonseed Oil,2016,kcal/capita/day,4.1
-Mexico,Cottonseed Oil,2017,kcal/capita/day,11.5
-Mexico,Cottonseed Oil,2018,kcal/capita/day,11.61
-Mexico,Cottonseed Oil,2019,kcal/capita/day,1.23
-Mexico,Cottonseed Oil,2020,kcal/capita/day,4.03
-Mexico,Palm Oil,2010,kcal/capita/day,79.81
-Mexico,Palm Oil,2011,kcal/capita/day,79.99
-Mexico,Palm Oil,2012,kcal/capita/day,80.17
-Mexico,Palm Oil,2013,kcal/capita/day,80.17
-Mexico,Palm Oil,2014,kcal/capita/day,80.31
-Mexico,Palm Oil,2015,kcal/capita/day,80.47
-Mexico,Palm Oil,2016,kcal/capita/day,80.61
-Mexico,Palm Oil,2017,kcal/capita/day,80.64
-Mexico,Palm Oil,2018,kcal/capita/day,80.73
-Mexico,Palm Oil,2019,kcal/capita/day,80.68
-Mexico,Palm Oil,2020,kcal/capita/day,80.77
-Mexico,Coconut Oil,2010,kcal/capita/day,5.42
-Mexico,Coconut Oil,2011,kcal/capita/day,15.83
-Mexico,Coconut Oil,2012,kcal/capita/day,16.58
-Mexico,Coconut Oil,2013,kcal/capita/day,15.85
-Mexico,Coconut Oil,2014,kcal/capita/day,15.9
-Mexico,Coconut Oil,2015,kcal/capita/day,15.91
-Mexico,Coconut Oil,2016,kcal/capita/day,5.46
-Mexico,Coconut Oil,2017,kcal/capita/day,15.94
-Mexico,Coconut Oil,2018,kcal/capita/day,15.95
-Mexico,Coconut Oil,2019,kcal/capita/day,0.08
-Mexico,Coconut Oil,2020,kcal/capita/day,5.28
-Mexico,Sesameseed Oil,2010,kcal/capita/day,1.57
-Mexico,Sesameseed Oil,2011,kcal/capita/day,1.57
-Mexico,Sesameseed Oil,2012,kcal/capita/day,1.57
-Mexico,Sesameseed Oil,2013,kcal/capita/day,1.57
-Mexico,Sesameseed Oil,2014,kcal/capita/day,1.58
-Mexico,Sesameseed Oil,2015,kcal/capita/day,1.58
-Mexico,Sesameseed Oil,2016,kcal/capita/day,1.58
-Mexico,Sesameseed Oil,2017,kcal/capita/day,1.58
-Mexico,Sesameseed Oil,2018,kcal/capita/day,1.59
-Mexico,Sesameseed Oil,2019,kcal/capita/day,1.58
-Mexico,Sesameseed Oil,2020,kcal/capita/day,3.61
-Mexico,Olive Oil,2010,kcal/capita/day,2.68
-Mexico,Olive Oil,2011,kcal/capita/day,2.69
-Mexico,Olive Oil,2012,kcal/capita/day,2.73
-Mexico,Olive Oil,2013,kcal/capita/day,2.7
-Mexico,Olive Oil,2014,kcal/capita/day,2.7
-Mexico,Olive Oil,2015,kcal/capita/day,2.7
-Mexico,Olive Oil,2016,kcal/capita/day,2.71
-Mexico,Olive Oil,2017,kcal/capita/day,2.74
-Mexico,Olive Oil,2018,kcal/capita/day,3.11
-Mexico,Olive Oil,2019,kcal/capita/day,3.51
-Mexico,Olive Oil,2020,kcal/capita/day,4.41
-Mexico,Maize Germ Oil,2010,kcal/capita/day,5.71
-Mexico,Maize Germ Oil,2011,kcal/capita/day,5.72
-Mexico,Maize Germ Oil,2012,kcal/capita/day,5.74
-Mexico,Maize Germ Oil,2013,kcal/capita/day,5.74
-Mexico,Maize Germ Oil,2014,kcal/capita/day,5.75
-Mexico,Maize Germ Oil,2015,kcal/capita/day,5.76
-Mexico,Maize Germ Oil,2016,kcal/capita/day,5.77
-Mexico,Maize Germ Oil,2017,kcal/capita/day,5.77
-Mexico,Maize Germ Oil,2018,kcal/capita/day,5.78
-Mexico,Maize Germ Oil,2019,kcal/capita/day,7.42
-Mexico,Maize Germ Oil,2020,kcal/capita/day,5.69
-Mexico,"Oilcrops Oil, Other",2010,kcal/capita/day,33.62
-Mexico,"Oilcrops Oil, Other",2011,kcal/capita/day,6.03
-Mexico,"Oilcrops Oil, Other",2012,kcal/capita/day,5.65
-Mexico,"Oilcrops Oil, Other",2013,kcal/capita/day,5.66
-Mexico,"Oilcrops Oil, Other",2014,kcal/capita/day,5.65
-Mexico,"Oilcrops Oil, Other",2015,kcal/capita/day,5.66
-Mexico,"Oilcrops Oil, Other",2016,kcal/capita/day,33.95
-Mexico,"Oilcrops Oil, Other",2017,kcal/capita/day,4.81
-Mexico,"Oilcrops Oil, Other",2018,kcal/capita/day,2.91
-Mexico,"Oilcrops Oil, Other",2019,kcal/capita/day,80.4
-Mexico,"Oilcrops Oil, Other",2020,kcal/capita/day,0.79
-Morocco,"Oilcrops, Other",2010,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2011,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2012,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2013,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2014,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2015,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2016,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2017,kcal/capita/day,0.01
-Morocco,"Oilcrops, Other",2018,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2019,kcal/capita/day,0
-Morocco,"Oilcrops, Other",2020,kcal/capita/day,0
-Morocco,Soyabean Oil,2010,kcal/capita/day,140.87
-Morocco,Soyabean Oil,2011,kcal/capita/day,142.24
-Morocco,Soyabean Oil,2012,kcal/capita/day,142.49
-Morocco,Soyabean Oil,2013,kcal/capita/day,143.47
-Morocco,Soyabean Oil,2014,kcal/capita/day,144.39
-Morocco,Soyabean Oil,2015,kcal/capita/day,145.37
-Morocco,Soyabean Oil,2016,kcal/capita/day,145.95
-Morocco,Soyabean Oil,2017,kcal/capita/day,147.2
-Morocco,Soyabean Oil,2018,kcal/capita/day,145.87
-Morocco,Soyabean Oil,2019,kcal/capita/day,170.13
-Morocco,Soyabean Oil,2020,kcal/capita/day,171.27
-Morocco,Groundnut Oil,2010,kcal/capita/day,9.14
-Morocco,Groundnut Oil,2011,kcal/capita/day,8.31
-Morocco,Groundnut Oil,2012,kcal/capita/day,8.32
-Morocco,Groundnut Oil,2013,kcal/capita/day,8.38
-Morocco,Groundnut Oil,2014,kcal/capita/day,8.43
-Morocco,Groundnut Oil,2015,kcal/capita/day,8.49
-Morocco,Groundnut Oil,2016,kcal/capita/day,8.52
-Morocco,Groundnut Oil,2017,kcal/capita/day,8.55
-Morocco,Groundnut Oil,2018,kcal/capita/day,8.52
-Morocco,Groundnut Oil,2019,kcal/capita/day,9.83
-Morocco,Groundnut Oil,2020,kcal/capita/day,9.1
-Morocco,Sunflowerseed Oil,2010,kcal/capita/day,35.5
-Morocco,Sunflowerseed Oil,2011,kcal/capita/day,35.85
-Morocco,Sunflowerseed Oil,2012,kcal/capita/day,35.91
-Morocco,Sunflowerseed Oil,2013,kcal/capita/day,36.16
-Morocco,Sunflowerseed Oil,2014,kcal/capita/day,36.39
-Morocco,Sunflowerseed Oil,2015,kcal/capita/day,36.64
-Morocco,Sunflowerseed Oil,2016,kcal/capita/day,36.78
-Morocco,Sunflowerseed Oil,2017,kcal/capita/day,37.1
-Morocco,Sunflowerseed Oil,2018,kcal/capita/day,36.76
-Morocco,Sunflowerseed Oil,2019,kcal/capita/day,38.79
-Morocco,Sunflowerseed Oil,2020,kcal/capita/day,40.29
-Morocco,Rape and Mustard Oil,2010,kcal/capita/day,0
-Morocco,Rape and Mustard Oil,2011,kcal/capita/day,0.28
-Morocco,Rape and Mustard Oil,2012,kcal/capita/day,0.72
-Morocco,Rape and Mustard Oil,2013,kcal/capita/day,4.27
-Morocco,Rape and Mustard Oil,2014,kcal/capita/day,0
-Morocco,Rape and Mustard Oil,2015,kcal/capita/day,4.53
-Morocco,Rape and Mustard Oil,2016,kcal/capita/day,2.43
-Morocco,Rape and Mustard Oil,2017,kcal/capita/day,3.26
-Morocco,Rape and Mustard Oil,2018,kcal/capita/day,1.28
-Morocco,Rape and Mustard Oil,2019,kcal/capita/day,2.34
-Morocco,Rape and Mustard Oil,2020,kcal/capita/day,1.75
-Morocco,Cottonseed Oil,2010,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2011,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2012,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2013,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2014,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2015,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2016,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2017,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2018,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2019,kcal/capita/day,0.02
-Morocco,Cottonseed Oil,2020,kcal/capita/day,0.04
-Morocco,Coconut Oil,2010,kcal/capita/day,0.39
-Morocco,Coconut Oil,2011,kcal/capita/day,0.76
-Morocco,Coconut Oil,2012,kcal/capita/day,0.01
-Morocco,Coconut Oil,2013,kcal/capita/day,0.11
-Morocco,Coconut Oil,2014,kcal/capita/day,0.04
-Morocco,Coconut Oil,2015,kcal/capita/day,0.3
-Morocco,Coconut Oil,2016,kcal/capita/day,0.3
-Morocco,Coconut Oil,2017,kcal/capita/day,0.29
-Morocco,Coconut Oil,2018,kcal/capita/day,0.3
-Morocco,Coconut Oil,2019,kcal/capita/day,0.29
-Morocco,Coconut Oil,2020,kcal/capita/day,0.23
-Morocco,Sesameseed Oil,2010,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2011,kcal/capita/day,0.05
-Morocco,Sesameseed Oil,2012,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2013,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2014,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2015,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2016,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2017,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2018,kcal/capita/day,0.02
-Morocco,Sesameseed Oil,2019,kcal/capita/day,0.01
-Morocco,Sesameseed Oil,2020,kcal/capita/day,0.02
-Morocco,Olive Oil,2010,kcal/capita/day,97.09
-Morocco,Olive Oil,2011,kcal/capita/day,70.68
-Morocco,Olive Oil,2012,kcal/capita/day,74.89
-Morocco,Olive Oil,2013,kcal/capita/day,66.46
-Morocco,Olive Oil,2014,kcal/capita/day,84.44
-Morocco,Olive Oil,2015,kcal/capita/day,62.86
-Morocco,Olive Oil,2016,kcal/capita/day,77.59
-Morocco,Olive Oil,2017,kcal/capita/day,66.74
-Morocco,Olive Oil,2018,kcal/capita/day,92.91
-Morocco,Olive Oil,2019,kcal/capita/day,91.66
-Morocco,Olive Oil,2020,kcal/capita/day,90.25
-Morocco,Ricebran Oil,2018,kcal/capita/day,0
-Morocco,Ricebran Oil,2019,kcal/capita/day,0
-Morocco,Ricebran Oil,2020,kcal/capita/day,0
-Morocco,Maize Germ Oil,2010,kcal/capita/day,1.67
-Morocco,Maize Germ Oil,2011,kcal/capita/day,1.26
-Morocco,Maize Germ Oil,2012,kcal/capita/day,1.26
-Morocco,Maize Germ Oil,2013,kcal/capita/day,1.27
-Morocco,Maize Germ Oil,2014,kcal/capita/day,1.25
-Morocco,Maize Germ Oil,2015,kcal/capita/day,1.26
-Morocco,Maize Germ Oil,2016,kcal/capita/day,1.35
-Morocco,Maize Germ Oil,2017,kcal/capita/day,1.28
-Morocco,Maize Germ Oil,2018,kcal/capita/day,1.26
-Morocco,Maize Germ Oil,2019,kcal/capita/day,2.17
-Morocco,Maize Germ Oil,2020,kcal/capita/day,0.09
-Morocco,"Oilcrops Oil, Other",2010,kcal/capita/day,8.9
-Morocco,"Oilcrops Oil, Other",2011,kcal/capita/day,9.38
-Morocco,"Oilcrops Oil, Other",2012,kcal/capita/day,11.07
-Morocco,"Oilcrops Oil, Other",2013,kcal/capita/day,9.84
-Morocco,"Oilcrops Oil, Other",2014,kcal/capita/day,9.14
-Morocco,"Oilcrops Oil, Other",2015,kcal/capita/day,9.43
-Morocco,"Oilcrops Oil, Other",2016,kcal/capita/day,9.64
-Morocco,"Oilcrops Oil, Other",2017,kcal/capita/day,10.36
-Morocco,"Oilcrops Oil, Other",2018,kcal/capita/day,9.63
-Morocco,"Oilcrops Oil, Other",2019,kcal/capita/day,8.12
-Morocco,"Oilcrops Oil, Other",2020,kcal/capita/day,7.64
-Philippines,"Oilcrops, Other",2010,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2011,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2012,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2013,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2014,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2015,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2016,kcal/capita/day,0
-Philippines,"Oilcrops, Other",2017,kcal/capita/day,0.05
-Philippines,"Oilcrops, Other",2018,kcal/capita/day,0.08
-Philippines,"Oilcrops, Other",2019,kcal/capita/day,0.05
-Philippines,"Oilcrops, Other",2020,kcal/capita/day,0.05
-Philippines,Soyabean Oil,2010,kcal/capita/day,6.59
-Philippines,Soyabean Oil,2011,kcal/capita/day,5.71
-Philippines,Soyabean Oil,2012,kcal/capita/day,5.46
-Philippines,Soyabean Oil,2013,kcal/capita/day,3.98
-Philippines,Soyabean Oil,2014,kcal/capita/day,4.01
-Philippines,Soyabean Oil,2015,kcal/capita/day,2.28
-Philippines,Soyabean Oil,2016,kcal/capita/day,5.56
-Philippines,Soyabean Oil,2017,kcal/capita/day,5.61
-Philippines,Soyabean Oil,2018,kcal/capita/day,5.66
-Philippines,Soyabean Oil,2019,kcal/capita/day,7.42
-Philippines,Soyabean Oil,2020,kcal/capita/day,8.96
-Philippines,Groundnut Oil,2010,kcal/capita/day,0.86
-Philippines,Groundnut Oil,2011,kcal/capita/day,0.82
-Philippines,Groundnut Oil,2012,kcal/capita/day,0.46
-Philippines,Groundnut Oil,2013,kcal/capita/day,0.47
-Philippines,Groundnut Oil,2014,kcal/capita/day,0.24
-Philippines,Groundnut Oil,2015,kcal/capita/day,0.58
-Philippines,Groundnut Oil,2016,kcal/capita/day,0.6
-Philippines,Groundnut Oil,2017,kcal/capita/day,0.61
-Philippines,Groundnut Oil,2018,kcal/capita/day,0.62
-Philippines,Groundnut Oil,2019,kcal/capita/day,2.22
-Philippines,Groundnut Oil,2020,kcal/capita/day,1.83
-Philippines,Sunflowerseed Oil,2010,kcal/capita/day,0.31
-Philippines,Sunflowerseed Oil,2011,kcal/capita/day,0.32
-Philippines,Sunflowerseed Oil,2012,kcal/capita/day,0.2
-Philippines,Sunflowerseed Oil,2013,kcal/capita/day,0.21
-Philippines,Sunflowerseed Oil,2014,kcal/capita/day,0.13
-Philippines,Sunflowerseed Oil,2015,kcal/capita/day,0.25
-Philippines,Sunflowerseed Oil,2016,kcal/capita/day,0.25
-Philippines,Sunflowerseed Oil,2017,kcal/capita/day,0.26
-Philippines,Sunflowerseed Oil,2018,kcal/capita/day,0.26
-Philippines,Sunflowerseed Oil,2019,kcal/capita/day,0.22
-Philippines,Sunflowerseed Oil,2020,kcal/capita/day,1.15
-Philippines,Rape and Mustard Oil,2010,kcal/capita/day,0.66
-Philippines,Rape and Mustard Oil,2011,kcal/capita/day,0.23
-Philippines,Rape and Mustard Oil,2012,kcal/capita/day,0.23
-Philippines,Rape and Mustard Oil,2013,kcal/capita/day,0.24
-Philippines,Rape and Mustard Oil,2014,kcal/capita/day,0.24
-Philippines,Rape and Mustard Oil,2015,kcal/capita/day,0.24
-Philippines,Rape and Mustard Oil,2016,kcal/capita/day,0.24
-Philippines,Rape and Mustard Oil,2017,kcal/capita/day,0.25
-Philippines,Rape and Mustard Oil,2018,kcal/capita/day,3.5
-Philippines,Rape and Mustard Oil,2019,kcal/capita/day,5.46
-Philippines,Rape and Mustard Oil,2020,kcal/capita/day,7.39
-Philippines,Palmkernel Oil,2010,kcal/capita/day,1.92
-Philippines,Palmkernel Oil,2011,kcal/capita/day,7.39
-Philippines,Palmkernel Oil,2012,kcal/capita/day,9.59
-Philippines,Palmkernel Oil,2013,kcal/capita/day,9.16
-Philippines,Palmkernel Oil,2014,kcal/capita/day,27.6
-Philippines,Palmkernel Oil,2015,kcal/capita/day,30.21
-Philippines,Palmkernel Oil,2016,kcal/capita/day,34.41
-Philippines,Palmkernel Oil,2017,kcal/capita/day,24.19
-Philippines,Palmkernel Oil,2018,kcal/capita/day,23.72
-Philippines,Palmkernel Oil,2019,kcal/capita/day,10.06
-Philippines,Palmkernel Oil,2020,kcal/capita/day,10.76
-Philippines,Palm Oil,2010,kcal/capita/day,22.14
-Philippines,Palm Oil,2011,kcal/capita/day,22.23
-Philippines,Palm Oil,2012,kcal/capita/day,22.45
-Philippines,Palm Oil,2013,kcal/capita/day,22.69
-Philippines,Palm Oil,2014,kcal/capita/day,20.27
-Philippines,Palm Oil,2015,kcal/capita/day,33.99
-Philippines,Palm Oil,2016,kcal/capita/day,15.1
-Philippines,Palm Oil,2017,kcal/capita/day,52.25
-Philippines,Palm Oil,2018,kcal/capita/day,62.13
-Philippines,Palm Oil,2019,kcal/capita/day,63.08
-Philippines,Palm Oil,2020,kcal/capita/day,42.29
-Philippines,Coconut Oil,2010,kcal/capita/day,100.59
-Philippines,Coconut Oil,2011,kcal/capita/day,72.54
-Philippines,Coconut Oil,2012,kcal/capita/day,95.31
-Philippines,Coconut Oil,2013,kcal/capita/day,110.31
-Philippines,Coconut Oil,2014,kcal/capita/day,49
-Philippines,Coconut Oil,2015,kcal/capita/day,55.1
-Philippines,Coconut Oil,2016,kcal/capita/day,92.82
-Philippines,Coconut Oil,2017,kcal/capita/day,69.29
-Philippines,Coconut Oil,2018,kcal/capita/day,79.18
-Philippines,Coconut Oil,2019,kcal/capita/day,16.92
-Philippines,Coconut Oil,2020,kcal/capita/day,21.31
-Philippines,Sesameseed Oil,2010,kcal/capita/day,0.12
-Philippines,Sesameseed Oil,2011,kcal/capita/day,0.12
-Philippines,Sesameseed Oil,2012,kcal/capita/day,0.12
-Philippines,Sesameseed Oil,2013,kcal/capita/day,0.12
-Philippines,Sesameseed Oil,2014,kcal/capita/day,0.13
-Philippines,Sesameseed Oil,2015,kcal/capita/day,0.13
-Philippines,Sesameseed Oil,2016,kcal/capita/day,0.13
-Philippines,Sesameseed Oil,2017,kcal/capita/day,0.19
-Philippines,Sesameseed Oil,2018,kcal/capita/day,0.19
-Philippines,Sesameseed Oil,2019,kcal/capita/day,0.4
-Philippines,Sesameseed Oil,2020,kcal/capita/day,0.35
-Philippines,Olive Oil,2010,kcal/capita/day,0.48
-Philippines,Olive Oil,2011,kcal/capita/day,0.48
-Philippines,Olive Oil,2012,kcal/capita/day,0.49
-Philippines,Olive Oil,2013,kcal/capita/day,0.49
-Philippines,Olive Oil,2014,kcal/capita/day,0.55
-Philippines,Olive Oil,2015,kcal/capita/day,0.56
-Philippines,Olive Oil,2016,kcal/capita/day,0.51
-Philippines,Olive Oil,2017,kcal/capita/day,0.62
-Philippines,Olive Oil,2018,kcal/capita/day,0.87
-Philippines,Olive Oil,2019,kcal/capita/day,0.8
-Philippines,Olive Oil,2020,kcal/capita/day,0.93
-Philippines,Maize Germ Oil,2010,kcal/capita/day,2.15
-Philippines,Maize Germ Oil,2011,kcal/capita/day,1.88
-Philippines,Maize Germ Oil,2012,kcal/capita/day,1.89
-Philippines,Maize Germ Oil,2013,kcal/capita/day,1.91
-Philippines,Maize Germ Oil,2014,kcal/capita/day,1.93
-Philippines,Maize Germ Oil,2015,kcal/capita/day,1.95
-Philippines,Maize Germ Oil,2016,kcal/capita/day,1.97
-Philippines,Maize Germ Oil,2017,kcal/capita/day,1.99
-Philippines,Maize Germ Oil,2018,kcal/capita/day,2
-Philippines,Maize Germ Oil,2019,kcal/capita/day,2.08
-Philippines,Maize Germ Oil,2020,kcal/capita/day,2.03
-Philippines,"Oilcrops Oil, Other",2010,kcal/capita/day,0.36
-Philippines,"Oilcrops Oil, Other",2011,kcal/capita/day,0.55
-Philippines,"Oilcrops Oil, Other",2012,kcal/capita/day,1.32
-Philippines,"Oilcrops Oil, Other",2013,kcal/capita/day,0.37
-Philippines,"Oilcrops Oil, Other",2014,kcal/capita/day,0.51
-Philippines,"Oilcrops Oil, Other",2015,kcal/capita/day,0.29
-Philippines,"Oilcrops Oil, Other",2016,kcal/capita/day,0.34
-Philippines,"Oilcrops Oil, Other",2017,kcal/capita/day,0.32
-Philippines,"Oilcrops Oil, Other",2018,kcal/capita/day,0.36
-Philippines,"Oilcrops Oil, Other",2019,kcal/capita/day,0.74
-Philippines,"Oilcrops Oil, Other",2020,kcal/capita/day,0.69
-Spain,"Oilcrops, Other",2010,kcal/capita/day,0.73
-Spain,"Oilcrops, Other",2011,kcal/capita/day,0.67
-Spain,"Oilcrops, Other",2012,kcal/capita/day,0.62
-Spain,"Oilcrops, Other",2013,kcal/capita/day,1.96
-Spain,"Oilcrops, Other",2014,kcal/capita/day,0.88
-Spain,"Oilcrops, Other",2015,kcal/capita/day,0.96
-Spain,"Oilcrops, Other",2016,kcal/capita/day,0.9
-Spain,"Oilcrops, Other",2017,kcal/capita/day,0.89
-Spain,"Oilcrops, Other",2018,kcal/capita/day,0
-Spain,"Oilcrops, Other",2019,kcal/capita/day,0
-Spain,"Oilcrops, Other",2020,kcal/capita/day,0.11
-Spain,Soyabean Oil,2010,kcal/capita/day,82.24
-Spain,Soyabean Oil,2011,kcal/capita/day,84.74
-Spain,Soyabean Oil,2012,kcal/capita/day,75.68
-Spain,Soyabean Oil,2013,kcal/capita/day,71.75
-Spain,Soyabean Oil,2014,kcal/capita/day,37.95
-Spain,Soyabean Oil,2015,kcal/capita/day,73.81
-Spain,Soyabean Oil,2016,kcal/capita/day,78.94
-Spain,Soyabean Oil,2017,kcal/capita/day,78.4
-Spain,Soyabean Oil,2018,kcal/capita/day,72.62
-Spain,Soyabean Oil,2019,kcal/capita/day,82.53
-Spain,Soyabean Oil,2020,kcal/capita/day,71.54
-Spain,Groundnut Oil,2010,kcal/capita/day,0.49
-Spain,Groundnut Oil,2011,kcal/capita/day,0.15
-Spain,Groundnut Oil,2012,kcal/capita/day,0.09
-Spain,Groundnut Oil,2013,kcal/capita/day,0.36
-Spain,Groundnut Oil,2014,kcal/capita/day,0.2
-Spain,Groundnut Oil,2015,kcal/capita/day,0.2
-Spain,Groundnut Oil,2016,kcal/capita/day,0.2
-Spain,Groundnut Oil,2017,kcal/capita/day,0.2
-Spain,Groundnut Oil,2018,kcal/capita/day,0.43
-Spain,Groundnut Oil,2019,kcal/capita/day,0.06
-Spain,Groundnut Oil,2020,kcal/capita/day,0.06
-Spain,Sunflowerseed Oil,2010,kcal/capita/day,246.14
-Spain,Sunflowerseed Oil,2011,kcal/capita/day,259.14
-Spain,Sunflowerseed Oil,2012,kcal/capita/day,272.68
-Spain,Sunflowerseed Oil,2013,kcal/capita/day,270.61
-Spain,Sunflowerseed Oil,2014,kcal/capita/day,276.48
-Spain,Sunflowerseed Oil,2015,kcal/capita/day,272.39
-Spain,Sunflowerseed Oil,2016,kcal/capita/day,277.85
-Spain,Sunflowerseed Oil,2017,kcal/capita/day,294.91
-Spain,Sunflowerseed Oil,2018,kcal/capita/day,278.02
-Spain,Sunflowerseed Oil,2019,kcal/capita/day,280.15
-Spain,Sunflowerseed Oil,2020,kcal/capita/day,274.94
-Spain,Rape and Mustard Oil,2010,kcal/capita/day,2.62
-Spain,Rape and Mustard Oil,2011,kcal/capita/day,2.6
-Spain,Rape and Mustard Oil,2012,kcal/capita/day,2.59
-Spain,Rape and Mustard Oil,2013,kcal/capita/day,2.58
-Spain,Rape and Mustard Oil,2014,kcal/capita/day,2.59
-Spain,Rape and Mustard Oil,2015,kcal/capita/day,2.62
-Spain,Rape and Mustard Oil,2016,kcal/capita/day,2.65
-Spain,Rape and Mustard Oil,2017,kcal/capita/day,2.67
-Spain,Rape and Mustard Oil,2018,kcal/capita/day,3.1
-Spain,Rape and Mustard Oil,2019,kcal/capita/day,2.74
-Spain,Rape and Mustard Oil,2020,kcal/capita/day,2.94
-Spain,Cottonseed Oil,2010,kcal/capita/day,6.76
-Spain,Cottonseed Oil,2011,kcal/capita/day,5.99
-Spain,Cottonseed Oil,2012,kcal/capita/day,7.46
-Spain,Cottonseed Oil,2013,kcal/capita/day,7.55
-Spain,Cottonseed Oil,2014,kcal/capita/day,6.96
-Spain,Cottonseed Oil,2015,kcal/capita/day,7.03
-Spain,Cottonseed Oil,2016,kcal/capita/day,7.1
-Spain,Cottonseed Oil,2017,kcal/capita/day,7.16
-Spain,Cottonseed Oil,2018,kcal/capita/day,5.79
-Spain,Cottonseed Oil,2019,kcal/capita/day,5.94
-Spain,Cottonseed Oil,2020,kcal/capita/day,6.51
-Spain,Palmkernel Oil,2010,kcal/capita/day,1.82
-Spain,Palmkernel Oil,2011,kcal/capita/day,1.75
-Spain,Palmkernel Oil,2012,kcal/capita/day,1.86
-Spain,Palmkernel Oil,2013,kcal/capita/day,2.07
-Spain,Palmkernel Oil,2014,kcal/capita/day,1.88
-Spain,Palmkernel Oil,2015,kcal/capita/day,1.9
-Spain,Palmkernel Oil,2016,kcal/capita/day,1.92
-Spain,Palmkernel Oil,2017,kcal/capita/day,1.94
-Spain,Palmkernel Oil,2018,kcal/capita/day,1.95
-Spain,Palmkernel Oil,2019,kcal/capita/day,1.85
-Spain,Palmkernel Oil,2020,kcal/capita/day,1.86
-Spain,Sesameseed Oil,2010,kcal/capita/day,0.02
-Spain,Sesameseed Oil,2011,kcal/capita/day,0.03
-Spain,Sesameseed Oil,2012,kcal/capita/day,0.06
-Spain,Sesameseed Oil,2013,kcal/capita/day,0.05
-Spain,Sesameseed Oil,2014,kcal/capita/day,0.05
-Spain,Sesameseed Oil,2015,kcal/capita/day,0.05
-Spain,Sesameseed Oil,2016,kcal/capita/day,0.05
-Spain,Sesameseed Oil,2017,kcal/capita/day,0.05
-Spain,Sesameseed Oil,2018,kcal/capita/day,0.11
-Spain,Sesameseed Oil,2019,kcal/capita/day,0.14
-Spain,Sesameseed Oil,2020,kcal/capita/day,0.14
-Spain,Olive Oil,2010,kcal/capita/day,271.19
-Spain,Olive Oil,2011,kcal/capita/day,267.5
-Spain,Olive Oil,2012,kcal/capita/day,263.11
-Spain,Olive Oil,2013,kcal/capita/day,264.61
-Spain,Olive Oil,2014,kcal/capita/day,263.52
-Spain,Olive Oil,2015,kcal/capita/day,263.13
-Spain,Olive Oil,2016,kcal/capita/day,261.99
-Spain,Olive Oil,2017,kcal/capita/day,266.6
-Spain,Olive Oil,2018,kcal/capita/day,274.69
-Spain,Olive Oil,2019,kcal/capita/day,274.76
-Spain,Olive Oil,2020,kcal/capita/day,277.82
-Spain,Maize Germ Oil,2010,kcal/capita/day,7.68
-Spain,Maize Germ Oil,2011,kcal/capita/day,11.9
-Spain,Maize Germ Oil,2012,kcal/capita/day,12.27
-Spain,Maize Germ Oil,2013,kcal/capita/day,13
-Spain,Maize Germ Oil,2014,kcal/capita/day,14.09
-Spain,Maize Germ Oil,2015,kcal/capita/day,17.12
-Spain,Maize Germ Oil,2016,kcal/capita/day,11
-Spain,Maize Germ Oil,2017,kcal/capita/day,20.45
-Spain,Maize Germ Oil,2018,kcal/capita/day,16.39
-Spain,Maize Germ Oil,2019,kcal/capita/day,12.96
-Spain,Maize Germ Oil,2020,kcal/capita/day,22.83
-Spain,"Oilcrops Oil, Other",2010,kcal/capita/day,34.57
-Spain,"Oilcrops Oil, Other",2011,kcal/capita/day,37.05
-Spain,"Oilcrops Oil, Other",2012,kcal/capita/day,35.19
-Spain,"Oilcrops Oil, Other",2013,kcal/capita/day,35.86
-Spain,"Oilcrops Oil, Other",2014,kcal/capita/day,35.74
-Spain,"Oilcrops Oil, Other",2015,kcal/capita/day,35.89
-Spain,"Oilcrops Oil, Other",2016,kcal/capita/day,36.41
-Spain,"Oilcrops Oil, Other",2017,kcal/capita/day,36.77
-Spain,"Oilcrops Oil, Other",2018,kcal/capita/day,47.23
-Spain,"Oilcrops Oil, Other",2019,kcal/capita/day,63.24
-Spain,"Oilcrops Oil, Other",2020,kcal/capita/day,71.64
-Switzerland,"Oilcrops, Other",2010,kcal/capita/day,0.23
-Switzerland,"Oilcrops, Other",2011,kcal/capita/day,0.21
-Switzerland,"Oilcrops, Other",2012,kcal/capita/day,0.27
-Switzerland,"Oilcrops, Other",2013,kcal/capita/day,0.22
-Switzerland,"Oilcrops, Other",2014,kcal/capita/day,0.24
-Switzerland,"Oilcrops, Other",2015,kcal/capita/day,0.22
-Switzerland,"Oilcrops, Other",2016,kcal/capita/day,0.19
-Switzerland,"Oilcrops, Other",2017,kcal/capita/day,0.18
-Switzerland,"Oilcrops, Other",2018,kcal/capita/day,0.19
-Switzerland,"Oilcrops, Other",2019,kcal/capita/day,0.17
-Switzerland,"Oilcrops, Other",2020,kcal/capita/day,0.18
-Switzerland,Soyabean Oil,2010,kcal/capita/day,25.43
-Switzerland,Soyabean Oil,2011,kcal/capita/day,27.98
-Switzerland,Soyabean Oil,2012,kcal/capita/day,24.8
-Switzerland,Soyabean Oil,2013,kcal/capita/day,21.78
-Switzerland,Soyabean Oil,2014,kcal/capita/day,20.8
-Switzerland,Soyabean Oil,2015,kcal/capita/day,20.93
-Switzerland,Soyabean Oil,2016,kcal/capita/day,20.86
-Switzerland,Soyabean Oil,2017,kcal/capita/day,21.44
-Switzerland,Soyabean Oil,2018,kcal/capita/day,22.77
-Switzerland,Soyabean Oil,2019,kcal/capita/day,23.04
-Switzerland,Soyabean Oil,2020,kcal/capita/day,26.71
-Switzerland,Groundnut Oil,2010,kcal/capita/day,20.73
-Switzerland,Groundnut Oil,2011,kcal/capita/day,18.94
-Switzerland,Groundnut Oil,2012,kcal/capita/day,14.59
-Switzerland,Groundnut Oil,2013,kcal/capita/day,26.2
-Switzerland,Groundnut Oil,2014,kcal/capita/day,14.44
-Switzerland,Groundnut Oil,2015,kcal/capita/day,18.92
-Switzerland,Groundnut Oil,2016,kcal/capita/day,19.95
-Switzerland,Groundnut Oil,2017,kcal/capita/day,19.97
-Switzerland,Groundnut Oil,2018,kcal/capita/day,19.92
-Switzerland,Groundnut Oil,2019,kcal/capita/day,22.74
-Switzerland,Groundnut Oil,2020,kcal/capita/day,12.96
-Switzerland,Sunflowerseed Oil,2010,kcal/capita/day,133.2
-Switzerland,Sunflowerseed Oil,2011,kcal/capita/day,147.61
-Switzerland,Sunflowerseed Oil,2012,kcal/capita/day,140.52
-Switzerland,Sunflowerseed Oil,2013,kcal/capita/day,124.27
-Switzerland,Sunflowerseed Oil,2014,kcal/capita/day,137.44
-Switzerland,Sunflowerseed Oil,2015,kcal/capita/day,137.45
-Switzerland,Sunflowerseed Oil,2016,kcal/capita/day,137.51
-Switzerland,Sunflowerseed Oil,2017,kcal/capita/day,137.61
-Switzerland,Sunflowerseed Oil,2018,kcal/capita/day,138.2
-Switzerland,Sunflowerseed Oil,2019,kcal/capita/day,136.34
-Switzerland,Sunflowerseed Oil,2020,kcal/capita/day,134.57
-Switzerland,Rape and Mustard Oil,2010,kcal/capita/day,94.45
-Switzerland,Rape and Mustard Oil,2011,kcal/capita/day,101.72
-Switzerland,Rape and Mustard Oil,2012,kcal/capita/day,94.45
-Switzerland,Rape and Mustard Oil,2013,kcal/capita/day,106.56
-Switzerland,Rape and Mustard Oil,2014,kcal/capita/day,104.32
-Switzerland,Rape and Mustard Oil,2015,kcal/capita/day,124.91
-Switzerland,Rape and Mustard Oil,2016,kcal/capita/day,113.91
-Switzerland,Rape and Mustard Oil,2017,kcal/capita/day,114.93
-Switzerland,Rape and Mustard Oil,2018,kcal/capita/day,109.24
-Switzerland,Rape and Mustard Oil,2019,kcal/capita/day,111.64
-Switzerland,Rape and Mustard Oil,2020,kcal/capita/day,121.33
-Switzerland,Cottonseed Oil,2010,kcal/capita/day,0
-Switzerland,Cottonseed Oil,2011,kcal/capita/day,0
-Switzerland,Cottonseed Oil,2012,kcal/capita/day,0.01
-Switzerland,Cottonseed Oil,2013,kcal/capita/day,0.19
-Switzerland,Cottonseed Oil,2014,kcal/capita/day,0
-Switzerland,Cottonseed Oil,2015,kcal/capita/day,0
-Switzerland,Cottonseed Oil,2016,kcal/capita/day,0.02
-Switzerland,Cottonseed Oil,2017,kcal/capita/day,0.03
-Switzerland,Cottonseed Oil,2018,kcal/capita/day,0.07
-Switzerland,Cottonseed Oil,2019,kcal/capita/day,0.04
-Switzerland,Cottonseed Oil,2020,kcal/capita/day,0.01
-Switzerland,Palmkernel Oil,2014,kcal/capita/day,0.03
-Switzerland,Palmkernel Oil,2019,kcal/capita/day,7.57
-Switzerland,Palmkernel Oil,2020,kcal/capita/day,5.09
-Switzerland,Coconut Oil,2010,kcal/capita/day,23.58
-Switzerland,Coconut Oil,2011,kcal/capita/day,19.83
-Switzerland,Coconut Oil,2012,kcal/capita/day,20.77
-Switzerland,Coconut Oil,2013,kcal/capita/day,21.99
-Switzerland,Coconut Oil,2014,kcal/capita/day,20.12
-Switzerland,Coconut Oil,2015,kcal/capita/day,21.51
-Switzerland,Coconut Oil,2016,kcal/capita/day,18.31
-Switzerland,Coconut Oil,2017,kcal/capita/day,23.88
-Switzerland,Coconut Oil,2018,kcal/capita/day,24.7
-Switzerland,Coconut Oil,2019,kcal/capita/day,25.35
-Switzerland,Coconut Oil,2020,kcal/capita/day,22.31
-Switzerland,Sesameseed Oil,2010,kcal/capita/day,0.86
-Switzerland,Sesameseed Oil,2011,kcal/capita/day,1.17
-Switzerland,Sesameseed Oil,2012,kcal/capita/day,1.3
-Switzerland,Sesameseed Oil,2013,kcal/capita/day,1.18
-Switzerland,Sesameseed Oil,2014,kcal/capita/day,1.21
-Switzerland,Sesameseed Oil,2015,kcal/capita/day,1.21
-Switzerland,Sesameseed Oil,2016,kcal/capita/day,1.21
-Switzerland,Sesameseed Oil,2017,kcal/capita/day,1.21
-Switzerland,Sesameseed Oil,2018,kcal/capita/day,1.22
-Switzerland,Sesameseed Oil,2019,kcal/capita/day,1.41
-Switzerland,Sesameseed Oil,2020,kcal/capita/day,1.41
-Switzerland,Olive Oil,2010,kcal/capita/day,40.75
-Switzerland,Olive Oil,2011,kcal/capita/day,39.92
-Switzerland,Olive Oil,2012,kcal/capita/day,41.87
-Switzerland,Olive Oil,2013,kcal/capita/day,41.2
-Switzerland,Olive Oil,2014,kcal/capita/day,41.98
-Switzerland,Olive Oil,2015,kcal/capita/day,40.71
-Switzerland,Olive Oil,2016,kcal/capita/day,42.63
-Switzerland,Olive Oil,2017,kcal/capita/day,41.43
-Switzerland,Olive Oil,2018,kcal/capita/day,41.78
-Switzerland,Olive Oil,2019,kcal/capita/day,42.73
-Switzerland,Olive Oil,2020,kcal/capita/day,53.19
-Switzerland,"Oilcrops Oil, Other",2010,kcal/capita/day,113.71
-Switzerland,"Oilcrops Oil, Other",2011,kcal/capita/day,110.65
-Switzerland,"Oilcrops Oil, Other",2012,kcal/capita/day,109.78
-Switzerland,"Oilcrops Oil, Other",2013,kcal/capita/day,105.9
-Switzerland,"Oilcrops Oil, Other",2014,kcal/capita/day,108.8
-Switzerland,"Oilcrops Oil, Other",2015,kcal/capita/day,108.81
-Switzerland,"Oilcrops Oil, Other",2016,kcal/capita/day,108.55
-Switzerland,"Oilcrops Oil, Other",2017,kcal/capita/day,97.17
-Switzerland,"Oilcrops Oil, Other",2018,kcal/capita/day,131.95
-Switzerland,"Oilcrops Oil, Other",2019,kcal/capita/day,152.46
-Switzerland,"Oilcrops Oil, Other",2020,kcal/capita/day,138.47
-Thailand,"Oilcrops, Other",2010,kcal/capita/day,0.17
-Thailand,"Oilcrops, Other",2011,kcal/capita/day,0.2
-Thailand,"Oilcrops, Other",2012,kcal/capita/day,0.12
-Thailand,"Oilcrops, Other",2013,kcal/capita/day,0.11
-Thailand,"Oilcrops, Other",2014,kcal/capita/day,0.11
-Thailand,"Oilcrops, Other",2015,kcal/capita/day,0.09
-Thailand,"Oilcrops, Other",2016,kcal/capita/day,0.21
-Thailand,"Oilcrops, Other",2017,kcal/capita/day,0.16
-Thailand,"Oilcrops, Other",2020,kcal/capita/day,0.01
-Thailand,Soyabean Oil,2010,kcal/capita/day,64.09
-Thailand,Soyabean Oil,2011,kcal/capita/day,83.4
-Thailand,Soyabean Oil,2012,kcal/capita/day,67.66
-Thailand,Soyabean Oil,2013,kcal/capita/day,52.98
-Thailand,Soyabean Oil,2014,kcal/capita/day,80.73
-Thailand,Soyabean Oil,2015,kcal/capita/day,92.35
-Thailand,Soyabean Oil,2016,kcal/capita/day,123.85
-Thailand,Soyabean Oil,2017,kcal/capita/day,136.76
-Thailand,Soyabean Oil,2018,kcal/capita/day,104.23
-Thailand,Soyabean Oil,2019,kcal/capita/day,113.48
-Thailand,Soyabean Oil,2020,kcal/capita/day,131.62
-Thailand,Groundnut Oil,2010,kcal/capita/day,7.6
-Thailand,Groundnut Oil,2011,kcal/capita/day,7.61
-Thailand,Groundnut Oil,2012,kcal/capita/day,7.77
-Thailand,Groundnut Oil,2013,kcal/capita/day,7.82
-Thailand,Groundnut Oil,2014,kcal/capita/day,7.82
-Thailand,Groundnut Oil,2015,kcal/capita/day,7.88
-Thailand,Groundnut Oil,2016,kcal/capita/day,7.97
-Thailand,Groundnut Oil,2017,kcal/capita/day,8.05
-Thailand,Groundnut Oil,2018,kcal/capita/day,8.15
-Thailand,Groundnut Oil,2019,kcal/capita/day,7.58
-Thailand,Groundnut Oil,2020,kcal/capita/day,7.71
-Thailand,Sunflowerseed Oil,2010,kcal/capita/day,8.81
-Thailand,Sunflowerseed Oil,2011,kcal/capita/day,8.82
-Thailand,Sunflowerseed Oil,2012,kcal/capita/day,9.64
-Thailand,Sunflowerseed Oil,2013,kcal/capita/day,9.08
-Thailand,Sunflowerseed Oil,2014,kcal/capita/day,9.07
-Thailand,Sunflowerseed Oil,2015,kcal/capita/day,9.14
-Thailand,Sunflowerseed Oil,2016,kcal/capita/day,9.24
-Thailand,Sunflowerseed Oil,2017,kcal/capita/day,9.34
-Thailand,Sunflowerseed Oil,2018,kcal/capita/day,9.45
-Thailand,Sunflowerseed Oil,2019,kcal/capita/day,9.54
-Thailand,Sunflowerseed Oil,2020,kcal/capita/day,9.35
-Thailand,Cottonseed Oil,2010,kcal/capita/day,0.09
-Thailand,Cottonseed Oil,2011,kcal/capita/day,0.07
-Thailand,Cottonseed Oil,2012,kcal/capita/day,0.09
-Thailand,Cottonseed Oil,2013,kcal/capita/day,0.09
-Thailand,Cottonseed Oil,2014,kcal/capita/day,0.1
-Thailand,Cottonseed Oil,2015,kcal/capita/day,0.1
-Thailand,Cottonseed Oil,2016,kcal/capita/day,0.07
-Thailand,Cottonseed Oil,2017,kcal/capita/day,0.08
-Thailand,Cottonseed Oil,2018,kcal/capita/day,0.08
-Thailand,Cottonseed Oil,2019,kcal/capita/day,0.07
-Thailand,Cottonseed Oil,2020,kcal/capita/day,0.07
-Thailand,Palmkernel Oil,2010,kcal/capita/day,1.05
-Thailand,Palmkernel Oil,2011,kcal/capita/day,1.52
-Thailand,Palmkernel Oil,2012,kcal/capita/day,1.72
-Thailand,Palmkernel Oil,2013,kcal/capita/day,2.02
-Thailand,Palmkernel Oil,2014,kcal/capita/day,2.06
-Thailand,Palmkernel Oil,2015,kcal/capita/day,2.05
-Thailand,Palmkernel Oil,2016,kcal/capita/day,2.05
-Thailand,Palmkernel Oil,2017,kcal/capita/day,2.08
-Thailand,Palmkernel Oil,2018,kcal/capita/day,2.12
-Thailand,Palmkernel Oil,2019,kcal/capita/day,2.84
-Thailand,Palmkernel Oil,2020,kcal/capita/day,2.91
-Thailand,Palm Oil,2010,kcal/capita/day,65.41
-Thailand,Palm Oil,2011,kcal/capita/day,65.33
-Thailand,Palm Oil,2012,kcal/capita/day,65.39
-Thailand,Palm Oil,2013,kcal/capita/day,65.34
-Thailand,Palm Oil,2014,kcal/capita/day,65.14
-Thailand,Palm Oil,2015,kcal/capita/day,83.09
-Thailand,Palm Oil,2016,kcal/capita/day,60.63
-Thailand,Palm Oil,2017,kcal/capita/day,82.25
-Thailand,Palm Oil,2018,kcal/capita/day,80.4
-Thailand,Palm Oil,2019,kcal/capita/day,106.77
-Thailand,Palm Oil,2020,kcal/capita/day,96.33
-Thailand,Coconut Oil,2010,kcal/capita/day,16.93
-Thailand,Coconut Oil,2011,kcal/capita/day,14.42
-Thailand,Coconut Oil,2012,kcal/capita/day,11.95
-Thailand,Coconut Oil,2013,kcal/capita/day,10.61
-Thailand,Coconut Oil,2014,kcal/capita/day,10.93
-Thailand,Coconut Oil,2015,kcal/capita/day,10.66
-Thailand,Coconut Oil,2016,kcal/capita/day,10.64
-Thailand,Coconut Oil,2017,kcal/capita/day,11.27
-Thailand,Coconut Oil,2018,kcal/capita/day,10.6
-Thailand,Coconut Oil,2019,kcal/capita/day,10.8
-Thailand,Coconut Oil,2020,kcal/capita/day,11.65
-Thailand,Sesameseed Oil,2010,kcal/capita/day,2.65
-Thailand,Sesameseed Oil,2011,kcal/capita/day,2.17
-Thailand,Sesameseed Oil,2012,kcal/capita/day,2.21
-Thailand,Sesameseed Oil,2013,kcal/capita/day,2.23
-Thailand,Sesameseed Oil,2014,kcal/capita/day,3.1
-Thailand,Sesameseed Oil,2015,kcal/capita/day,1.83
-Thailand,Sesameseed Oil,2016,kcal/capita/day,1.82
-Thailand,Sesameseed Oil,2017,kcal/capita/day,1.85
-Thailand,Sesameseed Oil,2018,kcal/capita/day,1.79
-Thailand,Sesameseed Oil,2019,kcal/capita/day,1.86
-Thailand,Sesameseed Oil,2020,kcal/capita/day,1.85
-Thailand,Olive Oil,2010,kcal/capita/day,1.45
-Thailand,Olive Oil,2011,kcal/capita/day,1.44
-Thailand,Olive Oil,2012,kcal/capita/day,1.49
-Thailand,Olive Oil,2013,kcal/capita/day,1.51
-Thailand,Olive Oil,2014,kcal/capita/day,1.5
-Thailand,Olive Oil,2015,kcal/capita/day,1.51
-Thailand,Olive Oil,2016,kcal/capita/day,1.56
-Thailand,Olive Oil,2017,kcal/capita/day,1.58
-Thailand,Olive Oil,2018,kcal/capita/day,1.61
-Thailand,Olive Oil,2019,kcal/capita/day,1.69
-Thailand,Olive Oil,2020,kcal/capita/day,1.61
-Thailand,Ricebran Oil,2010,kcal/capita/day,6.04
-Thailand,Ricebran Oil,2011,kcal/capita/day,8.26
-Thailand,Ricebran Oil,2012,kcal/capita/day,8.87
-Thailand,Ricebran Oil,2013,kcal/capita/day,7.39
-Thailand,Ricebran Oil,2014,kcal/capita/day,2.5
-Thailand,Ricebran Oil,2015,kcal/capita/day,0.88
-Thailand,Ricebran Oil,2016,kcal/capita/day,4.46
-Thailand,Ricebran Oil,2017,kcal/capita/day,5.85
-Thailand,Ricebran Oil,2018,kcal/capita/day,2.69
-Thailand,Ricebran Oil,2019,kcal/capita/day,2.73
-Thailand,Ricebran Oil,2020,kcal/capita/day,3.86
-Thailand,Maize Germ Oil,2010,kcal/capita/day,0.01
-Thailand,Maize Germ Oil,2011,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2012,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2013,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2014,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2015,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2016,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2017,kcal/capita/day,0.05
-Thailand,Maize Germ Oil,2018,kcal/capita/day,0.2
-Thailand,Maize Germ Oil,2019,kcal/capita/day,0.14
-Thailand,Maize Germ Oil,2020,kcal/capita/day,0.16
-Thailand,"Oilcrops Oil, Other",2010,kcal/capita/day,0.1
-Thailand,"Oilcrops Oil, Other",2011,kcal/capita/day,0.05
-Thailand,"Oilcrops Oil, Other",2012,kcal/capita/day,0.04
-Thailand,"Oilcrops Oil, Other",2013,kcal/capita/day,0.03
-Thailand,"Oilcrops Oil, Other",2014,kcal/capita/day,0.03
-Thailand,"Oilcrops Oil, Other",2015,kcal/capita/day,0.03
-Thailand,"Oilcrops Oil, Other",2016,kcal/capita/day,5.96
-Thailand,"Oilcrops Oil, Other",2017,kcal/capita/day,0.02
-Thailand,"Oilcrops Oil, Other",2018,kcal/capita/day,6.09
-Thailand,"Oilcrops Oil, Other",2019,kcal/capita/day,0.37
-Thailand,"Oilcrops Oil, Other",2020,kcal/capita/day,0.35
-United States of America,"Oilcrops, Other",2010,kcal/capita/day,0.2
-United States of America,"Oilcrops, Other",2011,kcal/capita/day,0.16
-United States of America,"Oilcrops, Other",2012,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2013,kcal/capita/day,0.29
-United States of America,"Oilcrops, Other",2014,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2015,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2016,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2017,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2018,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2019,kcal/capita/day,0.19
-United States of America,"Oilcrops, Other",2020,kcal/capita/day,0.15
-United States of America,Soyabean Oil,2010,kcal/capita/day,511.69
-United States of America,Soyabean Oil,2011,kcal/capita/day,528.44
-United States of America,Soyabean Oil,2012,kcal/capita/day,529.18
-United States of America,Soyabean Oil,2013,kcal/capita/day,528.08
-United States of America,Soyabean Oil,2014,kcal/capita/day,529.33
-United States of America,Soyabean Oil,2015,kcal/capita/day,527.56
-United States of America,Soyabean Oil,2016,kcal/capita/day,527.49
-United States of America,Soyabean Oil,2017,kcal/capita/day,532.01
-United States of America,Soyabean Oil,2018,kcal/capita/day,539.23
-United States of America,Soyabean Oil,2019,kcal/capita/day,551.59
-United States of America,Soyabean Oil,2020,kcal/capita/day,336.62
-United States of America,Groundnut Oil,2010,kcal/capita/day,4.66
-United States of America,Groundnut Oil,2011,kcal/capita/day,4.59
-United States of America,Groundnut Oil,2012,kcal/capita/day,4.63
-United States of America,Groundnut Oil,2013,kcal/capita/day,4.57
-United States of America,Groundnut Oil,2014,kcal/capita/day,4.63
-United States of America,Groundnut Oil,2015,kcal/capita/day,5.06
-United States of America,Groundnut Oil,2016,kcal/capita/day,5.92
-United States of America,Groundnut Oil,2017,kcal/capita/day,5.21
-United States of America,Groundnut Oil,2018,kcal/capita/day,4.54
-United States of America,Groundnut Oil,2019,kcal/capita/day,5.57
-United States of America,Groundnut Oil,2020,kcal/capita/day,4.7
-United States of America,Sunflowerseed Oil,2010,kcal/capita/day,5.54
-United States of America,Sunflowerseed Oil,2011,kcal/capita/day,5.08
-United States of America,Sunflowerseed Oil,2012,kcal/capita/day,5.79
-United States of America,Sunflowerseed Oil,2013,kcal/capita/day,5.18
-United States of America,Sunflowerseed Oil,2014,kcal/capita/day,5.38
-United States of America,Sunflowerseed Oil,2015,kcal/capita/day,5.82
-United States of America,Sunflowerseed Oil,2016,kcal/capita/day,5.09
-United States of America,Sunflowerseed Oil,2017,kcal/capita/day,5.34
-United States of America,Sunflowerseed Oil,2018,kcal/capita/day,5.53
-United States of America,Sunflowerseed Oil,2019,kcal/capita/day,4.99
-United States of America,Sunflowerseed Oil,2020,kcal/capita/day,4.43
-United States of America,Rape and Mustard Oil,2010,kcal/capita/day,44.11
-United States of America,Rape and Mustard Oil,2011,kcal/capita/day,43.91
-United States of America,Rape and Mustard Oil,2012,kcal/capita/day,43.53
-United States of America,Rape and Mustard Oil,2013,kcal/capita/day,44.63
-United States of America,Rape and Mustard Oil,2014,kcal/capita/day,51.41
-United States of America,Rape and Mustard Oil,2015,kcal/capita/day,52.38
-United States of America,Rape and Mustard Oil,2016,kcal/capita/day,54.08
-United States of America,Rape and Mustard Oil,2017,kcal/capita/day,54.96
-United States of America,Rape and Mustard Oil,2018,kcal/capita/day,49.1
-United States of America,Rape and Mustard Oil,2019,kcal/capita/day,52.51
-United States of America,Rape and Mustard Oil,2020,kcal/capita/day,45.56
-United States of America,Cottonseed Oil,2010,kcal/capita/day,21.66
-United States of America,Cottonseed Oil,2011,kcal/capita/day,21.75
-United States of America,Cottonseed Oil,2012,kcal/capita/day,21.49
-United States of America,Cottonseed Oil,2013,kcal/capita/day,21.32
-United States of America,Cottonseed Oil,2014,kcal/capita/day,16.64
-United States of America,Cottonseed Oil,2015,kcal/capita/day,12.83
-United States of America,Cottonseed Oil,2016,kcal/capita/day,14.8
-United States of America,Cottonseed Oil,2017,kcal/capita/day,15.6
-United States of America,Cottonseed Oil,2018,kcal/capita/day,11.93
-United States of America,Cottonseed Oil,2019,kcal/capita/day,13.6
-United States of America,Cottonseed Oil,2020,kcal/capita/day,6.94
-United States of America,Palmkernel Oil,2010,kcal/capita/day,1.19
-United States of America,Palmkernel Oil,2011,kcal/capita/day,1.18
-United States of America,Palmkernel Oil,2012,kcal/capita/day,1.18
-United States of America,Palmkernel Oil,2013,kcal/capita/day,1.17
-United States of America,Palmkernel Oil,2014,kcal/capita/day,1.17
-United States of America,Palmkernel Oil,2015,kcal/capita/day,1.19
-United States of America,Palmkernel Oil,2016,kcal/capita/day,1.21
-United States of America,Palmkernel Oil,2017,kcal/capita/day,1.32
-United States of America,Palmkernel Oil,2018,kcal/capita/day,1.17
-United States of America,Palmkernel Oil,2019,kcal/capita/day,1.13
-United States of America,Palmkernel Oil,2020,kcal/capita/day,2.07
-United States of America,Palm Oil,2010,kcal/capita/day,0
-United States of America,Palm Oil,2011,kcal/capita/day,0
-United States of America,Palm Oil,2012,kcal/capita/day,0
-United States of America,Palm Oil,2013,kcal/capita/day,0
-United States of America,Palm Oil,2014,kcal/capita/day,0
-United States of America,Palm Oil,2015,kcal/capita/day,0
-United States of America,Palm Oil,2016,kcal/capita/day,0
-United States of America,Palm Oil,2017,kcal/capita/day,0
-United States of America,Palm Oil,2018,kcal/capita/day,0
-United States of America,Palm Oil,2019,kcal/capita/day,0
-United States of America,Palm Oil,2020,kcal/capita/day,0
-United States of America,Coconut Oil,2010,kcal/capita/day,6.53
-United States of America,Coconut Oil,2011,kcal/capita/day,6.56
-United States of America,Coconut Oil,2012,kcal/capita/day,6.49
-United States of America,Coconut Oil,2013,kcal/capita/day,6.41
-United States of America,Coconut Oil,2014,kcal/capita/day,6.87
-United States of America,Coconut Oil,2015,kcal/capita/day,6.46
-United States of America,Coconut Oil,2016,kcal/capita/day,6.18
-United States of America,Coconut Oil,2017,kcal/capita/day,5.88
-United States of America,Coconut Oil,2018,kcal/capita/day,6.01
-United States of America,Coconut Oil,2019,kcal/capita/day,6.28
-United States of America,Coconut Oil,2020,kcal/capita/day,4.95
-United States of America,Olive Oil,2010,kcal/capita/day,21.34
-United States of America,Olive Oil,2011,kcal/capita/day,22.36
-United States of America,Olive Oil,2012,kcal/capita/day,24.42
-United States of America,Olive Oil,2013,kcal/capita/day,22.07
-United States of America,Olive Oil,2014,kcal/capita/day,23.33
-United States of America,Olive Oil,2015,kcal/capita/day,23.42
-United States of America,Olive Oil,2016,kcal/capita/day,23.46
-United States of America,Olive Oil,2017,kcal/capita/day,23.51
-United States of America,Olive Oil,2018,kcal/capita/day,23.64
-United States of America,Olive Oil,2019,kcal/capita/day,26.21
-United States of America,Olive Oil,2020,kcal/capita/day,29.03
-United States of America,Maize Germ Oil,2010,kcal/capita/day,56.29
-United States of America,Maize Germ Oil,2011,kcal/capita/day,56.89
-United States of America,Maize Germ Oil,2012,kcal/capita/day,55.07
-United States of America,Maize Germ Oil,2013,kcal/capita/day,53.51
-United States of America,Maize Germ Oil,2014,kcal/capita/day,53.52
-United States of America,Maize Germ Oil,2015,kcal/capita/day,55.12
-United States of America,Maize Germ Oil,2016,kcal/capita/day,56.06
-United States of America,Maize Germ Oil,2017,kcal/capita/day,56.97
-United States of America,Maize Germ Oil,2018,kcal/capita/day,58.58
-United States of America,Maize Germ Oil,2019,kcal/capita/day,54.67
-United States of America,Maize Germ Oil,2020,kcal/capita/day,48.77
-United States of America,"Oilcrops Oil, Other",2010,kcal/capita/day,6.12
-United States of America,"Oilcrops Oil, Other",2011,kcal/capita/day,6.51
-United States of America,"Oilcrops Oil, Other",2012,kcal/capita/day,6.6
-United States of America,"Oilcrops Oil, Other",2013,kcal/capita/day,7.92
-United States of America,"Oilcrops Oil, Other",2014,kcal/capita/day,7.84
-United States of America,"Oilcrops Oil, Other",2015,kcal/capita/day,6.52
-United States of America,"Oilcrops Oil, Other",2016,kcal/capita/day,7.02
-United States of America,"Oilcrops Oil, Other",2017,kcal/capita/day,6.04
-United States of America,"Oilcrops Oil, Other",2018,kcal/capita/day,6.78
-United States of America,"Oilcrops Oil, Other",2019,kcal/capita/day,21.61
-United States of America,"Oilcrops Oil, Other",2020,kcal/capita/day,242.3
+year,item,country,value,unit
+2010,Sunflower,Brazil,7.69,kcal/capita/day
+2010,Soybean,Brazil,284.62,kcal/capita/day
+2010,Sesame,Brazil,0.11,kcal/capita/day
+2010,Ricebran,Brazil,1.86,kcal/capita/day
+2010,Peanut,Brazil,0.12,kcal/capita/day
+2010,Palm,Brazil,45.12,kcal/capita/day
+2010,Other oils,Brazil,49.02,kcal/capita/day
+2010,Olive,Brazil,6.91,kcal/capita/day
+2010,Cottonseed,Brazil,31.39,kcal/capita/day
+2010,Corn,Brazil,1.91,kcal/capita/day
+2010,Coconut,Brazil,0.32,kcal/capita/day
+2011,Sunflower,Brazil,7.93,kcal/capita/day
+2011,Soybean,Brazil,284.48,kcal/capita/day
+2011,Sesame,Brazil,0.11,kcal/capita/day
+2011,Ricebran,Brazil,1.86,kcal/capita/day
+2011,Peanut,Brazil,0.13,kcal/capita/day
+2011,Palm,Brazil,48.73,kcal/capita/day
+2011,Other oils,Brazil,49.17,kcal/capita/day
+2011,Olive,Brazil,7.82,kcal/capita/day
+2011,Cottonseed,Brazil,39.05,kcal/capita/day
+2011,Corn,Brazil,1.92,kcal/capita/day
+2011,Coconut,Brazil,0.33,kcal/capita/day
+2012,Sunflower,Brazil,10.05,kcal/capita/day
+2012,Soybean,Brazil,283.16,kcal/capita/day
+2012,Sesame,Brazil,0.11,kcal/capita/day
+2012,Ricebran,Brazil,1.87,kcal/capita/day
+2012,Peanut,Brazil,0.09,kcal/capita/day
+2012,Palm,Brazil,54.88,kcal/capita/day
+2012,Other oils,Brazil,49.22,kcal/capita/day
+2012,Olive,Brazil,9.44,kcal/capita/day
+2012,Cottonseed,Brazil,42.26,kcal/capita/day
+2012,Corn,Brazil,1.92,kcal/capita/day
+2012,Coconut,Brazil,0.34,kcal/capita/day
+2013,Sunflower,Brazil,8.4,kcal/capita/day
+2013,Soybean,Brazil,283.11,kcal/capita/day
+2013,Sesame,Brazil,0.11,kcal/capita/day
+2013,Ricebran,Brazil,1.87,kcal/capita/day
+2013,Peanut,Brazil,0.48,kcal/capita/day
+2013,Palm,Brazil,58.84,kcal/capita/day
+2013,Other oils,Brazil,49.32,kcal/capita/day
+2013,Olive,Brazil,8.82,kcal/capita/day
+2013,Cottonseed,Brazil,39.35,kcal/capita/day
+2013,Corn,Brazil,1.92,kcal/capita/day
+2013,Coconut,Brazil,0.33,kcal/capita/day
+2014,Sunflower,Brazil,8.46,kcal/capita/day
+2014,Soybean,Brazil,301.6,kcal/capita/day
+2014,Sesame,Brazil,0.11,kcal/capita/day
+2014,Ricebran,Brazil,1.87,kcal/capita/day
+2014,Peanut,Brazil,0.43,kcal/capita/day
+2014,Palm,Brazil,61.6,kcal/capita/day
+2014,Other oils,Brazil,49.31,kcal/capita/day
+2014,Olive,Brazil,8.88,kcal/capita/day
+2014,Cottonseed,Brazil,31.64,kcal/capita/day
+2014,Corn,Brazil,1.92,kcal/capita/day
+2014,Coconut,Brazil,0.32,kcal/capita/day
+2015,Sunflower,Brazil,8.95,kcal/capita/day
+2015,Soybean,Brazil,309.86,kcal/capita/day
+2015,Sesame,Brazil,0.11,kcal/capita/day
+2015,Ricebran,Brazil,1.86,kcal/capita/day
+2015,Peanut,Brazil,1.12,kcal/capita/day
+2015,Palm,Brazil,67.56,kcal/capita/day
+2015,Other oils,Brazil,49.08,kcal/capita/day
+2015,Olive,Brazil,6.82,kcal/capita/day
+2015,Cottonseed,Brazil,33.96,kcal/capita/day
+2015,Corn,Brazil,1.91,kcal/capita/day
+2015,Coconut,Brazil,0.33,kcal/capita/day
+2016,Sunflower,Brazil,7.66,kcal/capita/day
+2016,Soybean,Brazil,308.37,kcal/capita/day
+2016,Sesame,Brazil,0.1,kcal/capita/day
+2016,Ricebran,Brazil,1.85,kcal/capita/day
+2016,Peanut,Brazil,0,kcal/capita/day
+2016,Palm,Brazil,66.87,kcal/capita/day
+2016,Other oils,Brazil,48.85,kcal/capita/day
+2016,Olive,Brazil,6.7,kcal/capita/day
+2016,Cottonseed,Brazil,30.51,kcal/capita/day
+2016,Corn,Brazil,1.91,kcal/capita/day
+2016,Coconut,Brazil,0.33,kcal/capita/day
+2017,Sunflower,Brazil,8.53,kcal/capita/day
+2017,Soybean,Brazil,308.46,kcal/capita/day
+2017,Sesame,Brazil,0.11,kcal/capita/day
+2017,Ricebran,Brazil,1.85,kcal/capita/day
+2017,Peanut,Brazil,0.1,kcal/capita/day
+2017,Palm,Brazil,67.36,kcal/capita/day
+2017,Other oils,Brazil,48.86,kcal/capita/day
+2017,Olive,Brazil,7.04,kcal/capita/day
+2017,Cottonseed,Brazil,30.06,kcal/capita/day
+2017,Corn,Brazil,1.91,kcal/capita/day
+2017,Coconut,Brazil,0.33,kcal/capita/day
+2018,Sunflower,Brazil,10.94,kcal/capita/day
+2018,Soybean,Brazil,307.55,kcal/capita/day
+2018,Sesame,Brazil,0.11,kcal/capita/day
+2018,Ricebran,Brazil,1.85,kcal/capita/day
+2018,Peanut,Brazil,0.95,kcal/capita/day
+2018,Palm,Brazil,66.88,kcal/capita/day
+2018,Other oils,Brazil,48.9,kcal/capita/day
+2018,Olive,Brazil,9.23,kcal/capita/day
+2018,Cottonseed,Brazil,40.18,kcal/capita/day
+2018,Corn,Brazil,1.91,kcal/capita/day
+2018,Coconut,Brazil,0.33,kcal/capita/day
+2019,Sunflower,Brazil,27.8,kcal/capita/day
+2019,Soybean,Brazil,325.68,kcal/capita/day
+2019,Sesame,Brazil,0.11,kcal/capita/day
+2019,Ricebran,Brazil,2.11,kcal/capita/day
+2019,Peanut,Brazil,0.65,kcal/capita/day
+2019,Palm,Brazil,60.81,kcal/capita/day
+2019,Other oils,Brazil,82.4,kcal/capita/day
+2019,Olive,Brazil,10.38,kcal/capita/day
+2019,Cottonseed,Brazil,30.6,kcal/capita/day
+2019,Corn,Brazil,11.21,kcal/capita/day
+2019,Coconut,Brazil,0.93,kcal/capita/day
+2010,Sunflower,China,3.35,kcal/capita/day
+2010,Soybean,China,51.03,kcal/capita/day
+2010,Sesame,China,3.69,kcal/capita/day
+2010,Ricebran,China,1.95,kcal/capita/day
+2010,Rapeseed/Canola,China,34.23,kcal/capita/day
+2010,Peanut,China,19.04,kcal/capita/day
+2010,Palm,China,53.4,kcal/capita/day
+2010,Other oils,China,1.48,kcal/capita/day
+2010,Olive,China,0.64,kcal/capita/day
+2010,Cottonseed,China,14.92,kcal/capita/day
+2010,Corn,China,3.79,kcal/capita/day
+2010,Coconut,China,5.43,kcal/capita/day
+2011,Sunflower,China,3.39,kcal/capita/day
+2011,Soybean,China,51.14,kcal/capita/day
+2011,Sesame,China,3.84,kcal/capita/day
+2011,Ricebran,China,1.95,kcal/capita/day
+2011,Rapeseed/Canola,China,31.2,kcal/capita/day
+2011,Peanut,China,17.76,kcal/capita/day
+2011,Palm,China,54.91,kcal/capita/day
+2011,Other oils,China,1.48,kcal/capita/day
+2011,Olive,China,0.71,kcal/capita/day
+2011,Cottonseed,China,14.83,kcal/capita/day
+2011,Corn,China,3.93,kcal/capita/day
+2011,Coconut,China,3.03,kcal/capita/day
+2012,Sunflower,China,3.66,kcal/capita/day
+2012,Soybean,China,53.69,kcal/capita/day
+2012,Sesame,China,4,kcal/capita/day
+2012,Ricebran,China,1.8,kcal/capita/day
+2012,Rapeseed/Canola,China,31.92,kcal/capita/day
+2012,Peanut,China,16.04,kcal/capita/day
+2012,Palm,China,50.32,kcal/capita/day
+2012,Other oils,China,1.57,kcal/capita/day
+2012,Olive,China,0.77,kcal/capita/day
+2012,Cottonseed,China,15.21,kcal/capita/day
+2012,Corn,China,4.13,kcal/capita/day
+2012,Coconut,China,3.68,kcal/capita/day
+2013,Sunflower,China,3.8,kcal/capita/day
+2013,Soybean,China,55.94,kcal/capita/day
+2013,Sesame,China,4.17,kcal/capita/day
+2013,Ricebran,China,1.88,kcal/capita/day
+2013,Rapeseed/Canola,China,34.45,kcal/capita/day
+2013,Peanut,China,16.73,kcal/capita/day
+2013,Palm,China,52.28,kcal/capita/day
+2013,Other oils,China,1.58,kcal/capita/day
+2013,Olive,China,0.72,kcal/capita/day
+2013,Cottonseed,China,13.87,kcal/capita/day
+2013,Corn,China,4.26,kcal/capita/day
+2013,Coconut,China,2.34,kcal/capita/day
+2014,Sunflower,China,3.99,kcal/capita/day
+2014,Soybean,China,60.34,kcal/capita/day
+2014,Sesame,China,4.33,kcal/capita/day
+2014,Ricebran,China,1.96,kcal/capita/day
+2014,Rapeseed/Canola,China,35.38,kcal/capita/day
+2014,Peanut,China,17.4,kcal/capita/day
+2014,Palm,China,54.49,kcal/capita/day
+2014,Other oils,China,1.86,kcal/capita/day
+2014,Olive,China,0.79,kcal/capita/day
+2014,Cottonseed,China,14.43,kcal/capita/day
+2014,Corn,China,4.42,kcal/capita/day
+2014,Coconut,China,2.47,kcal/capita/day
+2015,Sunflower,China,4.08,kcal/capita/day
+2015,Soybean,China,63.49,kcal/capita/day
+2015,Sesame,China,4.48,kcal/capita/day
+2015,Ricebran,China,2.03,kcal/capita/day
+2015,Rapeseed/Canola,China,33.87,kcal/capita/day
+2015,Peanut,China,18.03,kcal/capita/day
+2015,Palm,China,56.23,kcal/capita/day
+2015,Other oils,China,1.67,kcal/capita/day
+2015,Olive,China,0.71,kcal/capita/day
+2015,Cottonseed,China,14.97,kcal/capita/day
+2015,Corn,China,4.58,kcal/capita/day
+2015,Coconut,China,2.54,kcal/capita/day
+2016,Sunflower,China,4.17,kcal/capita/day
+2016,Soybean,China,64.97,kcal/capita/day
+2016,Sesame,China,4.65,kcal/capita/day
+2016,Ricebran,China,2.11,kcal/capita/day
+2016,Rapeseed/Canola,China,35.98,kcal/capita/day
+2016,Peanut,China,18.82,kcal/capita/day
+2016,Palm,China,58.33,kcal/capita/day
+2016,Other oils,China,1.56,kcal/capita/day
+2016,Olive,China,0.79,kcal/capita/day
+2016,Cottonseed,China,15.55,kcal/capita/day
+2016,Corn,China,4.75,kcal/capita/day
+2016,Coconut,China,2.34,kcal/capita/day
+2017,Sunflower,China,4.35,kcal/capita/day
+2017,Soybean,China,68.18,kcal/capita/day
+2017,Sesame,China,4.82,kcal/capita/day
+2017,Ricebran,China,2.19,kcal/capita/day
+2017,Rapeseed/Canola,China,34.37,kcal/capita/day
+2017,Peanut,China,19.49,kcal/capita/day
+2017,Palm,China,53.24,kcal/capita/day
+2017,Other oils,China,1.6,kcal/capita/day
+2017,Olive,China,0.76,kcal/capita/day
+2017,Cottonseed,China,13.95,kcal/capita/day
+2017,Corn,China,4.93,kcal/capita/day
+2017,Coconut,China,2.33,kcal/capita/day
+2018,Sunflower,China,4.48,kcal/capita/day
+2018,Soybean,China,70.06,kcal/capita/day
+2018,Sesame,China,4.98,kcal/capita/day
+2018,Ricebran,China,2.22,kcal/capita/day
+2018,Rapeseed/Canola,China,35.46,kcal/capita/day
+2018,Peanut,China,19.38,kcal/capita/day
+2018,Palm,China,54.81,kcal/capita/day
+2018,Other oils,China,1.72,kcal/capita/day
+2018,Olive,China,0.78,kcal/capita/day
+2018,Cottonseed,China,13.89,kcal/capita/day
+2018,Corn,China,5.08,kcal/capita/day
+2018,Coconut,China,2.53,kcal/capita/day
+2019,Sunflower,China,5.19,kcal/capita/day
+2019,Soybean,China,70.58,kcal/capita/day
+2019,Sesame,China,5.15,kcal/capita/day
+2019,Ricebran,China,1.98,kcal/capita/day
+2019,Rapeseed/Canola,China,31.08,kcal/capita/day
+2019,Peanut,China,16.75,kcal/capita/day
+2019,Palm,China,68.19,kcal/capita/day
+2019,Other oils,China,1.82,kcal/capita/day
+2019,Olive,China,0.97,kcal/capita/day
+2019,Cottonseed,China,14.37,kcal/capita/day
+2019,Corn,China,5.89,kcal/capita/day
+2019,Coconut,China,2.94,kcal/capita/day
+2010,Sunflower,Germany,71.71,kcal/capita/day
+2010,Soybean,Germany,125.45,kcal/capita/day
+2010,Sesame,Germany,1.47,kcal/capita/day
+2010,Rapeseed/Canola,Germany,119.51,kcal/capita/day
+2010,Peanut,Germany,1.6,kcal/capita/day
+2010,Palm,Germany,45.04,kcal/capita/day
+2010,Other oils,Germany,12.18,kcal/capita/day
+2010,Olive,Germany,15.36,kcal/capita/day
+2010,Corn,Germany,4.89,kcal/capita/day
+2010,Coconut,Germany,27.44,kcal/capita/day
+2011,Sunflower,Germany,72.09,kcal/capita/day
+2011,Soybean,Germany,125.63,kcal/capita/day
+2011,Sesame,Germany,1.81,kcal/capita/day
+2011,Rapeseed/Canola,Germany,117.47,kcal/capita/day
+2011,Peanut,Germany,1.48,kcal/capita/day
+2011,Palm,Germany,33.16,kcal/capita/day
+2011,Other oils,Germany,11.95,kcal/capita/day
+2011,Olive,Germany,17.32,kcal/capita/day
+2011,Corn,Germany,3.36,kcal/capita/day
+2011,Coconut,Germany,31.93,kcal/capita/day
+2012,Sunflower,Germany,76.85,kcal/capita/day
+2012,Soybean,Germany,125.78,kcal/capita/day
+2012,Sesame,Germany,1.94,kcal/capita/day
+2012,Rapeseed/Canola,Germany,131.95,kcal/capita/day
+2012,Peanut,Germany,1.11,kcal/capita/day
+2012,Palm,Germany,38.06,kcal/capita/day
+2012,Other oils,Germany,12.09,kcal/capita/day
+2012,Olive,Germany,17.69,kcal/capita/day
+2012,Corn,Germany,3.77,kcal/capita/day
+2012,Coconut,Germany,28.65,kcal/capita/day
+2013,Sunflower,Germany,75.42,kcal/capita/day
+2013,Soybean,Germany,125.89,kcal/capita/day
+2013,Sesame,Germany,1.88,kcal/capita/day
+2013,Rapeseed/Canola,Germany,127.39,kcal/capita/day
+2013,Peanut,Germany,1.15,kcal/capita/day
+2013,Palm,Germany,37.04,kcal/capita/day
+2013,Other oils,Germany,12.07,kcal/capita/day
+2013,Olive,Germany,18.01,kcal/capita/day
+2013,Corn,Germany,3.63,kcal/capita/day
+2013,Coconut,Germany,34.12,kcal/capita/day
+2014,Sunflower,Germany,77.26,kcal/capita/day
+2014,Soybean,Germany,103.93,kcal/capita/day
+2014,Sesame,Germany,2.09,kcal/capita/day
+2014,Rapeseed/Canola,Germany,132.44,kcal/capita/day
+2014,Peanut,Germany,1.17,kcal/capita/day
+2014,Palm,Germany,39.92,kcal/capita/day
+2014,Other oils,Germany,12.75,kcal/capita/day
+2014,Olive,Germany,18.11,kcal/capita/day
+2014,Cottonseed,Germany,0,kcal/capita/day
+2014,Corn,Germany,3.67,kcal/capita/day
+2014,Coconut,Germany,31.04,kcal/capita/day
+2015,Sunflower,Germany,82.81,kcal/capita/day
+2015,Soybean,Germany,85.67,kcal/capita/day
+2015,Sesame,Germany,2.05,kcal/capita/day
+2015,Rapeseed/Canola,Germany,133.32,kcal/capita/day
+2015,Peanut,Germany,0.59,kcal/capita/day
+2015,Palm,Germany,39.63,kcal/capita/day
+2015,Other oils,Germany,11.98,kcal/capita/day
+2015,Olive,Germany,18.13,kcal/capita/day
+2015,Cottonseed,Germany,0,kcal/capita/day
+2015,Corn,Germany,3.68,kcal/capita/day
+2015,Coconut,Germany,31.67,kcal/capita/day
+2016,Sunflower,Germany,82.18,kcal/capita/day
+2016,Soybean,Germany,116.86,kcal/capita/day
+2016,Sesame,Germany,1.95,kcal/capita/day
+2016,Rapeseed/Canola,Germany,132.16,kcal/capita/day
+2016,Peanut,Germany,0.33,kcal/capita/day
+2016,Palm,Germany,64.7,kcal/capita/day
+2016,Other oils,Germany,12.06,kcal/capita/day
+2016,Olive,Germany,18.15,kcal/capita/day
+2016,Cottonseed,Germany,0,kcal/capita/day
+2016,Corn,Germany,3.22,kcal/capita/day
+2016,Coconut,Germany,8.91,kcal/capita/day
+2017,Sunflower,Germany,90.76,kcal/capita/day
+2017,Soybean,Germany,120.58,kcal/capita/day
+2017,Sesame,Germany,1.97,kcal/capita/day
+2017,Rapeseed/Canola,Germany,132.41,kcal/capita/day
+2017,Peanut,Germany,0.34,kcal/capita/day
+2017,Palm,Germany,65.18,kcal/capita/day
+2017,Other oils,Germany,11.2,kcal/capita/day
+2017,Olive,Germany,18.18,kcal/capita/day
+2017,Cottonseed,Germany,0,kcal/capita/day
+2017,Corn,Germany,3.69,kcal/capita/day
+2017,Coconut,Germany,9.05,kcal/capita/day
+2018,Sunflower,Germany,99.56,kcal/capita/day
+2018,Soybean,Germany,123.35,kcal/capita/day
+2018,Sesame,Germany,1.91,kcal/capita/day
+2018,Rapeseed/Canola,Germany,132.62,kcal/capita/day
+2018,Peanut,Germany,0.38,kcal/capita/day
+2018,Palm,Germany,47.59,kcal/capita/day
+2018,Other oils,Germany,21.43,kcal/capita/day
+2018,Olive,Germany,18.2,kcal/capita/day
+2018,Corn,Germany,3.69,kcal/capita/day
+2018,Coconut,Germany,26.01,kcal/capita/day
+2019,Sunflower,Germany,112.77,kcal/capita/day
+2019,Soybean,Germany,129.05,kcal/capita/day
+2019,Sesame,Germany,1.96,kcal/capita/day
+2019,Rapeseed/Canola,Germany,138.28,kcal/capita/day
+2019,Peanut,Germany,0.89,kcal/capita/day
+2019,Palm,Germany,53.04,kcal/capita/day
+2019,Other oils,Germany,54.28,kcal/capita/day
+2019,Olive,Germany,18.41,kcal/capita/day
+2019,Cottonseed,Germany,0,kcal/capita/day
+2019,Corn,Germany,4.5,kcal/capita/day
+2019,Coconut,Germany,18.93,kcal/capita/day
+2010,Sunflower,Indonesia,0.75,kcal/capita/day
+2010,Soybean,Indonesia,40.82,kcal/capita/day
+2010,Sesame,Indonesia,0.06,kcal/capita/day
+2010,Ricebran,Indonesia,0,kcal/capita/day
+2010,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2010,Peanut,Indonesia,3.21,kcal/capita/day
+2010,Palm,Indonesia,97.98,kcal/capita/day
+2010,Other oils,Indonesia,7.91,kcal/capita/day
+2010,Olive,Indonesia,0.1,kcal/capita/day
+2010,Cottonseed,Indonesia,0,kcal/capita/day
+2010,Corn,Indonesia,0.65,kcal/capita/day
+2010,Coconut,Indonesia,27.27,kcal/capita/day
+2011,Sunflower,Indonesia,0.76,kcal/capita/day
+2011,Soybean,Indonesia,41.41,kcal/capita/day
+2011,Sesame,Indonesia,0.05,kcal/capita/day
+2011,Ricebran,Indonesia,0,kcal/capita/day
+2011,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2011,Peanut,Indonesia,2.8,kcal/capita/day
+2011,Palm,Indonesia,83.91,kcal/capita/day
+2011,Other oils,Indonesia,8.9,kcal/capita/day
+2011,Olive,Indonesia,0.11,kcal/capita/day
+2011,Cottonseed,Indonesia,0,kcal/capita/day
+2011,Corn,Indonesia,0.66,kcal/capita/day
+2011,Coconut,Indonesia,21.31,kcal/capita/day
+2012,Sunflower,Indonesia,0.77,kcal/capita/day
+2012,Soybean,Indonesia,41.98,kcal/capita/day
+2012,Sesame,Indonesia,0.09,kcal/capita/day
+2012,Ricebran,Indonesia,0,kcal/capita/day
+2012,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2012,Peanut,Indonesia,2.57,kcal/capita/day
+2012,Palm,Indonesia,117.51,kcal/capita/day
+2012,Other oils,Indonesia,10.19,kcal/capita/day
+2012,Olive,Indonesia,0.12,kcal/capita/day
+2012,Cottonseed,Indonesia,0,kcal/capita/day
+2012,Corn,Indonesia,0.67,kcal/capita/day
+2012,Coconut,Indonesia,9.98,kcal/capita/day
+2013,Sunflower,Indonesia,0.78,kcal/capita/day
+2013,Soybean,Indonesia,42.51,kcal/capita/day
+2013,Sesame,Indonesia,0.05,kcal/capita/day
+2013,Ricebran,Indonesia,0,kcal/capita/day
+2013,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2013,Peanut,Indonesia,2.6,kcal/capita/day
+2013,Palm,Indonesia,125.99,kcal/capita/day
+2013,Other oils,Indonesia,9.8,kcal/capita/day
+2013,Olive,Indonesia,0.13,kcal/capita/day
+2013,Cottonseed,Indonesia,0,kcal/capita/day
+2013,Corn,Indonesia,0.67,kcal/capita/day
+2013,Coconut,Indonesia,27.82,kcal/capita/day
+2014,Sunflower,Indonesia,0.79,kcal/capita/day
+2014,Soybean,Indonesia,42.98,kcal/capita/day
+2014,Sesame,Indonesia,0.05,kcal/capita/day
+2014,Ricebran,Indonesia,0,kcal/capita/day
+2014,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2014,Peanut,Indonesia,2.72,kcal/capita/day
+2014,Palm,Indonesia,149.07,kcal/capita/day
+2014,Other oils,Indonesia,5.97,kcal/capita/day
+2014,Olive,Indonesia,0.11,kcal/capita/day
+2014,Cottonseed,Indonesia,0,kcal/capita/day
+2014,Corn,Indonesia,0.68,kcal/capita/day
+2014,Coconut,Indonesia,13.15,kcal/capita/day
+2015,Sunflower,Indonesia,0.8,kcal/capita/day
+2015,Soybean,Indonesia,43.43,kcal/capita/day
+2015,Sesame,Indonesia,0.04,kcal/capita/day
+2015,Ricebran,Indonesia,0,kcal/capita/day
+2015,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2015,Peanut,Indonesia,2.75,kcal/capita/day
+2015,Palm,Indonesia,99.62,kcal/capita/day
+2015,Other oils,Indonesia,8.42,kcal/capita/day
+2015,Olive,Indonesia,0.12,kcal/capita/day
+2015,Cottonseed,Indonesia,0,kcal/capita/day
+2015,Corn,Indonesia,0.69,kcal/capita/day
+2015,Coconut,Indonesia,13.27,kcal/capita/day
+2016,Sunflower,Indonesia,0.81,kcal/capita/day
+2016,Soybean,Indonesia,43.9,kcal/capita/day
+2016,Sesame,Indonesia,0.07,kcal/capita/day
+2016,Ricebran,Indonesia,0,kcal/capita/day
+2016,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2016,Peanut,Indonesia,2.52,kcal/capita/day
+2016,Palm,Indonesia,179.06,kcal/capita/day
+2016,Other oils,Indonesia,8.29,kcal/capita/day
+2016,Olive,Indonesia,0.12,kcal/capita/day
+2016,Cottonseed,Indonesia,0,kcal/capita/day
+2016,Corn,Indonesia,0.7,kcal/capita/day
+2016,Coconut,Indonesia,35.21,kcal/capita/day
+2017,Sunflower,Indonesia,0.81,kcal/capita/day
+2017,Soybean,Indonesia,44.36,kcal/capita/day
+2017,Sesame,Indonesia,0.07,kcal/capita/day
+2017,Ricebran,Indonesia,0,kcal/capita/day
+2017,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2017,Peanut,Indonesia,2.44,kcal/capita/day
+2017,Palm,Indonesia,190.54,kcal/capita/day
+2017,Other oils,Indonesia,8.96,kcal/capita/day
+2017,Olive,Indonesia,0.13,kcal/capita/day
+2017,Cottonseed,Indonesia,0,kcal/capita/day
+2017,Corn,Indonesia,0.7,kcal/capita/day
+2017,Coconut,Indonesia,38.4,kcal/capita/day
+2018,Sunflower,Indonesia,0.82,kcal/capita/day
+2018,Soybean,Indonesia,44.91,kcal/capita/day
+2018,Sesame,Indonesia,0.07,kcal/capita/day
+2018,Ricebran,Indonesia,0,kcal/capita/day
+2018,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2018,Peanut,Indonesia,2.45,kcal/capita/day
+2018,Palm,Indonesia,189.14,kcal/capita/day
+2018,Other oils,Indonesia,9.07,kcal/capita/day
+2018,Olive,Indonesia,0.22,kcal/capita/day
+2018,Cottonseed,Indonesia,0,kcal/capita/day
+2018,Corn,Indonesia,0.71,kcal/capita/day
+2018,Coconut,Indonesia,23.4,kcal/capita/day
+2019,Sunflower,Indonesia,0.8,kcal/capita/day
+2019,Soybean,Indonesia,43.53,kcal/capita/day
+2019,Sesame,Indonesia,0.05,kcal/capita/day
+2019,Ricebran,Indonesia,0,kcal/capita/day
+2019,Rapeseed/Canola,Indonesia,0,kcal/capita/day
+2019,Peanut,Indonesia,2.39,kcal/capita/day
+2019,Palm,Indonesia,211.29,kcal/capita/day
+2019,Other oils,Indonesia,31.75,kcal/capita/day
+2019,Olive,Indonesia,0.3,kcal/capita/day
+2019,Cottonseed,Indonesia,0,kcal/capita/day
+2019,Corn,Indonesia,0.69,kcal/capita/day
+2019,Coconut,Indonesia,37.64,kcal/capita/day
+2010,Sunflower,Israel,48.63,kcal/capita/day
+2010,Soybean,Israel,141.55,kcal/capita/day
+2010,Sesame,Israel,0.33,kcal/capita/day
+2010,Rapeseed/Canola,Israel,142.28,kcal/capita/day
+2010,Peanut,Israel,0.04,kcal/capita/day
+2010,Palm,Israel,70.2,kcal/capita/day
+2010,Other oils,Israel,103.6,kcal/capita/day
+2010,Olive,Israel,50.19,kcal/capita/day
+2010,Cottonseed,Israel,10.84,kcal/capita/day
+2010,Corn,Israel,42.11,kcal/capita/day
+2010,Coconut,Israel,2.36,kcal/capita/day
+2011,Sunflower,Israel,48.88,kcal/capita/day
+2011,Soybean,Israel,142.3,kcal/capita/day
+2011,Sesame,Israel,0.33,kcal/capita/day
+2011,Rapeseed/Canola,Israel,145.42,kcal/capita/day
+2011,Peanut,Israel,0.02,kcal/capita/day
+2011,Palm,Israel,69.61,kcal/capita/day
+2011,Other oils,Israel,105.55,kcal/capita/day
+2011,Olive,Israel,45.76,kcal/capita/day
+2011,Cottonseed,Israel,10.9,kcal/capita/day
+2011,Corn,Israel,38.23,kcal/capita/day
+2011,Coconut,Israel,5.85,kcal/capita/day
+2012,Sunflower,Israel,48.92,kcal/capita/day
+2012,Soybean,Israel,142.41,kcal/capita/day
+2012,Sesame,Israel,0.33,kcal/capita/day
+2012,Rapeseed/Canola,Israel,188.89,kcal/capita/day
+2012,Peanut,Israel,0,kcal/capita/day
+2012,Palm,Israel,69.7,kcal/capita/day
+2012,Other oils,Israel,118.97,kcal/capita/day
+2012,Olive,Israel,49.42,kcal/capita/day
+2012,Cottonseed,Israel,10.91,kcal/capita/day
+2012,Corn,Israel,36.34,kcal/capita/day
+2012,Coconut,Israel,3.03,kcal/capita/day
+2013,Sunflower,Israel,49.13,kcal/capita/day
+2013,Soybean,Israel,144.02,kcal/capita/day
+2013,Sesame,Israel,0.33,kcal/capita/day
+2013,Rapeseed/Canola,Israel,182.51,kcal/capita/day
+2013,Peanut,Israel,0.02,kcal/capita/day
+2013,Palm,Israel,69.97,kcal/capita/day
+2013,Other oils,Israel,108.98,kcal/capita/day
+2013,Olive,Israel,42.75,kcal/capita/day
+2013,Cottonseed,Israel,10.95,kcal/capita/day
+2013,Corn,Israel,34.92,kcal/capita/day
+2013,Coconut,Israel,2.38,kcal/capita/day
+2014,Sunflower,Israel,49.25,kcal/capita/day
+2014,Soybean,Israel,113.43,kcal/capita/day
+2014,Sesame,Israel,0.33,kcal/capita/day
+2014,Rapeseed/Canola,Israel,191.84,kcal/capita/day
+2014,Peanut,Israel,0.02,kcal/capita/day
+2014,Palm,Israel,70.4,kcal/capita/day
+2014,Other oils,Israel,118.77,kcal/capita/day
+2014,Olive,Israel,59.77,kcal/capita/day
+2014,Cottonseed,Israel,10.98,kcal/capita/day
+2014,Corn,Israel,37.58,kcal/capita/day
+2014,Coconut,Israel,3.83,kcal/capita/day
+2015,Sunflower,Israel,49.33,kcal/capita/day
+2015,Soybean,Israel,150.51,kcal/capita/day
+2015,Sesame,Israel,0.33,kcal/capita/day
+2015,Rapeseed/Canola,Israel,172.92,kcal/capita/day
+2015,Peanut,Israel,0,kcal/capita/day
+2015,Palm,Israel,69.7,kcal/capita/day
+2015,Other oils,Israel,96.03,kcal/capita/day
+2015,Olive,Israel,70.58,kcal/capita/day
+2015,Cottonseed,Israel,11,kcal/capita/day
+2015,Corn,Israel,30.76,kcal/capita/day
+2015,Coconut,Israel,0.88,kcal/capita/day
+2016,Sunflower,Israel,49.5,kcal/capita/day
+2016,Soybean,Israel,166.27,kcal/capita/day
+2016,Sesame,Israel,0.33,kcal/capita/day
+2016,Rapeseed/Canola,Israel,178.7,kcal/capita/day
+2016,Peanut,Israel,0.02,kcal/capita/day
+2016,Palm,Israel,70.76,kcal/capita/day
+2016,Other oils,Israel,84.49,kcal/capita/day
+2016,Olive,Israel,76.86,kcal/capita/day
+2016,Cottonseed,Israel,11.04,kcal/capita/day
+2016,Corn,Israel,33.56,kcal/capita/day
+2016,Coconut,Israel,2.49,kcal/capita/day
+2017,Sunflower,Israel,49.63,kcal/capita/day
+2017,Soybean,Israel,163.28,kcal/capita/day
+2017,Sesame,Israel,0.34,kcal/capita/day
+2017,Rapeseed/Canola,Israel,207.21,kcal/capita/day
+2017,Peanut,Israel,0,kcal/capita/day
+2017,Palm,Israel,70.96,kcal/capita/day
+2017,Other oils,Israel,82.27,kcal/capita/day
+2017,Olive,Israel,68,kcal/capita/day
+2017,Cottonseed,Israel,11.06,kcal/capita/day
+2017,Corn,Israel,39.58,kcal/capita/day
+2017,Coconut,Israel,2.74,kcal/capita/day
+2018,Sunflower,Israel,38.44,kcal/capita/day
+2018,Soybean,Israel,154.27,kcal/capita/day
+2018,Sesame,Israel,0.34,kcal/capita/day
+2018,Rapeseed/Canola,Israel,158.74,kcal/capita/day
+2018,Peanut,Israel,0.02,kcal/capita/day
+2018,Palm,Israel,71.1,kcal/capita/day
+2018,Other oils,Israel,67.33,kcal/capita/day
+2018,Olive,Israel,74.88,kcal/capita/day
+2018,Cottonseed,Israel,8.07,kcal/capita/day
+2018,Corn,Israel,26.23,kcal/capita/day
+2018,Coconut,Israel,2.37,kcal/capita/day
+2019,Sunflower,Israel,28.33,kcal/capita/day
+2019,Soybean,Israel,153.35,kcal/capita/day
+2019,Sesame,Israel,0.42,kcal/capita/day
+2019,Rapeseed/Canola,Israel,118.83,kcal/capita/day
+2019,Peanut,Israel,0,kcal/capita/day
+2019,Palm,Israel,26.79,kcal/capita/day
+2019,Other oils,Israel,96.08,kcal/capita/day
+2019,Olive,Israel,64.91,kcal/capita/day
+2019,Cottonseed,Israel,6.26,kcal/capita/day
+2019,Corn,Israel,27.18,kcal/capita/day
+2019,Coconut,Israel,5.09,kcal/capita/day
+2010,Sunflower,Italy,95.06,kcal/capita/day
+2010,Soybean,Italy,149.12,kcal/capita/day
+2010,Sesame,Italy,0.98,kcal/capita/day
+2010,Ricebran,Italy,0,kcal/capita/day
+2010,Rapeseed/Canola,Italy,4.4,kcal/capita/day
+2010,Peanut,Italy,16.69,kcal/capita/day
+2010,Palm,Italy,51.23,kcal/capita/day
+2010,Other oils,Italy,43.06,kcal/capita/day
+2010,Olive,Italy,267.65,kcal/capita/day
+2010,Cottonseed,Italy,0,kcal/capita/day
+2010,Corn,Italy,27.64,kcal/capita/day
+2011,Sunflower,Italy,96.05,kcal/capita/day
+2011,Soybean,Italy,148.63,kcal/capita/day
+2011,Sesame,Italy,1.12,kcal/capita/day
+2011,Ricebran,Italy,0,kcal/capita/day
+2011,Rapeseed/Canola,Italy,7.34,kcal/capita/day
+2011,Peanut,Italy,16.88,kcal/capita/day
+2011,Palm,Italy,64.49,kcal/capita/day
+2011,Other oils,Italy,42.91,kcal/capita/day
+2011,Olive,Italy,279.45,kcal/capita/day
+2011,Cottonseed,Italy,0,kcal/capita/day
+2011,Corn,Italy,23.76,kcal/capita/day
+2012,Sunflower,Italy,106.69,kcal/capita/day
+2012,Soybean,Italy,138.54,kcal/capita/day
+2012,Sesame,Italy,1.11,kcal/capita/day
+2012,Ricebran,Italy,0,kcal/capita/day
+2012,Rapeseed/Canola,Italy,7.71,kcal/capita/day
+2012,Peanut,Italy,13.72,kcal/capita/day
+2012,Palm,Italy,76.21,kcal/capita/day
+2012,Other oils,Italy,40.82,kcal/capita/day
+2012,Olive,Italy,260.38,kcal/capita/day
+2012,Cottonseed,Italy,0,kcal/capita/day
+2012,Corn,Italy,31.07,kcal/capita/day
+2013,Sunflower,Italy,101.32,kcal/capita/day
+2013,Soybean,Italy,136.09,kcal/capita/day
+2013,Sesame,Italy,1.35,kcal/capita/day
+2013,Ricebran,Italy,0,kcal/capita/day
+2013,Rapeseed/Canola,Italy,7.6,kcal/capita/day
+2013,Peanut,Italy,14.76,kcal/capita/day
+2013,Palm,Italy,91.93,kcal/capita/day
+2013,Other oils,Italy,42.18,kcal/capita/day
+2013,Olive,Italy,241.32,kcal/capita/day
+2013,Cottonseed,Italy,0,kcal/capita/day
+2013,Corn,Italy,26.73,kcal/capita/day
+2014,Sunflower,Italy,102.51,kcal/capita/day
+2014,Soybean,Italy,105.58,kcal/capita/day
+2014,Sesame,Italy,1.21,kcal/capita/day
+2014,Ricebran,Italy,0,kcal/capita/day
+2014,Rapeseed/Canola,Italy,8.24,kcal/capita/day
+2014,Peanut,Italy,15.29,kcal/capita/day
+2014,Palm,Italy,94.36,kcal/capita/day
+2014,Other oils,Italy,42.99,kcal/capita/day
+2014,Olive,Italy,244.87,kcal/capita/day
+2014,Cottonseed,Italy,0,kcal/capita/day
+2014,Corn,Italy,27.5,kcal/capita/day
+2015,Sunflower,Italy,102.66,kcal/capita/day
+2015,Soybean,Italy,102.62,kcal/capita/day
+2015,Sesame,Italy,1.21,kcal/capita/day
+2015,Ricebran,Italy,0,kcal/capita/day
+2015,Rapeseed/Canola,Italy,8.47,kcal/capita/day
+2015,Peanut,Italy,15.31,kcal/capita/day
+2015,Palm,Italy,94.1,kcal/capita/day
+2015,Other oils,Italy,42.51,kcal/capita/day
+2015,Olive,Italy,245.22,kcal/capita/day
+2015,Cottonseed,Italy,0,kcal/capita/day
+2015,Corn,Italy,27.54,kcal/capita/day
+2016,Sunflower,Italy,102.82,kcal/capita/day
+2016,Soybean,Italy,119.47,kcal/capita/day
+2016,Sesame,Italy,1.21,kcal/capita/day
+2016,Ricebran,Italy,0,kcal/capita/day
+2016,Rapeseed/Canola,Italy,7.51,kcal/capita/day
+2016,Peanut,Italy,15.33,kcal/capita/day
+2016,Palm,Italy,94.24,kcal/capita/day
+2016,Other oils,Italy,37.98,kcal/capita/day
+2016,Olive,Italy,245.61,kcal/capita/day
+2016,Cottonseed,Italy,0,kcal/capita/day
+2016,Corn,Italy,27.58,kcal/capita/day
+2017,Sunflower,Italy,103.11,kcal/capita/day
+2017,Soybean,Italy,121.9,kcal/capita/day
+2017,Sesame,Italy,1.21,kcal/capita/day
+2017,Ricebran,Italy,0,kcal/capita/day
+2017,Rapeseed/Canola,Italy,6.35,kcal/capita/day
+2017,Peanut,Italy,15.38,kcal/capita/day
+2017,Palm,Italy,94.49,kcal/capita/day
+2017,Other oils,Italy,29.77,kcal/capita/day
+2017,Olive,Italy,238.28,kcal/capita/day
+2017,Cottonseed,Italy,0,kcal/capita/day
+2017,Corn,Italy,27.66,kcal/capita/day
+2018,Sunflower,Italy,103.32,kcal/capita/day
+2018,Soybean,Italy,117.77,kcal/capita/day
+2018,Sesame,Italy,1.22,kcal/capita/day
+2018,Rapeseed/Canola,Italy,6.33,kcal/capita/day
+2018,Peanut,Italy,17.44,kcal/capita/day
+2018,Palm,Italy,95.29,kcal/capita/day
+2018,Other oils,Italy,42.78,kcal/capita/day
+2018,Olive,Italy,213.7,kcal/capita/day
+2018,Cottonseed,Italy,0,kcal/capita/day
+2018,Corn,Italy,24.42,kcal/capita/day
+2019,Sunflower,Italy,100,kcal/capita/day
+2019,Soybean,Italy,123.97,kcal/capita/day
+2019,Sesame,Italy,1.29,kcal/capita/day
+2019,Rapeseed/Canola,Italy,4.9,kcal/capita/day
+2019,Peanut,Italy,19.64,kcal/capita/day
+2019,Palm,Italy,99.71,kcal/capita/day
+2019,Other oils,Italy,63.46,kcal/capita/day
+2019,Olive,Italy,208.94,kcal/capita/day
+2019,Cottonseed,Italy,0,kcal/capita/day
+2019,Corn,Italy,23.74,kcal/capita/day
+2010,Sunflower,Japan,3.5,kcal/capita/day
+2010,Soybean,Japan,82.26,kcal/capita/day
+2010,Ricebran,Japan,3.77,kcal/capita/day
+2010,Rapeseed/Canola,Japan,156.27,kcal/capita/day
+2010,Peanut,Japan,0.16,kcal/capita/day
+2010,Palm,Japan,20,kcal/capita/day
+2010,Other oils,Japan,60.86,kcal/capita/day
+2010,Olive,Japan,7.47,kcal/capita/day
+2010,Corn,Japan,15.65,kcal/capita/day
+2010,Coconut,Japan,6.59,kcal/capita/day
+2011,Sunflower,Japan,3.5,kcal/capita/day
+2011,Soybean,Japan,72.63,kcal/capita/day
+2011,Ricebran,Japan,4.33,kcal/capita/day
+2011,Rapeseed/Canola,Japan,162.63,kcal/capita/day
+2011,Peanut,Japan,0.16,kcal/capita/day
+2011,Palm,Japan,20.25,kcal/capita/day
+2011,Other oils,Japan,60.57,kcal/capita/day
+2011,Olive,Japan,6.83,kcal/capita/day
+2011,Corn,Japan,15.65,kcal/capita/day
+2011,Coconut,Japan,6.41,kcal/capita/day
+2012,Sunflower,Japan,3.51,kcal/capita/day
+2012,Soybean,Japan,67.71,kcal/capita/day
+2012,Ricebran,Japan,3.96,kcal/capita/day
+2012,Rapeseed/Canola,Japan,169.04,kcal/capita/day
+2012,Peanut,Japan,0.16,kcal/capita/day
+2012,Palm,Japan,19.62,kcal/capita/day
+2012,Other oils,Japan,60.78,kcal/capita/day
+2012,Olive,Japan,8.74,kcal/capita/day
+2012,Corn,Japan,15.69,kcal/capita/day
+2012,Coconut,Japan,6.6,kcal/capita/day
+2013,Sunflower,Japan,3.53,kcal/capita/day
+2013,Soybean,Japan,72.33,kcal/capita/day
+2013,Ricebran,Japan,4.15,kcal/capita/day
+2013,Rapeseed/Canola,Japan,165.99,kcal/capita/day
+2013,Peanut,Japan,0.16,kcal/capita/day
+2013,Palm,Japan,20.37,kcal/capita/day
+2013,Other oils,Japan,60.34,kcal/capita/day
+2013,Olive,Japan,9.65,kcal/capita/day
+2013,Corn,Japan,15.75,kcal/capita/day
+2013,Coconut,Japan,6.61,kcal/capita/day
+2014,Sunflower,Japan,3.53,kcal/capita/day
+2014,Soybean,Japan,68.91,kcal/capita/day
+2014,Ricebran,Japan,4.16,kcal/capita/day
+2014,Rapeseed/Canola,Japan,168.29,kcal/capita/day
+2014,Peanut,Japan,0.16,kcal/capita/day
+2014,Palm,Japan,20.67,kcal/capita/day
+2014,Other oils,Japan,60.61,kcal/capita/day
+2014,Olive,Japan,10.38,kcal/capita/day
+2014,Corn,Japan,16.01,kcal/capita/day
+2014,Coconut,Japan,7.13,kcal/capita/day
+2015,Sunflower,Japan,3.54,kcal/capita/day
+2015,Soybean,Japan,74.1,kcal/capita/day
+2015,Ricebran,Japan,4.16,kcal/capita/day
+2015,Rapeseed/Canola,Japan,168.47,kcal/capita/day
+2015,Peanut,Japan,0.16,kcal/capita/day
+2015,Palm,Japan,20.82,kcal/capita/day
+2015,Other oils,Japan,60.54,kcal/capita/day
+2015,Olive,Japan,10.81,kcal/capita/day
+2015,Corn,Japan,16.04,kcal/capita/day
+2015,Coconut,Japan,7.53,kcal/capita/day
+2016,Sunflower,Japan,3.54,kcal/capita/day
+2016,Soybean,Japan,76.56,kcal/capita/day
+2016,Ricebran,Japan,4.17,kcal/capita/day
+2016,Rapeseed/Canola,Japan,159.06,kcal/capita/day
+2016,Peanut,Japan,0.16,kcal/capita/day
+2016,Palm,Japan,20.7,kcal/capita/day
+2016,Other oils,Japan,60.23,kcal/capita/day
+2016,Olive,Japan,10.49,kcal/capita/day
+2016,Corn,Japan,15.32,kcal/capita/day
+2016,Coconut,Japan,6.41,kcal/capita/day
+2017,Sunflower,Japan,3.55,kcal/capita/day
+2017,Soybean,Japan,82.8,kcal/capita/day
+2017,Ricebran,Japan,4.18,kcal/capita/day
+2017,Rapeseed/Canola,Japan,169.81,kcal/capita/day
+2017,Peanut,Japan,0.16,kcal/capita/day
+2017,Palm,Japan,21.79,kcal/capita/day
+2017,Other oils,Japan,60.18,kcal/capita/day
+2017,Olive,Japan,10.41,kcal/capita/day
+2017,Corn,Japan,13.67,kcal/capita/day
+2017,Coconut,Japan,6.39,kcal/capita/day
+2018,Sunflower,Japan,3.56,kcal/capita/day
+2018,Soybean,Japan,82.37,kcal/capita/day
+2018,Ricebran,Japan,4.19,kcal/capita/day
+2018,Rapeseed/Canola,Japan,160.92,kcal/capita/day
+2018,Peanut,Japan,0.16,kcal/capita/day
+2018,Palm,Japan,21.72,kcal/capita/day
+2018,Other oils,Japan,60.28,kcal/capita/day
+2018,Olive,Japan,10.62,kcal/capita/day
+2018,Corn,Japan,15.17,kcal/capita/day
+2018,Coconut,Japan,6.11,kcal/capita/day
+2019,Sunflower,Japan,5.24,kcal/capita/day
+2019,Soybean,Japan,88.7,kcal/capita/day
+2019,Ricebran,Japan,3.97,kcal/capita/day
+2019,Rapeseed/Canola,Japan,164.56,kcal/capita/day
+2019,Peanut,Japan,0.16,kcal/capita/day
+2019,Palm,Japan,22.02,kcal/capita/day
+2019,Other oils,Japan,65.66,kcal/capita/day
+2019,Olive,Japan,13.33,kcal/capita/day
+2019,Corn,Japan,14.54,kcal/capita/day
+2019,Coconut,Japan,5.93,kcal/capita/day
+2010,Sunflower,Mexico,0.04,kcal/capita/day
+2010,Soybean,Mexico,109.81,kcal/capita/day
+2010,Sesame,Mexico,1.57,kcal/capita/day
+2010,Rapeseed/Canola,Mexico,35.5,kcal/capita/day
+2010,Peanut,Mexico,0.51,kcal/capita/day
+2010,Palm,Mexico,79.81,kcal/capita/day
+2010,Other oils,Mexico,33.62,kcal/capita/day
+2010,Olive,Mexico,2.68,kcal/capita/day
+2010,Cottonseed,Mexico,4.12,kcal/capita/day
+2010,Corn,Mexico,5.71,kcal/capita/day
+2010,Coconut,Mexico,5.42,kcal/capita/day
+2011,Sunflower,Mexico,1.86,kcal/capita/day
+2011,Soybean,Mexico,118.81,kcal/capita/day
+2011,Sesame,Mexico,1.57,kcal/capita/day
+2011,Rapeseed/Canola,Mexico,44.33,kcal/capita/day
+2011,Peanut,Mexico,0.52,kcal/capita/day
+2011,Palm,Mexico,79.99,kcal/capita/day
+2011,Other oils,Mexico,6.03,kcal/capita/day
+2011,Olive,Mexico,2.69,kcal/capita/day
+2011,Cottonseed,Mexico,11.39,kcal/capita/day
+2011,Corn,Mexico,5.72,kcal/capita/day
+2011,Coconut,Mexico,15.83,kcal/capita/day
+2012,Sunflower,Mexico,1.03,kcal/capita/day
+2012,Soybean,Mexico,119.69,kcal/capita/day
+2012,Sesame,Mexico,1.57,kcal/capita/day
+2012,Rapeseed/Canola,Mexico,48.36,kcal/capita/day
+2012,Peanut,Mexico,0.52,kcal/capita/day
+2012,Palm,Mexico,80.17,kcal/capita/day
+2012,Other oils,Mexico,5.65,kcal/capita/day
+2012,Olive,Mexico,2.73,kcal/capita/day
+2012,Cottonseed,Mexico,11.92,kcal/capita/day
+2012,Corn,Mexico,5.74,kcal/capita/day
+2012,Coconut,Mexico,16.58,kcal/capita/day
+2013,Sunflower,Mexico,0.93,kcal/capita/day
+2013,Soybean,Mexico,119.1,kcal/capita/day
+2013,Sesame,Mexico,1.57,kcal/capita/day
+2013,Rapeseed/Canola,Mexico,42.1,kcal/capita/day
+2013,Peanut,Mexico,0.52,kcal/capita/day
+2013,Palm,Mexico,80.17,kcal/capita/day
+2013,Other oils,Mexico,5.66,kcal/capita/day
+2013,Olive,Mexico,2.7,kcal/capita/day
+2013,Cottonseed,Mexico,11.42,kcal/capita/day
+2013,Corn,Mexico,5.74,kcal/capita/day
+2013,Coconut,Mexico,15.85,kcal/capita/day
+2014,Sunflower,Mexico,1.27,kcal/capita/day
+2014,Soybean,Mexico,119.27,kcal/capita/day
+2014,Sesame,Mexico,1.58,kcal/capita/day
+2014,Rapeseed/Canola,Mexico,41.54,kcal/capita/day
+2014,Peanut,Mexico,0.52,kcal/capita/day
+2014,Palm,Mexico,80.31,kcal/capita/day
+2014,Other oils,Mexico,5.65,kcal/capita/day
+2014,Olive,Mexico,2.7,kcal/capita/day
+2014,Cottonseed,Mexico,11.42,kcal/capita/day
+2014,Corn,Mexico,5.75,kcal/capita/day
+2014,Coconut,Mexico,15.9,kcal/capita/day
+2015,Sunflower,Mexico,3.87,kcal/capita/day
+2015,Soybean,Mexico,119.54,kcal/capita/day
+2015,Sesame,Mexico,1.58,kcal/capita/day
+2015,Rapeseed/Canola,Mexico,42.62,kcal/capita/day
+2015,Peanut,Mexico,0.52,kcal/capita/day
+2015,Palm,Mexico,80.47,kcal/capita/day
+2015,Other oils,Mexico,5.66,kcal/capita/day
+2015,Olive,Mexico,2.7,kcal/capita/day
+2015,Cottonseed,Mexico,11.54,kcal/capita/day
+2015,Corn,Mexico,5.76,kcal/capita/day
+2015,Coconut,Mexico,15.91,kcal/capita/day
+2016,Sunflower,Mexico,8.31,kcal/capita/day
+2016,Soybean,Mexico,110.92,kcal/capita/day
+2016,Sesame,Mexico,1.58,kcal/capita/day
+2016,Rapeseed/Canola,Mexico,41.24,kcal/capita/day
+2016,Peanut,Mexico,0.52,kcal/capita/day
+2016,Palm,Mexico,80.61,kcal/capita/day
+2016,Other oils,Mexico,33.95,kcal/capita/day
+2016,Olive,Mexico,2.71,kcal/capita/day
+2016,Cottonseed,Mexico,4.1,kcal/capita/day
+2016,Corn,Mexico,5.77,kcal/capita/day
+2016,Coconut,Mexico,5.46,kcal/capita/day
+2017,Sunflower,Mexico,5.66,kcal/capita/day
+2017,Soybean,Mexico,119.79,kcal/capita/day
+2017,Sesame,Mexico,1.58,kcal/capita/day
+2017,Rapeseed/Canola,Mexico,43.58,kcal/capita/day
+2017,Peanut,Mexico,0.52,kcal/capita/day
+2017,Palm,Mexico,80.64,kcal/capita/day
+2017,Other oils,Mexico,4.81,kcal/capita/day
+2017,Olive,Mexico,2.74,kcal/capita/day
+2017,Cottonseed,Mexico,11.5,kcal/capita/day
+2017,Corn,Mexico,5.77,kcal/capita/day
+2017,Coconut,Mexico,15.94,kcal/capita/day
+2018,Sunflower,Mexico,25.77,kcal/capita/day
+2018,Soybean,Mexico,119.94,kcal/capita/day
+2018,Sesame,Mexico,1.59,kcal/capita/day
+2018,Rapeseed/Canola,Mexico,40.16,kcal/capita/day
+2018,Peanut,Mexico,0.52,kcal/capita/day
+2018,Palm,Mexico,80.73,kcal/capita/day
+2018,Other oils,Mexico,2.91,kcal/capita/day
+2018,Olive,Mexico,3.11,kcal/capita/day
+2018,Cottonseed,Mexico,11.61,kcal/capita/day
+2018,Corn,Mexico,5.78,kcal/capita/day
+2018,Coconut,Mexico,15.95,kcal/capita/day
+2019,Sunflower,Mexico,9.82,kcal/capita/day
+2019,Soybean,Mexico,115.3,kcal/capita/day
+2019,Sesame,Mexico,1.58,kcal/capita/day
+2019,Rapeseed/Canola,Mexico,18.46,kcal/capita/day
+2019,Peanut,Mexico,0.52,kcal/capita/day
+2019,Palm,Mexico,80.68,kcal/capita/day
+2019,Other oils,Mexico,80.4,kcal/capita/day
+2019,Olive,Mexico,3.51,kcal/capita/day
+2019,Cottonseed,Mexico,1.23,kcal/capita/day
+2019,Corn,Mexico,7.42,kcal/capita/day
+2019,Coconut,Mexico,0.08,kcal/capita/day
+2010,Sunflower,Morocco,35.5,kcal/capita/day
+2010,Soybean,Morocco,140.87,kcal/capita/day
+2010,Sesame,Morocco,0.01,kcal/capita/day
+2010,Rapeseed/Canola,Morocco,0,kcal/capita/day
+2010,Peanut,Morocco,9.14,kcal/capita/day
+2010,Other oils,Morocco,8.9,kcal/capita/day
+2010,Olive,Morocco,97.09,kcal/capita/day
+2010,Cottonseed,Morocco,0.02,kcal/capita/day
+2010,Corn,Morocco,1.67,kcal/capita/day
+2010,Coconut,Morocco,0.39,kcal/capita/day
+2011,Sunflower,Morocco,35.85,kcal/capita/day
+2011,Soybean,Morocco,142.24,kcal/capita/day
+2011,Sesame,Morocco,0.05,kcal/capita/day
+2011,Rapeseed/Canola,Morocco,0.28,kcal/capita/day
+2011,Peanut,Morocco,8.31,kcal/capita/day
+2011,Other oils,Morocco,9.38,kcal/capita/day
+2011,Olive,Morocco,70.68,kcal/capita/day
+2011,Cottonseed,Morocco,0.02,kcal/capita/day
+2011,Corn,Morocco,1.26,kcal/capita/day
+2011,Coconut,Morocco,0.76,kcal/capita/day
+2012,Sunflower,Morocco,35.91,kcal/capita/day
+2012,Soybean,Morocco,142.49,kcal/capita/day
+2012,Sesame,Morocco,0.01,kcal/capita/day
+2012,Rapeseed/Canola,Morocco,0.72,kcal/capita/day
+2012,Peanut,Morocco,8.32,kcal/capita/day
+2012,Other oils,Morocco,11.07,kcal/capita/day
+2012,Olive,Morocco,74.89,kcal/capita/day
+2012,Cottonseed,Morocco,0.02,kcal/capita/day
+2012,Corn,Morocco,1.26,kcal/capita/day
+2012,Coconut,Morocco,0.01,kcal/capita/day
+2013,Sunflower,Morocco,36.16,kcal/capita/day
+2013,Soybean,Morocco,143.47,kcal/capita/day
+2013,Sesame,Morocco,0.01,kcal/capita/day
+2013,Rapeseed/Canola,Morocco,4.27,kcal/capita/day
+2013,Peanut,Morocco,8.38,kcal/capita/day
+2013,Other oils,Morocco,9.84,kcal/capita/day
+2013,Olive,Morocco,66.46,kcal/capita/day
+2013,Cottonseed,Morocco,0.02,kcal/capita/day
+2013,Corn,Morocco,1.27,kcal/capita/day
+2013,Coconut,Morocco,0.11,kcal/capita/day
+2014,Sunflower,Morocco,36.39,kcal/capita/day
+2014,Soybean,Morocco,144.39,kcal/capita/day
+2014,Sesame,Morocco,0.01,kcal/capita/day
+2014,Rapeseed/Canola,Morocco,0,kcal/capita/day
+2014,Peanut,Morocco,8.43,kcal/capita/day
+2014,Other oils,Morocco,9.14,kcal/capita/day
+2014,Olive,Morocco,84.44,kcal/capita/day
+2014,Cottonseed,Morocco,0.02,kcal/capita/day
+2014,Corn,Morocco,1.25,kcal/capita/day
+2014,Coconut,Morocco,0.04,kcal/capita/day
+2015,Sunflower,Morocco,36.64,kcal/capita/day
+2015,Soybean,Morocco,145.37,kcal/capita/day
+2015,Sesame,Morocco,0.01,kcal/capita/day
+2015,Rapeseed/Canola,Morocco,4.53,kcal/capita/day
+2015,Peanut,Morocco,8.49,kcal/capita/day
+2015,Other oils,Morocco,9.43,kcal/capita/day
+2015,Olive,Morocco,62.86,kcal/capita/day
+2015,Cottonseed,Morocco,0.02,kcal/capita/day
+2015,Corn,Morocco,1.26,kcal/capita/day
+2015,Coconut,Morocco,0.3,kcal/capita/day
+2016,Sunflower,Morocco,36.78,kcal/capita/day
+2016,Soybean,Morocco,145.95,kcal/capita/day
+2016,Sesame,Morocco,0.01,kcal/capita/day
+2016,Rapeseed/Canola,Morocco,2.43,kcal/capita/day
+2016,Peanut,Morocco,8.52,kcal/capita/day
+2016,Other oils,Morocco,9.64,kcal/capita/day
+2016,Olive,Morocco,77.59,kcal/capita/day
+2016,Cottonseed,Morocco,0.02,kcal/capita/day
+2016,Corn,Morocco,1.35,kcal/capita/day
+2016,Coconut,Morocco,0.3,kcal/capita/day
+2017,Sunflower,Morocco,37.1,kcal/capita/day
+2017,Soybean,Morocco,147.2,kcal/capita/day
+2017,Sesame,Morocco,0.01,kcal/capita/day
+2017,Rapeseed/Canola,Morocco,3.26,kcal/capita/day
+2017,Peanut,Morocco,8.55,kcal/capita/day
+2017,Other oils,Morocco,10.36,kcal/capita/day
+2017,Olive,Morocco,66.74,kcal/capita/day
+2017,Cottonseed,Morocco,0.02,kcal/capita/day
+2017,Corn,Morocco,1.28,kcal/capita/day
+2017,Coconut,Morocco,0.29,kcal/capita/day
+2018,Sunflower,Morocco,36.76,kcal/capita/day
+2018,Soybean,Morocco,145.87,kcal/capita/day
+2018,Sesame,Morocco,0.02,kcal/capita/day
+2018,Ricebran,Morocco,0,kcal/capita/day
+2018,Rapeseed/Canola,Morocco,1.28,kcal/capita/day
+2018,Peanut,Morocco,8.52,kcal/capita/day
+2018,Other oils,Morocco,9.63,kcal/capita/day
+2018,Olive,Morocco,92.91,kcal/capita/day
+2018,Cottonseed,Morocco,0.02,kcal/capita/day
+2018,Corn,Morocco,1.26,kcal/capita/day
+2018,Coconut,Morocco,0.3,kcal/capita/day
+2019,Sunflower,Morocco,38.79,kcal/capita/day
+2019,Soybean,Morocco,170.13,kcal/capita/day
+2019,Sesame,Morocco,0.01,kcal/capita/day
+2019,Ricebran,Morocco,0,kcal/capita/day
+2019,Rapeseed/Canola,Morocco,2.34,kcal/capita/day
+2019,Peanut,Morocco,9.83,kcal/capita/day
+2019,Other oils,Morocco,8.12,kcal/capita/day
+2019,Olive,Morocco,91.66,kcal/capita/day
+2019,Cottonseed,Morocco,0.02,kcal/capita/day
+2019,Corn,Morocco,2.17,kcal/capita/day
+2019,Coconut,Morocco,0.29,kcal/capita/day
+2010,Sunflower,Philippines,0.31,kcal/capita/day
+2010,Soybean,Philippines,6.59,kcal/capita/day
+2010,Sesame,Philippines,0.12,kcal/capita/day
+2010,Rapeseed/Canola,Philippines,0.66,kcal/capita/day
+2010,Peanut,Philippines,0.86,kcal/capita/day
+2010,Palm,Philippines,24.06,kcal/capita/day
+2010,Other oils,Philippines,0.36,kcal/capita/day
+2010,Olive,Philippines,0.48,kcal/capita/day
+2010,Corn,Philippines,2.15,kcal/capita/day
+2010,Coconut,Philippines,100.59,kcal/capita/day
+2011,Sunflower,Philippines,0.32,kcal/capita/day
+2011,Soybean,Philippines,5.71,kcal/capita/day
+2011,Sesame,Philippines,0.12,kcal/capita/day
+2011,Rapeseed/Canola,Philippines,0.23,kcal/capita/day
+2011,Peanut,Philippines,0.82,kcal/capita/day
+2011,Palm,Philippines,29.62,kcal/capita/day
+2011,Other oils,Philippines,0.55,kcal/capita/day
+2011,Olive,Philippines,0.48,kcal/capita/day
+2011,Corn,Philippines,1.88,kcal/capita/day
+2011,Coconut,Philippines,72.54,kcal/capita/day
+2012,Sunflower,Philippines,0.2,kcal/capita/day
+2012,Soybean,Philippines,5.46,kcal/capita/day
+2012,Sesame,Philippines,0.12,kcal/capita/day
+2012,Rapeseed/Canola,Philippines,0.23,kcal/capita/day
+2012,Peanut,Philippines,0.46,kcal/capita/day
+2012,Palm,Philippines,32.04,kcal/capita/day
+2012,Other oils,Philippines,1.32,kcal/capita/day
+2012,Olive,Philippines,0.49,kcal/capita/day
+2012,Corn,Philippines,1.89,kcal/capita/day
+2012,Coconut,Philippines,95.31,kcal/capita/day
+2013,Sunflower,Philippines,0.21,kcal/capita/day
+2013,Soybean,Philippines,3.98,kcal/capita/day
+2013,Sesame,Philippines,0.12,kcal/capita/day
+2013,Rapeseed/Canola,Philippines,0.24,kcal/capita/day
+2013,Peanut,Philippines,0.47,kcal/capita/day
+2013,Palm,Philippines,31.85,kcal/capita/day
+2013,Other oils,Philippines,0.37,kcal/capita/day
+2013,Olive,Philippines,0.49,kcal/capita/day
+2013,Corn,Philippines,1.91,kcal/capita/day
+2013,Coconut,Philippines,110.31,kcal/capita/day
+2014,Sunflower,Philippines,0.13,kcal/capita/day
+2014,Soybean,Philippines,4.01,kcal/capita/day
+2014,Sesame,Philippines,0.13,kcal/capita/day
+2014,Rapeseed/Canola,Philippines,0.24,kcal/capita/day
+2014,Peanut,Philippines,0.24,kcal/capita/day
+2014,Palm,Philippines,47.87,kcal/capita/day
+2014,Other oils,Philippines,0.51,kcal/capita/day
+2014,Olive,Philippines,0.55,kcal/capita/day
+2014,Corn,Philippines,1.93,kcal/capita/day
+2014,Coconut,Philippines,49,kcal/capita/day
+2015,Sunflower,Philippines,0.25,kcal/capita/day
+2015,Soybean,Philippines,2.28,kcal/capita/day
+2015,Sesame,Philippines,0.13,kcal/capita/day
+2015,Rapeseed/Canola,Philippines,0.24,kcal/capita/day
+2015,Peanut,Philippines,0.58,kcal/capita/day
+2015,Palm,Philippines,64.2,kcal/capita/day
+2015,Other oils,Philippines,0.29,kcal/capita/day
+2015,Olive,Philippines,0.56,kcal/capita/day
+2015,Corn,Philippines,1.95,kcal/capita/day
+2015,Coconut,Philippines,55.1,kcal/capita/day
+2016,Sunflower,Philippines,0.25,kcal/capita/day
+2016,Soybean,Philippines,5.56,kcal/capita/day
+2016,Sesame,Philippines,0.13,kcal/capita/day
+2016,Rapeseed/Canola,Philippines,0.24,kcal/capita/day
+2016,Peanut,Philippines,0.6,kcal/capita/day
+2016,Palm,Philippines,49.51,kcal/capita/day
+2016,Other oils,Philippines,0.34,kcal/capita/day
+2016,Olive,Philippines,0.51,kcal/capita/day
+2016,Corn,Philippines,1.97,kcal/capita/day
+2016,Coconut,Philippines,92.82,kcal/capita/day
+2017,Sunflower,Philippines,0.26,kcal/capita/day
+2017,Soybean,Philippines,5.61,kcal/capita/day
+2017,Sesame,Philippines,0.19,kcal/capita/day
+2017,Rapeseed/Canola,Philippines,0.25,kcal/capita/day
+2017,Peanut,Philippines,0.61,kcal/capita/day
+2017,Palm,Philippines,76.44,kcal/capita/day
+2017,Other oils,Philippines,0.32,kcal/capita/day
+2017,Olive,Philippines,0.62,kcal/capita/day
+2017,Corn,Philippines,1.99,kcal/capita/day
+2017,Coconut,Philippines,69.29,kcal/capita/day
+2018,Sunflower,Philippines,0.26,kcal/capita/day
+2018,Soybean,Philippines,5.66,kcal/capita/day
+2018,Sesame,Philippines,0.19,kcal/capita/day
+2018,Rapeseed/Canola,Philippines,3.5,kcal/capita/day
+2018,Peanut,Philippines,0.62,kcal/capita/day
+2018,Palm,Philippines,85.85,kcal/capita/day
+2018,Other oils,Philippines,0.36,kcal/capita/day
+2018,Olive,Philippines,0.87,kcal/capita/day
+2018,Corn,Philippines,2,kcal/capita/day
+2018,Coconut,Philippines,79.18,kcal/capita/day
+2019,Sunflower,Philippines,0.22,kcal/capita/day
+2019,Soybean,Philippines,7.42,kcal/capita/day
+2019,Sesame,Philippines,0.4,kcal/capita/day
+2019,Rapeseed/Canola,Philippines,5.46,kcal/capita/day
+2019,Peanut,Philippines,2.22,kcal/capita/day
+2019,Palm,Philippines,73.14,kcal/capita/day
+2019,Other oils,Philippines,0.74,kcal/capita/day
+2019,Olive,Philippines,0.8,kcal/capita/day
+2019,Corn,Philippines,2.08,kcal/capita/day
+2019,Coconut,Philippines,16.92,kcal/capita/day
+2010,Sunflower,Spain,246.14,kcal/capita/day
+2010,Soybean,Spain,82.24,kcal/capita/day
+2010,Sesame,Spain,0.02,kcal/capita/day
+2010,Rapeseed/Canola,Spain,2.62,kcal/capita/day
+2010,Peanut,Spain,0.49,kcal/capita/day
+2010,Palm,Spain,1.82,kcal/capita/day
+2010,Other oils,Spain,34.57,kcal/capita/day
+2010,Olive,Spain,271.19,kcal/capita/day
+2010,Cottonseed,Spain,6.76,kcal/capita/day
+2010,Corn,Spain,7.68,kcal/capita/day
+2011,Sunflower,Spain,259.14,kcal/capita/day
+2011,Soybean,Spain,84.74,kcal/capita/day
+2011,Sesame,Spain,0.03,kcal/capita/day
+2011,Rapeseed/Canola,Spain,2.6,kcal/capita/day
+2011,Peanut,Spain,0.15,kcal/capita/day
+2011,Palm,Spain,1.75,kcal/capita/day
+2011,Other oils,Spain,37.05,kcal/capita/day
+2011,Olive,Spain,267.5,kcal/capita/day
+2011,Cottonseed,Spain,5.99,kcal/capita/day
+2011,Corn,Spain,11.9,kcal/capita/day
+2012,Sunflower,Spain,272.68,kcal/capita/day
+2012,Soybean,Spain,75.68,kcal/capita/day
+2012,Sesame,Spain,0.06,kcal/capita/day
+2012,Rapeseed/Canola,Spain,2.59,kcal/capita/day
+2012,Peanut,Spain,0.09,kcal/capita/day
+2012,Palm,Spain,1.86,kcal/capita/day
+2012,Other oils,Spain,35.19,kcal/capita/day
+2012,Olive,Spain,263.11,kcal/capita/day
+2012,Cottonseed,Spain,7.46,kcal/capita/day
+2012,Corn,Spain,12.27,kcal/capita/day
+2013,Sunflower,Spain,270.61,kcal/capita/day
+2013,Soybean,Spain,71.75,kcal/capita/day
+2013,Sesame,Spain,0.05,kcal/capita/day
+2013,Rapeseed/Canola,Spain,2.58,kcal/capita/day
+2013,Peanut,Spain,0.36,kcal/capita/day
+2013,Palm,Spain,2.07,kcal/capita/day
+2013,Other oils,Spain,35.86,kcal/capita/day
+2013,Olive,Spain,264.61,kcal/capita/day
+2013,Cottonseed,Spain,7.55,kcal/capita/day
+2013,Corn,Spain,13,kcal/capita/day
+2014,Sunflower,Spain,276.48,kcal/capita/day
+2014,Soybean,Spain,37.95,kcal/capita/day
+2014,Sesame,Spain,0.05,kcal/capita/day
+2014,Rapeseed/Canola,Spain,2.59,kcal/capita/day
+2014,Peanut,Spain,0.2,kcal/capita/day
+2014,Palm,Spain,1.88,kcal/capita/day
+2014,Other oils,Spain,35.74,kcal/capita/day
+2014,Olive,Spain,263.52,kcal/capita/day
+2014,Cottonseed,Spain,6.96,kcal/capita/day
+2014,Corn,Spain,14.09,kcal/capita/day
+2015,Sunflower,Spain,272.39,kcal/capita/day
+2015,Soybean,Spain,73.81,kcal/capita/day
+2015,Sesame,Spain,0.05,kcal/capita/day
+2015,Rapeseed/Canola,Spain,2.62,kcal/capita/day
+2015,Peanut,Spain,0.2,kcal/capita/day
+2015,Palm,Spain,1.9,kcal/capita/day
+2015,Other oils,Spain,35.89,kcal/capita/day
+2015,Olive,Spain,263.13,kcal/capita/day
+2015,Cottonseed,Spain,7.03,kcal/capita/day
+2015,Corn,Spain,17.12,kcal/capita/day
+2016,Sunflower,Spain,277.85,kcal/capita/day
+2016,Soybean,Spain,78.94,kcal/capita/day
+2016,Sesame,Spain,0.05,kcal/capita/day
+2016,Rapeseed/Canola,Spain,2.65,kcal/capita/day
+2016,Peanut,Spain,0.2,kcal/capita/day
+2016,Palm,Spain,1.92,kcal/capita/day
+2016,Other oils,Spain,36.41,kcal/capita/day
+2016,Olive,Spain,261.99,kcal/capita/day
+2016,Cottonseed,Spain,7.1,kcal/capita/day
+2016,Corn,Spain,11,kcal/capita/day
+2017,Sunflower,Spain,294.91,kcal/capita/day
+2017,Soybean,Spain,78.4,kcal/capita/day
+2017,Sesame,Spain,0.05,kcal/capita/day
+2017,Rapeseed/Canola,Spain,2.67,kcal/capita/day
+2017,Peanut,Spain,0.2,kcal/capita/day
+2017,Palm,Spain,1.94,kcal/capita/day
+2017,Other oils,Spain,36.77,kcal/capita/day
+2017,Olive,Spain,266.6,kcal/capita/day
+2017,Cottonseed,Spain,7.16,kcal/capita/day
+2017,Corn,Spain,20.45,kcal/capita/day
+2018,Sunflower,Spain,278.02,kcal/capita/day
+2018,Soybean,Spain,72.62,kcal/capita/day
+2018,Sesame,Spain,0.11,kcal/capita/day
+2018,Rapeseed/Canola,Spain,3.1,kcal/capita/day
+2018,Peanut,Spain,0.43,kcal/capita/day
+2018,Palm,Spain,1.95,kcal/capita/day
+2018,Other oils,Spain,47.23,kcal/capita/day
+2018,Olive,Spain,274.69,kcal/capita/day
+2018,Cottonseed,Spain,5.79,kcal/capita/day
+2018,Corn,Spain,16.39,kcal/capita/day
+2019,Sunflower,Spain,280.15,kcal/capita/day
+2019,Soybean,Spain,82.53,kcal/capita/day
+2019,Sesame,Spain,0.14,kcal/capita/day
+2019,Rapeseed/Canola,Spain,2.74,kcal/capita/day
+2019,Peanut,Spain,0.06,kcal/capita/day
+2019,Palm,Spain,1.85,kcal/capita/day
+2019,Other oils,Spain,63.24,kcal/capita/day
+2019,Olive,Spain,274.76,kcal/capita/day
+2019,Cottonseed,Spain,5.94,kcal/capita/day
+2019,Corn,Spain,12.96,kcal/capita/day
+2014,Palm,Switzerland,0.03,kcal/capita/day
+2019,Palm,Switzerland,7.57,kcal/capita/day
+2010,Sunflower,Thailand,8.81,kcal/capita/day
+2010,Soybean,Thailand,64.09,kcal/capita/day
+2010,Sesame,Thailand,2.65,kcal/capita/day
+2010,Ricebran,Thailand,6.04,kcal/capita/day
+2010,Peanut,Thailand,7.6,kcal/capita/day
+2010,Palm,Thailand,66.46,kcal/capita/day
+2010,Other oils,Thailand,0.1,kcal/capita/day
+2010,Olive,Thailand,1.45,kcal/capita/day
+2010,Cottonseed,Thailand,0.09,kcal/capita/day
+2010,Corn,Thailand,0.01,kcal/capita/day
+2010,Coconut,Thailand,16.93,kcal/capita/day
+2011,Sunflower,Thailand,8.82,kcal/capita/day
+2011,Soybean,Thailand,83.4,kcal/capita/day
+2011,Sesame,Thailand,2.17,kcal/capita/day
+2011,Ricebran,Thailand,8.26,kcal/capita/day
+2011,Peanut,Thailand,7.61,kcal/capita/day
+2011,Palm,Thailand,66.85,kcal/capita/day
+2011,Other oils,Thailand,0.05,kcal/capita/day
+2011,Olive,Thailand,1.44,kcal/capita/day
+2011,Cottonseed,Thailand,0.07,kcal/capita/day
+2011,Corn,Thailand,0.05,kcal/capita/day
+2011,Coconut,Thailand,14.42,kcal/capita/day
+2012,Sunflower,Thailand,9.64,kcal/capita/day
+2012,Soybean,Thailand,67.66,kcal/capita/day
+2012,Sesame,Thailand,2.21,kcal/capita/day
+2012,Ricebran,Thailand,8.87,kcal/capita/day
+2012,Peanut,Thailand,7.77,kcal/capita/day
+2012,Palm,Thailand,67.11,kcal/capita/day
+2012,Other oils,Thailand,0.04,kcal/capita/day
+2012,Olive,Thailand,1.49,kcal/capita/day
+2012,Cottonseed,Thailand,0.09,kcal/capita/day
+2012,Corn,Thailand,0.05,kcal/capita/day
+2012,Coconut,Thailand,11.95,kcal/capita/day
+2013,Sunflower,Thailand,9.08,kcal/capita/day
+2013,Soybean,Thailand,52.98,kcal/capita/day
+2013,Sesame,Thailand,2.23,kcal/capita/day
+2013,Ricebran,Thailand,7.39,kcal/capita/day
+2013,Peanut,Thailand,7.82,kcal/capita/day
+2013,Palm,Thailand,67.36,kcal/capita/day
+2013,Other oils,Thailand,0.03,kcal/capita/day
+2013,Olive,Thailand,1.51,kcal/capita/day
+2013,Cottonseed,Thailand,0.09,kcal/capita/day
+2013,Corn,Thailand,0.05,kcal/capita/day
+2013,Coconut,Thailand,10.61,kcal/capita/day
+2014,Sunflower,Thailand,9.07,kcal/capita/day
+2014,Soybean,Thailand,80.73,kcal/capita/day
+2014,Sesame,Thailand,3.1,kcal/capita/day
+2014,Ricebran,Thailand,2.5,kcal/capita/day
+2014,Peanut,Thailand,7.82,kcal/capita/day
+2014,Palm,Thailand,67.2,kcal/capita/day
+2014,Other oils,Thailand,0.03,kcal/capita/day
+2014,Olive,Thailand,1.5,kcal/capita/day
+2014,Cottonseed,Thailand,0.1,kcal/capita/day
+2014,Corn,Thailand,0.05,kcal/capita/day
+2014,Coconut,Thailand,10.93,kcal/capita/day
+2015,Sunflower,Thailand,9.14,kcal/capita/day
+2015,Soybean,Thailand,92.35,kcal/capita/day
+2015,Sesame,Thailand,1.83,kcal/capita/day
+2015,Ricebran,Thailand,0.88,kcal/capita/day
+2015,Peanut,Thailand,7.88,kcal/capita/day
+2015,Palm,Thailand,85.14,kcal/capita/day
+2015,Other oils,Thailand,0.03,kcal/capita/day
+2015,Olive,Thailand,1.51,kcal/capita/day
+2015,Cottonseed,Thailand,0.1,kcal/capita/day
+2015,Corn,Thailand,0.05,kcal/capita/day
+2015,Coconut,Thailand,10.66,kcal/capita/day
+2016,Sunflower,Thailand,9.24,kcal/capita/day
+2016,Soybean,Thailand,123.85,kcal/capita/day
+2016,Sesame,Thailand,1.82,kcal/capita/day
+2016,Ricebran,Thailand,4.46,kcal/capita/day
+2016,Peanut,Thailand,7.97,kcal/capita/day
+2016,Palm,Thailand,62.68,kcal/capita/day
+2016,Other oils,Thailand,5.96,kcal/capita/day
+2016,Olive,Thailand,1.56,kcal/capita/day
+2016,Cottonseed,Thailand,0.07,kcal/capita/day
+2016,Corn,Thailand,0.05,kcal/capita/day
+2016,Coconut,Thailand,10.64,kcal/capita/day
+2017,Sunflower,Thailand,9.34,kcal/capita/day
+2017,Soybean,Thailand,136.76,kcal/capita/day
+2017,Sesame,Thailand,1.85,kcal/capita/day
+2017,Ricebran,Thailand,5.85,kcal/capita/day
+2017,Peanut,Thailand,8.05,kcal/capita/day
+2017,Palm,Thailand,84.33,kcal/capita/day
+2017,Other oils,Thailand,0.02,kcal/capita/day
+2017,Olive,Thailand,1.58,kcal/capita/day
+2017,Cottonseed,Thailand,0.08,kcal/capita/day
+2017,Corn,Thailand,0.05,kcal/capita/day
+2017,Coconut,Thailand,11.27,kcal/capita/day
+2018,Sunflower,Thailand,9.45,kcal/capita/day
+2018,Soybean,Thailand,104.23,kcal/capita/day
+2018,Sesame,Thailand,1.79,kcal/capita/day
+2018,Ricebran,Thailand,2.69,kcal/capita/day
+2018,Peanut,Thailand,8.15,kcal/capita/day
+2018,Palm,Thailand,82.52,kcal/capita/day
+2018,Other oils,Thailand,6.09,kcal/capita/day
+2018,Olive,Thailand,1.61,kcal/capita/day
+2018,Cottonseed,Thailand,0.08,kcal/capita/day
+2018,Corn,Thailand,0.2,kcal/capita/day
+2018,Coconut,Thailand,10.6,kcal/capita/day
+2019,Sunflower,Thailand,9.54,kcal/capita/day
+2019,Soybean,Thailand,113.48,kcal/capita/day
+2019,Sesame,Thailand,1.86,kcal/capita/day
+2019,Ricebran,Thailand,2.73,kcal/capita/day
+2019,Peanut,Thailand,7.58,kcal/capita/day
+2019,Palm,Thailand,109.61,kcal/capita/day
+2019,Other oils,Thailand,0.37,kcal/capita/day
+2019,Olive,Thailand,1.69,kcal/capita/day
+2019,Cottonseed,Thailand,0.07,kcal/capita/day
+2019,Corn,Thailand,0.14,kcal/capita/day
+2019,Coconut,Thailand,10.8,kcal/capita/day
+2010,Sunflower,United States of America,5.54,kcal/capita/day
+2010,Soybean,United States of America,511.69,kcal/capita/day
+2010,Rapeseed/Canola,United States of America,44.11,kcal/capita/day
+2010,Peanut,United States of America,4.66,kcal/capita/day
+2010,Palm,United States of America,1.19,kcal/capita/day
+2010,Other oils,United States of America,6.12,kcal/capita/day
+2010,Olive,United States of America,21.34,kcal/capita/day
+2010,Cottonseed,United States of America,21.66,kcal/capita/day
+2010,Corn,United States of America,56.29,kcal/capita/day
+2010,Coconut,United States of America,6.53,kcal/capita/day
+2011,Sunflower,United States of America,5.08,kcal/capita/day
+2011,Soybean,United States of America,528.44,kcal/capita/day
+2011,Rapeseed/Canola,United States of America,43.91,kcal/capita/day
+2011,Peanut,United States of America,4.59,kcal/capita/day
+2011,Palm,United States of America,1.18,kcal/capita/day
+2011,Other oils,United States of America,6.51,kcal/capita/day
+2011,Olive,United States of America,22.36,kcal/capita/day
+2011,Cottonseed,United States of America,21.75,kcal/capita/day
+2011,Corn,United States of America,56.89,kcal/capita/day
+2011,Coconut,United States of America,6.56,kcal/capita/day
+2012,Sunflower,United States of America,5.79,kcal/capita/day
+2012,Soybean,United States of America,529.18,kcal/capita/day
+2012,Rapeseed/Canola,United States of America,43.53,kcal/capita/day
+2012,Peanut,United States of America,4.63,kcal/capita/day
+2012,Palm,United States of America,1.18,kcal/capita/day
+2012,Other oils,United States of America,6.6,kcal/capita/day
+2012,Olive,United States of America,24.42,kcal/capita/day
+2012,Cottonseed,United States of America,21.49,kcal/capita/day
+2012,Corn,United States of America,55.07,kcal/capita/day
+2012,Coconut,United States of America,6.49,kcal/capita/day
+2013,Sunflower,United States of America,5.18,kcal/capita/day
+2013,Soybean,United States of America,528.08,kcal/capita/day
+2013,Rapeseed/Canola,United States of America,44.63,kcal/capita/day
+2013,Peanut,United States of America,4.57,kcal/capita/day
+2013,Palm,United States of America,1.17,kcal/capita/day
+2013,Other oils,United States of America,7.92,kcal/capita/day
+2013,Olive,United States of America,22.07,kcal/capita/day
+2013,Cottonseed,United States of America,21.32,kcal/capita/day
+2013,Corn,United States of America,53.51,kcal/capita/day
+2013,Coconut,United States of America,6.41,kcal/capita/day
+2014,Sunflower,United States of America,5.38,kcal/capita/day
+2014,Soybean,United States of America,529.33,kcal/capita/day
+2014,Rapeseed/Canola,United States of America,51.41,kcal/capita/day
+2014,Peanut,United States of America,4.63,kcal/capita/day
+2014,Palm,United States of America,1.17,kcal/capita/day
+2014,Other oils,United States of America,7.84,kcal/capita/day
+2014,Olive,United States of America,23.33,kcal/capita/day
+2014,Cottonseed,United States of America,16.64,kcal/capita/day
+2014,Corn,United States of America,53.52,kcal/capita/day
+2014,Coconut,United States of America,6.87,kcal/capita/day
+2015,Sunflower,United States of America,5.82,kcal/capita/day
+2015,Soybean,United States of America,527.56,kcal/capita/day
+2015,Rapeseed/Canola,United States of America,52.38,kcal/capita/day
+2015,Peanut,United States of America,5.06,kcal/capita/day
+2015,Palm,United States of America,1.19,kcal/capita/day
+2015,Other oils,United States of America,6.52,kcal/capita/day
+2015,Olive,United States of America,23.42,kcal/capita/day
+2015,Cottonseed,United States of America,12.83,kcal/capita/day
+2015,Corn,United States of America,55.12,kcal/capita/day
+2015,Coconut,United States of America,6.46,kcal/capita/day
+2016,Sunflower,United States of America,5.09,kcal/capita/day
+2016,Soybean,United States of America,527.49,kcal/capita/day
+2016,Rapeseed/Canola,United States of America,54.08,kcal/capita/day
+2016,Peanut,United States of America,5.92,kcal/capita/day
+2016,Palm,United States of America,1.21,kcal/capita/day
+2016,Other oils,United States of America,7.02,kcal/capita/day
+2016,Olive,United States of America,23.46,kcal/capita/day
+2016,Cottonseed,United States of America,14.8,kcal/capita/day
+2016,Corn,United States of America,56.06,kcal/capita/day
+2016,Coconut,United States of America,6.18,kcal/capita/day
+2017,Sunflower,United States of America,5.34,kcal/capita/day
+2017,Soybean,United States of America,532.01,kcal/capita/day
+2017,Rapeseed/Canola,United States of America,54.96,kcal/capita/day
+2017,Peanut,United States of America,5.21,kcal/capita/day
+2017,Palm,United States of America,1.32,kcal/capita/day
+2017,Other oils,United States of America,6.04,kcal/capita/day
+2017,Olive,United States of America,23.51,kcal/capita/day
+2017,Cottonseed,United States of America,15.6,kcal/capita/day
+2017,Corn,United States of America,56.97,kcal/capita/day
+2017,Coconut,United States of America,5.88,kcal/capita/day
+2018,Sunflower,United States of America,5.53,kcal/capita/day
+2018,Soybean,United States of America,539.23,kcal/capita/day
+2018,Rapeseed/Canola,United States of America,49.1,kcal/capita/day
+2018,Peanut,United States of America,4.54,kcal/capita/day
+2018,Palm,United States of America,1.17,kcal/capita/day
+2018,Other oils,United States of America,6.78,kcal/capita/day
+2018,Olive,United States of America,23.64,kcal/capita/day
+2018,Cottonseed,United States of America,11.93,kcal/capita/day
+2018,Corn,United States of America,58.58,kcal/capita/day
+2018,Coconut,United States of America,6.01,kcal/capita/day
+2019,Sunflower,United States of America,4.99,kcal/capita/day
+2019,Soybean,United States of America,551.59,kcal/capita/day
+2019,Rapeseed/Canola,United States of America,52.51,kcal/capita/day
+2019,Peanut,United States of America,5.57,kcal/capita/day
+2019,Palm,United States of America,1.13,kcal/capita/day
+2019,Other oils,United States of America,21.61,kcal/capita/day
+2019,Olive,United States of America,26.21,kcal/capita/day
+2019,Cottonseed,United States of America,13.6,kcal/capita/day
+2019,Corn,United States of America,54.67,kcal/capita/day
+2019,Coconut,United States of America,6.28,kcal/capita/day

@@ -7,6 +7,10 @@
   // import Background from './lib/Background.svelte';
   import Frame from './lib/Frame.svelte';
   import Searchable from './lib/Searchable.svelte';
+  import Card from './flipcards/Card.svelte';
+  import Card2 from './flipcards/Card2.svelte';
+  import Card3 from './flipcards/Card3.svelte';
+  import Card4 from './flipcards/Card4.svelte';
   let value;
 
   const introSteps = [
@@ -49,7 +53,7 @@
   </div>
   
   <banner>
-    <h1>Big Seed: How vegetable oils became the backbone of the American diet</h1>
+    <h1>Seed oils: The new backbone of the American diet and its health effects</h1>
   </banner>
 
   <h3 class="byline">
@@ -128,7 +132,16 @@
 
 <div class="temporary"></div> -->
 
-<div class="temporary"><h2>Placeholder, Chapter two</h2> <p>Quiz/drag and drop/flipcards where people can guess what surprising products seed oils are found in. Interaction: Dragging and dropping or clicking an animated flip-card to turn it over. Goal: they. are. in. EVERYTHING.</p></div>
+<p>Baby formula, oat milk, vegan substitutes, salad dressings, health bars</p>
+<p>You're on your weekly run to the grocery store and take a moment to read the ingredients labels on the back of your favorite products. Knowing what you know now, what are you surprised to see? Click to flip the cards.</p>
+
+<section id="flipcards">
+    <Card />
+    <Card4 />
+    <Card2 />
+    <Card3 />
+
+</section>
 
 
 <div class="temporary"><h2>Below: Chapter three</h2> <p>Ai2html graphic of increased disease incidence. Then gets into Scroller 2: health consequences. Interaction: scrolling. Goal: educational before exploratory</p></div>
@@ -151,26 +164,67 @@
   </div>
 </section>
 
-<div class="temporary"> <p>Exploratory section: Seed oil consumption of different countries chart. Interaction: Filter the drop down menu. Goal: Exploratory</p></div>
+<div class="temporary"> </div>
+<div class="temporary"> </div>
+<div class="temporary"> </div>
 
-<section>
-  <div style="background-color :white;">
-    <Searchable />
-    <select>
-      <option value="United States">United States</option>
-      <option value="Brazil">Brazil</option>
-      <option value="China">China</option>
-    </select>
+<section id="dropdown-interactive">
+<p>Although the U.S. is not the only country that consumes seed oils, the daily amount consumed per person is a rarity. See for yourself:</p>
+
+  <select id="selectButton" onchange="showImage()">
+    <option value="NULL">Select a country</option>
+    <option value="brazil">Brazil</option>
+    <option value="china">China</option>
+    <option value="germany">Germany</option>
+    <option value="israel">Israel</option>
+    <option value="italy">Italy</option>
+    <option value="japan">Japan</option>
+    <option value="mexico">Mexico</option>
+    <option value="morocco">Morocco</option>
+    <option value="philippines">Philippines</option>
+    <option value="spain">Spain</option>
+    <option value="thailand">Thailand</option>
+  </select>
+
+<div id="dropdown-charts">
+  <div class="double-column">
+    <img id="legend" src="img/legend.svg" style="height: 75vh; width: 25vh;" alt="Legend for a chart, ranging from green for saturated fat sources to red for polyunsaturated fat sources."/>
+    <img class="bar-default" src="img/usa.svg" alt="Bar chart of the U.S. oil consumption from 2010 to 2019. The average is between 600 to 700 calories per day, the vast majority being soybean oil."/>
   </div>
-  <!-- <select id="countryPicker"> -->
-  <!-- <select bind:value={selected}>
-    {#each options as value}
-    <option {value}>{value}</option>
-    {/each}
-  </select> -->
+
+  <div class="new">
+  <script type="text/javascript">
+    function showImage() {
+      let dropdown = document.getElementById("dropdown-charts");
+      let currentCountry = document.getElementById("selectButton").value;
+      // handle removing last child
+      if (dropdown.children.length > 1){
+        dropdown.lastChild.remove();
+      }
+      // handle returning to "Select a country"
+      if (currentCountry === "NULL"){
+        return;
+      }
+      let currSource = `img/${currentCountry}.svg`;
+      var newChart = document.createElement('img');
+      newChart.setAttribute('src', currSource)
+      newChart.setAttribute('style', 'height: 75vh; width: 65vh;')
+      dropdown.appendChild(newChart);
+    }
+    
+  </script>
+  </div>
 </section>
 
-<div class="temporary"> <p>Close out, provide more research, resources, anything USRTK wants to include</p></div>
+
+<div class="temporary"> </div>
+<div class="temporary"> </div>
+<div class="temporary"> </div>
+
+
+<!-- <div class="temporary"> <p>Exploratory section: Seed oil consumption of different countries chart. Interaction: Filter the drop down menu. Goal: Exploratory</p></div>
+
+<div class="temporary"> <p>Close out, provide more research, resources, anything USRTK wants to include</p></div> -->
 
 
 
@@ -178,7 +232,25 @@
     :global(body) {
     overflow-x: hidden;
   }
-  
+
+  #dropdown-charts{
+    display: flex;
+    flex-direction: row;
+  }
+
+  #legend{
+    flex: 10;
+  }
+
+  .bar-default{
+    flex: 45;
+    height: 75vh; width: 65vh;
+  }
+
+  .new {
+    flex: 45;
+  }
+
   /* .header {
     height: 60vh;
     display: flex;
@@ -272,6 +344,11 @@
     z-index: 10;
   }
 
+  #flipcards {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+  }
 
   /*  for the centered scroller */
   /* .section-container-cen {
@@ -325,31 +402,73 @@
     }
   } */
 
-/* Media queries to resize the ai2html graphics for wide versus mobile */
-  @media screen and (max-width: 700px) {
+    /*  This was from the Vite package demo */
+  .logo {
+    height: 6em;
+    padding: 1em;
+    will-change: filter;
+    transition: filter 300ms;
+  }
+  /* .logo:hover {
+    filter: drop-shadow(0 0 2em #646cffaa);
+  } */
+
+  .temporary {
+    height: 250px;
+    background-color: orange;
+  }
+
+    /* Media queries to resize the ai2html graphics for wide versus mobile */
+    @media screen and (max-width: 700px) {
     .section-container {
       flex-direction: column-reverse;
     }
     .sticky {
       width: 95%;
       margin: auto;
+      z-index: 1;
+      /*  remove z-index if it doesn't work on mobile */
     }
+
+    #dropdown-charts{
+      display: flex;
+      flex-direction: column;
+      /* flex-basis: 0; */
+    }
+
+    .step-content {
+      font-size: 1rem;
+      background: whitesmoke;
+      color: black;
+      border-radius: 5px;
+      padding: .5rem 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition: background 500ms ease;
+      box-shadow: 1px 1px 10px rgba(0, 0, 0, .2);
+      text-align: left;
+      width: 75%;
+      margin: auto;
+      max-width: 500px;
+    }
+
+    .step-content-side {
+      font-size: 1rem;
+      background: whitesmoke;
+      color: black;
+      border-radius: 5px;
+      padding: .5rem 1rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      transition: background 500ms ease;
+      box-shadow: 1px 1px 10px rgba(0, 0, 0, .2);
+      text-align: left;
+      width: 75%;
+      margin: auto;
+      max-width: 500px;
   }
-
-  /*  This was from the Vite package demo */
-.logo {
-  height: 6em;
-  padding: 1em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-/* .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-} */
-
-.temporary {
-  height: 250px;
-  background-color: orange;
-}
+  }
 
   </style>
