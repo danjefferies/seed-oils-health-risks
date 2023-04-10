@@ -78,8 +78,6 @@
     </section>
 </main>
 
-<div class="temporary"><h2>Below: Chapter one</h2> <p>Scroller 1: What are seed oils, where did they come from, advertising history, the Diet Heart Hypothesis. Interaction: scrolling. Goal: educational, passive interaction</p></div>
-
 
 <!-- Side by side scroller with scatterplot (NOW FRAME.SVELTE)-->
 <section>
@@ -105,32 +103,6 @@
 
 <div class="temporary"><p>Filler text will go here to elaborate on what studies say, need to elaborate more on HDL/LDL cholesterol, health and environmental consequences before getting into the next sections.</p></div>
 
-<!-- Text on top scrolly  -->
-<!-- <section>
-  <div class="section-container-cen">
-    <div class="sticky-cen"> -->
-      <!-- <p> THIS IS SOME STICKY TEXT</p> -->
-      <!-- <div> -->
-        <!-- <Background step={value}/> -->
-        <!-- <Frame step={value}/>
-      </div>
-    </div>
-
-    <div class="steps-container-cen">
-      <Scrolly bind:value>
-        {#each introSteps as text, i}
-          <div class="step-cen" class:active={value === i}>
-            <div class="step-content-cen">{@html text}</div>
-          </div>
-        {/each}
-        <div class="spacer" />
-      </Scrolly>
-    </div>
-  </div>
-
-</section>
-
-<div class="temporary"></div> -->
 
 <p>Baby formula, oat milk, vegan substitutes, salad dressings, health bars</p>
 <p>You're on your weekly run to the grocery store and take a moment to read the ingredients labels on the back of your favorite products. Knowing what you know now, what are you surprised to see? Click to flip the cards.</p>
@@ -165,8 +137,7 @@
 </section>
 
 <div class="temporary"> </div>
-<div class="temporary"> </div>
-<div class="temporary"> </div>
+
 
 
 
@@ -280,84 +251,26 @@
     justify-content: space-around;
   }
 
-  /*  for the centered scroller */
-  /* .section-container-cen {
-    text-align: center;
-    transition: background 100ms;
-  }
-  
-  .steps-container-cen,
-  .sticky-cen {
-    height: 100%;
-    position: sticky;
-    justify-content: center;
-    top: 5%;
-    bottom: 10%;
-    margin: auto;
-  }
-
-  .step-cen {
-    height: 80vh;
-    display: flex;
-    place-items: center;
-    justify-content: center;
-  }
-
-  .step-content-cen {
-    background: whitesmoke;
-    color: #ccc;
-    border-radius: 5px;
-    padding: 0.5rem 1rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    transition: background 500ms ease;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
-    z-index: 10;
-  }
-
-  .step-cen.active .step-content-cen {
-    background: white;
-    color: black;
-  } */
-
-/* Text-on-top on small screens */
-  /* @media screen and (max-width: 768px) {
-    .section-container {
-      flex-direction: column-reverse;
-    }
-    .sticky {
-      width: 95%;
-      margin: auto;
-    }
-  } */
-
-    /*  This was from the Vite package demo */
   .logo {
     height: 6em;
     padding: 1em;
     will-change: filter;
     transition: filter 300ms;
   }
-  /* .logo:hover {
-    filter: drop-shadow(0 0 2em #646cffaa);
-  } */
 
   .temporary {
     height: 250px;
     background-color: orange;
   }
 
-    /* Media queries to resize the ai2html graphics for wide versus mobile */
-    @media screen and (max-width: 700px) {
+  /* Media queries to resize the ai2html graphics for wide versus mobile */
+  @media screen and (max-width: 700px) {
     .section-container {
       flex-direction: column-reverse;
     }
     .sticky {
       width: 95%;
       margin: auto;
-      z-index: 1;
-      /*  remove z-index if it doesn't work on mobile */
     }
 
     .step-content {
@@ -375,6 +288,7 @@
       width: 75%;
       margin: auto;
       max-width: 500px;
+      z-index: 1;
     }
 
     .step-content-side {
@@ -392,7 +306,8 @@
       width: 75%;
       margin: auto;
       max-width: 500px;
-  }
+      z-index: 1;
+    }
   }
 
   </style>

@@ -12,7 +12,7 @@
           title: "Fatty acid composition of common cooking oils"
         },
         {
-          src: "img/crisco1.jpg"
+          src: "img/ai2html-output/fatty-acids.html"
         },
         {
           src: "img/ai2html-output/seedoil-banner.html"

@@ -9,6 +9,7 @@
   <body>
     <div id="app"></div>
 
+    <section id="test">
     <section id="dropdown-interactive">
       <p>Although the U.S. is not the only country that consumes seed oils, the daily amount consumed per person is a rarity. See for yourself:</p>
       
@@ -28,9 +29,9 @@
         </select>
       
       <div id="dropdown-charts">
-          <img id="legend" src="img/legend.svg" style="height: 75vh; width: 25vh;" alt="Legend for a chart, ranging from green for saturated fat sources to red for polyunsaturated fat sources."/>
-          <img class="bar-default" src="img/usa.svg" style="height: 75vh; width: 65vh;" alt="Bar chart of the U.S. oil consumption from 2010 to 2019. The average is between 600 to 700 calories per day, the vast majority being soybean oil."/>
-      
+          <img id="legend" src="img/legend.svg" alt="Legend for a chart, ranging from green for saturated fat sources to red for polyunsaturated fat sources."/>
+          <img class="bar-default" src="img/usa.svg" alt="Bar chart of the U.S. oil consumption from 2010 to 2019. The average is between 600 to 700 calories per day, the vast majority being soybean oil."/>
+
         <script type="text/javascript">
           function showImage() {
             let dropdown = document.getElementById("dropdown-charts");
@@ -46,15 +47,17 @@
             let currSource = `img/${currentCountry}.svg`;
             var newChart = document.createElement('img');
             newChart.setAttribute('src', currSource)
-            newChart.setAttribute('style', 'height: 75vh; width: 65vh;')
+            // newChart.setAttribute('style', 'height: 75vh; width: 40%;')
+            newChart.setAttribute('class', 'new')
             dropdown.appendChild(newChart);
           }
-          
         </script>
       </section>
+    </section>
+
+    <div style="background-color: red; height: 200px;"></div>
 
     <script type="module" src="/src/main.js"></script>
-    <!-- <script src="https://d3js.org/d3.v4.js"></script> -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
   </body>
 </html>

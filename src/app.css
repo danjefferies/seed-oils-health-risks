@@ -14,8 +14,8 @@ Canola yellow #FFDD73 */
   font-weight: 400;
 
   /* color-scheme: light dark; */
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  /* color: rgba(255, 255, 255, 0.87);
+  background-color: #242424; */
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -52,7 +52,6 @@ banner{
 }
 
 body {
-  /* background-color: #FFDD73; */
   background-color: #EFEFEF;
   margin: 0;
   place-items: center;
@@ -108,7 +107,7 @@ h1 {
   text-align: center;
 }
 
-button {
+/* button {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
@@ -125,10 +124,6 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
-}
-
-/* .chartHeight {
-  height: 75%;
 } */
 
 #line-chart {
@@ -138,25 +133,47 @@ button:focus-visible {
 .background-img {
   width: auto;
   height: 70%;
-  }
+}
 
-  /* #dropdown-charts{
-    display: flex;
-    flex-direction: row;
-  }
+#test{
+  margin: 5% 2.5% 5% 2.5%;
+}
 
-  #legend{
-    flex: 10;
-  }
+#dropdown-charts{
+  display: flex;
+  flex-direction: row;
+}
 
-  .bar-default{
-    flex: 45;
-    height: 75vh; width: 65vh;
-  }
+#selectButton {
+  position: relative;
+  left: 200px;
+  width: 150px;
+  border-radius: 5px;
+  border: 1px solid #6C757D;
+  /* padding: 0.2em 0.8em; */
+  font-size: 0.8em;
+  font-weight: 500;
+  font-family: 'Lato';
+  background-color: white;
+  cursor: pointer;
+  /* transition: border-color 0.25s; */
+}
 
-  .new {
-    flex: 45;
-  } */
+#selectButton:hover{
+  border-color: #0b7dff;
+}
+
+#legend{
+  height: 75vh; width: 15%;
+}
+
+.bar-default{
+  height: 75vh; width: 40%;
+}
+
+.new {
+  height: 75vh; width: 40%;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -184,4 +201,36 @@ button:focus-visible {
     width: 100%;
     height: auto;
     }
+}
+
+@media screen and (max-width: 700px) {
+  #dropdown-interactive{
+    height: 100%;
+    width: 100%;
+  }
+
+  #dropdown-charts{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+  }
+
+  #legend{
+    width: 30%;
+    height: 70%;
+  }
+
+  .bar-default{
+    width: 70%;
+    height: 75%;
+  }
+
+  .new {
+    width: 70%;
+    height: 100%;
+    position: relative;
+    /* right: -120px; */
+    right: -30%;
+  }
+
 }
