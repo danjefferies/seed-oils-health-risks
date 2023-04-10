@@ -207,6 +207,7 @@
     width: 75%;
     margin: auto;
     max-width: 500px;
+    position: relative;
   }
 
   .step-content-side {
@@ -224,6 +225,7 @@
     width: 75%;
     margin: auto;
     max-width: 500px;
+    position: relative;
   }
 
   .step.active .step-content {
@@ -296,6 +298,7 @@
       margin: auto;
       max-width: 500px;
       z-index: 10;
+      position: relative;
     }
 
     .step-content-side {
@@ -314,6 +317,7 @@
       margin: auto;
       max-width: 500px;
       z-index: 10;
+      position: relative;
     }
   }
 
