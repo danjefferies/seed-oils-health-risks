@@ -140,6 +140,24 @@ button:focus-visible {
   height: 70%;
   }
 
+  /* #dropdown-charts{
+    display: flex;
+    flex-direction: row;
+  }
+
+  #legend{
+    flex: 10;
+  }
+
+  .bar-default{
+    flex: 45;
+    height: 75vh; width: 65vh;
+  }
+
+  .new {
+    flex: 45;
+  } */
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

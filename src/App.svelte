@@ -168,58 +168,6 @@
 <div class="temporary"> </div>
 <div class="temporary"> </div>
 
-<section id="dropdown-interactive">
-<p>Although the U.S. is not the only country that consumes seed oils, the daily amount consumed per person is a rarity. See for yourself:</p>
-
-  <select id="selectButton" onchange="showImage()">
-    <option value="NULL">Select a country</option>
-    <option value="brazil">Brazil</option>
-    <option value="china">China</option>
-    <option value="germany">Germany</option>
-    <option value="israel">Israel</option>
-    <option value="italy">Italy</option>
-    <option value="japan">Japan</option>
-    <option value="mexico">Mexico</option>
-    <option value="morocco">Morocco</option>
-    <option value="philippines">Philippines</option>
-    <option value="spain">Spain</option>
-    <option value="thailand">Thailand</option>
-  </select>
-
-<div id="dropdown-charts">
-  <div class="double-column">
-    <img id="legend" src="img/legend.svg" style="height: 75vh; width: 25vh;" alt="Legend for a chart, ranging from green for saturated fat sources to red for polyunsaturated fat sources."/>
-    <img class="bar-default" src="img/usa.svg" alt="Bar chart of the U.S. oil consumption from 2010 to 2019. The average is between 600 to 700 calories per day, the vast majority being soybean oil."/>
-  </div>
-
-  <div class="new">
-  <script type="text/javascript">
-    function showImage() {
-      let dropdown = document.getElementById("dropdown-charts");
-      let currentCountry = document.getElementById("selectButton").value;
-      // handle removing last child
-      if (dropdown.children.length > 1){
-        dropdown.lastChild.remove();
-      }
-      // handle returning to "Select a country"
-      if (currentCountry === "NULL"){
-        return;
-      }
-      let currSource = `img/${currentCountry}.svg`;
-      var newChart = document.createElement('img');
-      newChart.setAttribute('src', currSource)
-      newChart.setAttribute('style', 'height: 75vh; width: 65vh;')
-      dropdown.appendChild(newChart);
-    }
-    
-  </script>
-  </div>
-</section>
-
-
-<div class="temporary"> </div>
-<div class="temporary"> </div>
-<div class="temporary"> </div>
 
 
 <!-- <div class="temporary"> <p>Exploratory section: Seed oil consumption of different countries chart. Interaction: Filter the drop down menu. Goal: Exploratory</p></div>
@@ -231,24 +179,6 @@
   <style>
     :global(body) {
     overflow-x: hidden;
-  }
-
-  #dropdown-charts{
-    display: flex;
-    flex-direction: row;
-  }
-
-  #legend{
-    flex: 10;
-  }
-
-  .bar-default{
-    flex: 45;
-    height: 75vh; width: 65vh;
-  }
-
-  .new {
-    flex: 45;
   }
 
   /* .header {
@@ -428,12 +358,6 @@
       margin: auto;
       z-index: 1;
       /*  remove z-index if it doesn't work on mobile */
-    }
-
-    #dropdown-charts{
-      display: flex;
-      flex-direction: column;
-      /* flex-basis: 0; */
     }
 
     .step-content {
