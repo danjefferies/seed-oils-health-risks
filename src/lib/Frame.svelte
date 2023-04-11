@@ -43,18 +43,16 @@
       $: backdrop = changeBackground(step)
     </script>
 
-<div>
     <iframe class="mobile-ai2html"
         src={backdrop.src}
         title={backdrop.title}
         style="border: none;" width="100%" height="550px" scrolling="no"/>
 
-</div>
-
 <style>
     @media screen and (max-width: 700px) {
       .mobile-ai2html {
-      height: 550px;
-    }
+        z-index: 0;
+        position: relative;
+      }
   }
 </style>

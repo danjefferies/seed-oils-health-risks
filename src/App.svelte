@@ -190,6 +190,8 @@
     display: flex;
     place-items: center;
     justify-content: center;
+    position: relative;
+    z-index: 10;
   }
 
   .step-content {
@@ -275,6 +277,30 @@
       width: 95%;
       margin: auto;
       z-index: 0;
+    }
+
+    .step {
+      height: 80vh;
+      display: flex;
+      place-items: center;
+      justify-content: center;
+      position: relative;
+      z-index: 10;
+    }
+
+    .step.active .step-content {
+      background: white;
+      color: black;
+    }
+
+    .step.active .step-content-side {
+      background: white;
+      color: black;
+    }
+    
+    .steps-container,
+    .sticky {
+      height: 100%;
     }
 
     .steps-container {
