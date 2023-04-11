@@ -26,18 +26,20 @@
             case 0:
               return backdrops[3];
             case 1:
-              return backdrops[0];
+              return backdrops[3];
             case 2:
               return backdrops[0];
             case 3:
-              return backdrops[1];
+              return backdrops[0];
             case 4:
-              return backdrops[2];
+              return backdrops[1];
             case 5:
+              return backdrops[2];
+            case 6:
               return backdrops[2];
           }
         } 
-        return backdrops[0];
+        return backdrops[3];
       }
   
       $: backdrop = changeBackground(step)

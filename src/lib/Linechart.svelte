@@ -115,8 +115,11 @@
             return allData.slice(7,13);
           case 5:
             return allData.slice(7,13);
+          case 6:
+            return allData.slice(7,13);
         }
       }
+        return allData.slice(0,4);
     }
 
     $: chartData = changeData(step)
