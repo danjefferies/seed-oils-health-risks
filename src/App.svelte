@@ -168,9 +168,9 @@
   .sticky {
     position: sticky;
     top: 10%;
-    flex: 1 1 70%;
-    width: 70%;
-    height: 100vh;   /*  this is new */
+    flex: 1 1 90%;
+    width: 100%;
+    /* height: 100vh;  */
     max-width: 1280px;
     z-index: 0;
   }

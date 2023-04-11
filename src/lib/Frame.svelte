@@ -46,13 +46,20 @@
     <iframe class="mobile-ai2html"
         src={backdrop.src}
         title={backdrop.title}
-        style="border: none;" width="100%" height="550px" scrolling="no"/>
+        scrolling="no"/>
 
 <style>
-    @media screen and (max-width: 700px) {
+  .mobile-ai2html{
+    border: none;
+    width: 100%;
+    height: 550px;
+  }
+
+    @media screen and (max-width: 550px) {
       .mobile-ai2html {
         z-index: 0;
         position: relative;
+        height: 700px;
       }
   }
 </style>
