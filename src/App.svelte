@@ -269,7 +269,7 @@
   }
 
   /* Media queries to resize the ai2html graphics for wide versus mobile */
-  @media screen and (max-width: 700px) {
+  @media screen and (max-width: 550px) {
     .section-container {
       flex-direction: column-reverse;
     }

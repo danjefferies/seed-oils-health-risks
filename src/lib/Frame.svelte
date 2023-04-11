@@ -16,6 +16,9 @@
         },
         {
           src: "img/ai2html-output/seedoil-banner.html"
+        },
+        {
+          src: "img/ai2html-output/early-ads.html"
         }
       ];
   
@@ -30,13 +33,13 @@
             case 2:
               return backdrops[0];
             case 3:
-              return backdrops[0];
-            case 4:
               return backdrops[1];
+            case 4:
+              return backdrops[2];
             case 5:
-              return backdrops[2];
+              return backdrops[4];
             case 6:
-              return backdrops[2];
+              return backdrops[4];
           }
         } 
         return backdrops[3];
@@ -54,14 +57,22 @@
   .mobile-ai2html{
     border: none;
     width: 100%;
-    height: 550px;
+    height: 500px;
   }
 
-    @media screen and (max-width: 550px) {
+  @media screen and (min-width: 501px) and (max-width: 650px) {
       .mobile-ai2html {
         z-index: 0;
         position: relative;
-        height: 700px;
+        height: 500px;
+      }
+  }
+
+    @media screen and (max-width: 500px) {
+      .mobile-ai2html {
+        z-index: 0;
+        position: relative;
+        height: 650px;
       }
   }
 </style>
