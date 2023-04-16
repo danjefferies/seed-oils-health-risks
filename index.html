@@ -1,19 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+
     <meta charset="UTF-8" />
+    <title>Seed Oil Explainer</title>
     <link rel="icon" type="image/svg+xml" href="https://usrtk.org/wp-content/themes/usrtk/img/favicon/apple-touch-icon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Seed Oil Explainer</title>
+
+    <meta
+    name="og:title"
+    content="U.S. Right to Know Seed Oil Explainer"/>
+  <meta
+    name="og:url"
+    content="https://danjefferies.github.io/usrtk-seed-oils-project/"/>
+    <!-- TODO: META SOCIAL SHARING IMAGE -->
+  <meta
+    name="og:image"
+    content="./images/red.png"/>
+  <meta name="og:type" content="website" />
+  <meta
+    name="og:description"
+    content="An interactive data story on vegetable and seed oil consumption in the United States for U.S. Right to Know."/>
+  <meta name="og:locale" content="en_US" />
+
+  <meta
+    name="keywords"
+    content="USRTK, U.S. Right to Know, seed oil, vegetable oil, saturated fat, polyunsaturated fat, heart health, investigation, corporate influence, crisco, margarine"/>
+  <meta
+    name="author"
+    content="Danica Jefferies"/>
   </head>
   <body>
-    <div id="app" aria-hidden="false" aria-label="ITS ALL HERE"></div>
+    <div id="app" aria-hidden="false"></div>
 
-    <section id="test">
     <section id="dropdown-interactive">
-      <h3>Compare fat consumption by country</h3>
-      <p>Although the U.S. is not the only country that consumes seed oils, the daily amount consumed per person is a rarity. See for yourself:</p>
-      
         <select id="selectButton" onchange="showImage()">
           <option value="NULL">Select a country</option>
           <option value="brazil">Brazil</option>
@@ -56,7 +76,40 @@
       </section>
     </section>
 
-    <div style="background-color: red; height: 200px;"></div>
+    <!-- <a href="" target="_blank"> -->
+
+    <section class="narrative">
+      <h2>Relevant research and resources</h2>
+
+      <b>Coronary disease</b>
+      <ul><li><a href="https://openheart.bmj.com/content/5/2/e000898" target="_blank">Greater amounts of linoleic acid oxidation</a> are found in the LDL cholesterol and plasma of patients with atherosclerosis, with the degree of oxidation determining the severity of the clogging. A diet higher in oleic acid or lower in linoleic acid decreases LDL susceptibility to oxidation.</li></ul>
+
+      <b>Obesity</b>
+      <ul><li>Reducing dietary linoleic acid <a href="https://pubmed.ncbi.nlm.nih.gov/22334255/" target="_blank">prevents fatty tissue</a> from accumulating and reverses the obesogenic effects of a high-fat diet. In animal diets designed to model the 20th century increase in PUFA consumption, changes closely correlate with prevalence rates of obesity.</li></ul>
+
+      <b>Cognitive decline</b>
+      <ul><li>A low Omega-6 to Omega-3 ratio, either by reducing Omega-6 or increasing Omega-3, showed moderate support in <a href="https://www.tandfonline.com/doi/full/10.1080/21551197.2012.752335" target="_blank">sustained cognitive function</a> for preventing dementia.</li></ul>
+      <ul><li>“Chronic administration of a diet enriched with canola oil results in <a href="https://www.nature.com/articles/s41598-017-17373-3#Sec10" target="_blank">significant deficits of working memory</a> and synaptic pathology…” </li></ul>
+
+      <b>Arthritis and inflammation</b>
+      <ul><li>Omega-6 PUFA levels were almost <a href="https://www.oarsijournal.com/article/S1063-4584(12)00060-X/fulltext#secd45630664e1548" target="_blank">double in bones with osteoporosis</a> and participants with higher levels of Arachidonic acid (linoleic acid is a precursor) tended to have higher inflamed joint severity.</li></ul>
+      <ul><li>High levels of soybean oil can <a href="https://www.tandfonline.com/doi/full/10.1080/09540105.2017.1409194" target="_blank">promote the body’s inflammatory response</a>. High inflammation can lead to a series of chronic diseases, including pregnancy eclampsia, atherosclerosis, rheumatoid arthritis and insulin resistance.</li></ul>
+
+      <b>Infertility</b>
+      <ul><li><a href="https://www.sciencedirect.com/science/article/pii/S0261561409001587#sec4" target="_blank">Decreased sperm quantity, quality and mobility</a>: “A high proportion of omega-6 FAs in the spermatozoa is a distinctive feature of infertile men.”</li></ul>
+      <ul><li>Men who consumed more Omega-6s were found to have <a href="https://journals.lww.com/ajandrology/Fulltext/2017/19020/Fatty_acid_intake_in_relation_to_reproductive.8.aspx" target="_blank">less testicular volume</a>.</li></ul>
+
+      <b>Mood disorders</b>
+      <ul><li>PUFAs alter the lipid bilayer of mammal cells and young people with a high ratio of Omega-6 to Omega-3 exhibited <a href="https://www.nature.com/articles/tp2017190" target="_blank">higher rates of mood disorders</a> and depression.</li></ul>
+
+      <b>Asthma</b>
+      <ul><li>Higher Omega-6 consumption was associated with <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580674/" target="_blank">higher chances of severe asthma</a> in children, when compared to Omega-3s.</li></ul>
+    </section>
+
+    <section class="narrative">
+      <h4>About the author</h4>
+      <p><a href="https://www.datadanica.com" target="_blank">Danica Jefferies</a> is a recent graduate of the data journalism master’s program at Northeastern University. She held a yearlong internship with NBC News Data/Graphics producing stories on herbicide usage and psychedelic therapy. Jefferies previously studied biostatistics at the University of Virginia, and is passionate about data analysis and exposing wrongdoing in the food and agriculture industry.</p>
+    </section>
 
     <script type="module" src="/src/main.js"></script>
     <script src="https://d3js.org/d3.v7.min.js"></script>

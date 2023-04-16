@@ -36,26 +36,24 @@
             case 0:
               return backdrops[0];
             case 1:
-              return backdrops[0];
-            case 2:
               return backdrops[1];
+            case 2:
+              return backdrops[2];
             case 3:
               return backdrops[2];
             case 4:
               return backdrops[2];
             case 5:
-              return backdrops[2];
+              return backdrops[3];
             case 6:
               return backdrops[3];
             case 7:
-              return backdrops[3];
+              return backdrops[4];
             case 8:
               return backdrops[4];
             case 9:
-              return backdrops[4];
-            case 10:
               return backdrops[5];
-            case 11:
+            case 10:
               return backdrops[5];
           }
         } 

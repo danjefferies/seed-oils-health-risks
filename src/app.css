@@ -125,6 +125,12 @@ h1 {
   padding: 2rem;
 }
 
+.link{
+  font-size: 0.7rem;
+  position: relative;
+  text-align: center;
+}
+
 /* button {
   border-radius: 8px;
   border: 1px solid transparent;
