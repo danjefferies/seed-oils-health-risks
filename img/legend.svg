@@ -1,136 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 233.7608 400">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #f2f2f2;
-      }
-
-      .cls-2 {
-        fill: #f4bfab;
-      }
-
-      .cls-3 {
-        fill: #668460;
-      }
-
-      .cls-4 {
-        fill: #fef8e0;
-      }
-
-      .cls-5 {
-        fill: #fae999;
-      }
-
-      .cls-6 {
-        fill: #fdc64b;
-      }
-
-      .cls-7 {
-        fill: #f66;
-      }
-
-      .cls-8 {
-        fill: #9f9f9f;
-      }
-
-      .cls-9 {
-        fill: #b8c46b;
-      }
-
-      .cls-10 {
-        fill: #c90000;
-      }
-
-      .cls-11 {
-        fill: #e3602d;
-      }
-
-      .cls-12 {
-        fill: #19485e;
-      }
-
-      .cls-13 {
-        fill: #650000;
-      }
-
-      .cls-14 {
-        font-family: Georgia-Italic, Georgia;
-        font-size: 10px;
-      }
-
-      .cls-14, .cls-15 {
-        fill: #929497;
-      }
-
-      .cls-14, .cls-16 {
-        font-style: italic;
-      }
-
-      .cls-15 {
-        font-family: HelveticaNeue, 'Helvetica Neue';
-        font-size: 9px;
-      }
-
-      .cls-17 {
-        font-family: Georgia, Georgia;
-        font-size: 13px;
-      }
-
-      .cls-18 {
-        letter-spacing: -.018em;
-      }
-
-      .cls-16 {
-        font-family: Georgia-BoldItalic, Georgia;
-        font-size: 12px;
-        font-weight: 700;
-      }
-
-      .cls-19 {
-        fill: none;
-        stroke: #929497;
-        stroke-miterlimit: 10;
-        stroke-width: .5px;
-      }
-    </style>
-  </defs>
-  <g id="Layer_1" data-name="Layer 1">
-    <g>
-      <rect class="cls-1" x="15.0429" y="29.2607" width="29.0008" height="29.0007"/>
-      <rect class="cls-12" x="16.2345" y="30.4523" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="58.2615" width="29.0008" height="29.0008"/>
-      <rect class="cls-3" x="16.2345" y="59.4531" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="87.2622" width="29.0008" height="29.0007"/>
-      <rect class="cls-9" x="16.2345" y="88.4538" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="116.263" width="29.0008" height="29.0007"/>
-      <rect class="cls-4" x="16.2345" y="117.4545" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="145.2637" width="29.0008" height="29.0007"/>
-      <rect class="cls-5" x="16.2345" y="146.4553" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="174.2645" width="29.0008" height="29.0007"/>
-      <rect class="cls-6" x="16.2345" y="175.456" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="203.2652" width="29.0008" height="29.0007"/>
-      <rect class="cls-11" x="16.2345" y="204.4568" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="232.2659" width="29.0008" height="29.0007"/>
-      <rect class="cls-2" x="16.2345" y="233.4575" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="261.2667" width="29.0008" height="29.0008"/>
-      <rect class="cls-7" x="16.2345" y="262.4583" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="290.2674" width="29.0008" height="29.0007"/>
-      <rect class="cls-10" x="16.2345" y="291.459" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="319.2682" width="29.0008" height="29.0007"/>
-      <rect class="cls-13" x="16.2345" y="320.4598" width="26.6176" height="26.6176"/>
-      <rect class="cls-1" x="15.0429" y="348.2689" width="29.0008" height="29.0007"/>
-      <rect class="cls-8" x="16.2345" y="349.4605" width="26.6176" height="26.6176"/>
-      <text class="cls-17" transform="translate(48.2087 47.7657)"><tspan x="0" y="0">Coconut</tspan><tspan x="0" y="29">Palm</tspan><tspan x="0" y="58">Olive</tspan><tspan x="0" y="87">Rapeseed/Canola</tspan><tspan x="0" y="116">Peanut</tspan><tspan x="0" y="145">Ricebran</tspan><tspan x="0" y="174">Sesame</tspan><tspan x="0" y="203">Cottonseed</tspan><tspan x="0" y="232">Corn</tspan><tspan x="0" y="261">Soybean</tspan><tspan x="0" y="290">Sunflower</tspan><tspan x="0" y="319">Other</tspan></text>
-    </g>
-    <line class="cls-19" x1="4.311" y1="87.2623" x2="222.0842" y2="87.2622"/>
-    <line class="cls-19" x1="4.311" y1="116.263" x2="222.0842" y2="116.263"/>
-    <text class="cls-16" transform="translate(15.5812 22.221)"><tspan x="0" y="0">Plant-based oil sources</tspan></text>
-    <text class="cls-14" transform="translate(120.4874 60.89)"><tspan x="0" y="0">Mainly saturated fat</tspan></text>
-    <text class="cls-14" transform="translate(119.9823 104.629)"><tspan x="0" y="0">Monounsaturated fat</tspan></text>
-    <text class="cls-14" transform="translate(122.908 252.1681)"><tspan x="0" y="0">Polyunsaturated fats</tspan></text>
-  </g>
-  <g id="off-board">
-    <text class="cls-15" transform="translate(7.4717 391.6251)"><tspan x="0" y="0">Sou</tspan><tspan class="cls-18" x="16.002" y="0">r</tspan><tspan x="18.8369" y="0">ce: United Nations Food and Agricultu</tspan><tspan class="cls-18" x="172.5288" y="0">r</tspan><tspan x="175.3638" y="0">e Statistics</tspan></text>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 233.8 400" style="enable-background:new 0 0 233.8 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2F2F2;}
+	.st1{fill:#19485E;}
+	.st2{fill:#668460;}
+	.st3{fill:#B8C46B;}
+	.st4{fill:#FEF8E0;}
+	.st5{fill:#FAE999;}
+	.st6{fill:#FDC64B;}
+	.st7{fill:#E3602D;}
+	.st8{fill:#F4BFAB;}
+	.st9{fill:#FF6666;}
+	.st10{fill:#C90000;}
+	.st11{fill:#650000;}
+	.st12{fill:#9F9F9F;}
+	.st13{font-family:'Georgia';}
+	.st14{font-size:13px;}
+	.st15{fill:none;stroke:#929497;stroke-width:0.5;stroke-miterlimit:10;}
+	.st16{font-family:'Georgia-BoldItalic';}
+	.st17{font-size:12px;}
+	.st18{fill:#929497;}
+	.st19{font-family:'Georgia-Italic';}
+	.st20{font-size:10px;}
+	.st21{font-family:'HelveticaNeue';}
+	.st22{font-size:7px;}
+</style>
+<g id="Layer_1_00000008128432050556642970000007897388650681196221_">
+	<g>
+		<rect x="15" y="29.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="30.5" class="st1" width="26.6" height="26.6"/>
+		<rect x="15" y="58.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="59.5" class="st2" width="26.6" height="26.6"/>
+		<rect x="15" y="87.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="88.5" class="st3" width="26.6" height="26.6"/>
+		<rect x="15" y="116.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="117.5" class="st4" width="26.6" height="26.6"/>
+		<rect x="15" y="145.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="146.5" class="st5" width="26.6" height="26.6"/>
+		<rect x="15" y="174.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="175.5" class="st6" width="26.6" height="26.6"/>
+		<rect x="15" y="203.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="204.5" class="st7" width="26.6" height="26.6"/>
+		<rect x="15" y="232.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="233.5" class="st8" width="26.6" height="26.6"/>
+		<rect x="15" y="261.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="262.5" class="st9" width="26.6" height="26.6"/>
+		<rect x="15" y="290.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="291.5" class="st10" width="26.6" height="26.6"/>
+		<rect x="15" y="319.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="320.5" class="st11" width="26.6" height="26.6"/>
+		<rect x="15" y="348.3" class="st0" width="29" height="29"/>
+		<rect x="16.2" y="349.5" class="st12" width="26.6" height="26.6"/>
+		<text transform="matrix(1 0 0 1 48.2087 47.7657)" class="st13 st14">Coconut</text>
+		<text transform="matrix(1 0 0 1 48.2087 76.7657)" class="st13 st14">Palm</text>
+		<text transform="matrix(1 0 0 1 48.2087 105.7657)" class="st13 st14">Olive</text>
+		<text transform="matrix(1 0 0 1 48.2087 134.7657)" class="st13 st14">Rapeseed/Canola</text>
+		<text transform="matrix(1 0 0 1 48.2087 163.7657)" class="st13 st14">Peanut</text>
+		<text transform="matrix(1 0 0 1 48.2087 192.7657)" class="st13 st14">Ricebran</text>
+		<text transform="matrix(1 0 0 1 48.2087 221.7657)" class="st13 st14">Sesame</text>
+		<text transform="matrix(1 0 0 1 48.2087 250.7657)" class="st13 st14">Cottonseed</text>
+		<text transform="matrix(1 0 0 1 48.2087 279.7657)" class="st13 st14">Corn</text>
+		<text transform="matrix(1 0 0 1 48.2087 308.7657)" class="st13 st14">Soybean</text>
+		<text transform="matrix(1 0 0 1 48.2087 337.7657)" class="st13 st14">Sunflower</text>
+		<text transform="matrix(1 0 0 1 48.2087 366.7657)" class="st13 st14">Other</text>
+	</g>
+	<line class="st15" x1="4.3" y1="87.3" x2="222.1" y2="87.3"/>
+	<line class="st15" x1="4.3" y1="116.3" x2="222.1" y2="116.3"/>
+	<text transform="matrix(1 0 0 1 15.5812 22.221)" class="st16 st17">Plant-based oil sources</text>
+	<text transform="matrix(1 0 0 1 120.4874 60.89)" class="st18 st19 st20">Mainly saturated fat</text>
+	<text transform="matrix(1 0 0 1 119.9823 104.629)" class="st18 st19 st20">Monounsaturated fat</text>
+	<text transform="matrix(1 0 0 1 122.908 252.1681)" class="st18 st19 st20">Polyunsaturated fats</text>
+</g>
+<g id="off-board">
+	<text transform="matrix(1 0 0 1 15.5812 391.6251)" class="st18 st21 st22">Source: United Nations Food and Agriculture Statistics</text>
+</g>
 </svg>
