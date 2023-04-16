@@ -13,10 +13,9 @@
   <meta
     name="og:url"
     content="https://danjefferies.github.io/usrtk-seed-oils-project/"/>
-    <!-- TODO: META SOCIAL SHARING IMAGE -->
   <meta
     name="og:image"
-    content="./images/usrtk-seed-oils-share.png"/>
+    content="./images/meta.png"/>
   <meta name="og:type" content="website" />
   <meta
     name="og:description"
@@ -31,9 +30,9 @@
     content="Danica Jefferies"/>
   </head>
   <body>
-    <div id="app" aria-hidden="false"></div>
+    <div id="app" aria-hidden="false" aria-label="section"></div>
 
-    <section id="dropdown-interactive">
+    <section id="dropdown-interactive" aria-hidden="false" tab-index="0" aria-label="select">
         <select id="selectButton" onchange="showImage()">
           <option value="NULL">Select a country</option>
           <option value="brazil">Brazil</option>
@@ -49,7 +48,7 @@
           <option value="thailand">Thailand</option>
         </select>
       
-      <div id="dropdown-charts">
+      <div id="dropdown-charts" aria-label="interactive chart">
           <img id="legend" src="img/legend.svg" alt="Legend for a chart, ranging from green for saturated fat sources to red for polyunsaturated fat sources."/>
           <img class="bar-default" src="img/usa.svg" alt="Bar chart of the U.S. oil consumption from 2010 to 2019. The average is between 600 to 700 calories per day, the vast majority being soybean oil."/>
 
@@ -68,7 +67,6 @@
             let currSource = `img/${currentCountry}.svg`;
             var newChart = document.createElement('img');
             newChart.setAttribute('src', currSource)
-            // newChart.setAttribute('style', 'height: 75vh; width: 40%;')
             newChart.setAttribute('class', 'new')
             dropdown.appendChild(newChart);
           }
@@ -76,9 +74,7 @@
       </section>
     </section>
 
-    <!-- <a href="" target="_blank"> -->
-
-    <section class="narrative">
+    <section class="narrative" aria-label="section">
       <h2>Relevant research and resources</h2>
 
       <b>Coronary disease</b>
@@ -106,7 +102,7 @@
       <ul><li>Higher Omega-6 consumption was associated with <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6580674/" target="_blank">higher chances of severe asthma</a> in children, when compared to Omega-3s.</li></ul>
     </section>
 
-    <section class="narrative">
+    <section class="narrative" aria-label="author details">
       <h4>About the author</h4>
       <p><a href="https://www.datadanica.com" target="_blank">Danica Jefferies</a> is a recent graduate of the data journalism master’s program at Northeastern University. She held a yearlong internship with NBC News Data/Graphics producing stories on herbicide usage and psychedelic therapy. Jefferies previously studied biostatistics at the University of Virginia, and is passionate about data analysis and exposing wrongdoing in the food and agriculture industry.</p>
     </section>

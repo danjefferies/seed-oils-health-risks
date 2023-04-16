@@ -17,15 +17,15 @@
         },
         {
           src: "img/ai2html-output/research.html",
-          title: "ALT TEXT"
+          title: "A summary of all the negative health effects seed oils can contribute to. This includes atherosclerosis, obesity, infertility, osteoporosis, cognitive decline and mood disorders."
         },
         {
           src: "img/ai2html-output/early-ads.html",
-          title: "Images of early Crisco margarine ads from the 1950s. On the ads is the text 'Just so digestible.'"
+          title: "Images of early Crisco margarine ads and soap bar wrappers from Procter & Gamble."
         },
         {
           src: "img/ai2html-output/crisco2.html",
-          title: "ALT"
+          title: "Images of early Crisco margarine ads from the 1940s. On the ads is the text 'Just so digestible.'"
         }
       ];
   

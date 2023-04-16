@@ -34,7 +34,7 @@
   ];
 </script>
 
-<header aria-hidden="false">
+<header aria-hidden="false" aria-label="header">
   <figure class="padded">
     <a href="https://usrtk.org/" target="_blank" rel="noreferrer">
       <img src="img/usrtk.svg" class="logo" alt="USRTK Logo" />
@@ -49,11 +49,11 @@
    Posted: April 20, 2023 by <a href='https://datadanica.com' target="_blank" aria-label="Danica Jefferies website (new tab)">Danica Jefferies</a>
   </h3>
 
-  <section id="intro" aria-label="narrative">
-    <!-- <p>When my father was in anesthesia school, he was asked to justify his daily dietary choices with their class material. “One egg, but never the yolk because of the cholesterol,” was his most common entry. “Low salt and I also try to stay away from saturated fat, in favor of heart healthy fats like vegetable oils.”</p>
+  <figure>
+    <img src="img/ahabanner.png" alt="American Heart Association heart healthy label" style="height: 15vh; display: block; margin-left: auto; margin-right: auto;"/>
+  </figure>
 
-    <p>Like millions of other Americans born after World War II, he avoided saturated fat while shoving down the new wave of ultra-processed snack foods and spreading margarine on processed wheat. Chances are, your mother also insisted on cooking all her recipes with vegetable oils in the interest of health.</p> -->
-    
+  <section id="intro" aria-label="narrative" aria-hidden="false">
     <p>For thousands of years, humans consumed and cooked with animal fats like butter and lard. But like many modern foods, the industrially processed seed oils like canola, soybean and sunflower that we’ve come to know collectively as <span style="background-color: #FFDD73;">“heart-healthy vegetable oil”</span> did not make their way into the human diet until just over a century ago. Today, they’re found ubiquitously in kitchen cabinets and very few restaurants cook without them.</p>
     
     <p>Since the late 1800s, nearly everyone and their mother, consumed with the fear that saturated fat is the main cause of heart disease, has consumed these seed oils in copious amounts. In fact, researchers have estimated that per-capita seed oil consumption <a href="https://pubmed.ncbi.nlm.nih.gov/21367944/" target="_blank">skyrocketed over 1,000-fold</a> between 1909 and 1999.</p>
@@ -64,7 +64,6 @@
 
     </section>
   </header>
-
 
 <main>
 <!-- Side by side scroller with images-->
@@ -81,7 +80,6 @@
       </Scrolly>
     </div>
     <div class="sticky">
-      <!-- <Scatterplot step={value} /> -->
     <Frame step={value}/>
 
     </div>
@@ -89,18 +87,16 @@
 
 </section>
 
-<!-- <div class="temporary"><p>Filler text will go here to elaborate on what studies say, need to elaborate more on HDL/LDL cholesterol, health and environmental consequences before getting into the next sections.</p></div> -->
-
-<section class="narrative">
+<section class="narrative" aria-label="section">
   <h2>Am I eating seed oils?</h2>
   <p>Good question. Walk into any supermarket and flip over a box of your favorite snack. Seed oils are found in most consumer products, including supposedly healthy, organic and non-GMO ones. Many grain-based and processed foods including cookies and crackers, bars, chips, bread, pizza, nut butters and nut milks, frozen meals and desserts contain seed oils, which can help foods appear glazed or golden. And vegans beware, most plant-based substitutes are made with a seed oil base.<p>
 
   <p>One of the reasons corn and soybean oil are so superfluous is because  these monocrops are subsidized for mass production. Profit margins for companies increase, while farmers take a hit and are forced to produce more and more commodity crops to maintain a living. Surplus of cheap grain turns into high-fructose corn syrup, sweeteners, preservatives and citric acid among other things, including seed oils.</p>
-  <h3>Do you know what's in your cart?</h3>
+  <h3>Do you know what's in your cart? Click the items below to check their labels.</h3>
 </section>
     
 
-  <section id="flipcards" class="flipcards">
+  <section id="flipcards" class="flipcards" aria-label="interactive cards" aria-hidden="false" >
       <OatmilkCard/>
       <GranolaCard />
       <FormulaCard />
@@ -108,7 +104,7 @@
   </section>
 
 
-<section class="narrative">
+<section class="narrative" aria-label="section">
   <h3>Monumental decisions made on shaky ground</h3>
   <p>By the 1950s, the increasing rate of cardiovascular disease and heart attacks frightened Americans. Until Ancel Keys, a physiologist from the University of Minnesota, came forward with a solution.</p>
 
@@ -120,7 +116,7 @@
 
   <p>Biostatisticians at the University of California, Berkeley <a href="http://library.crossfit.com/free/pdf/1957_Yerushalmy_Hilleboe_Fat_Diet_Mortality_Heart_Disease.pdf?_ga=2.35906279.698580677.1681433498-1348251230.1681433498" target="_blank">rebutted Keys’ conclusions with their own study in 1957</a>. Re-examination of the dietary data for 22 countries – all that was available from the United Nations’ Food and Agriculture Statistics at the time – confirmed that dietary fat was actually not a strong predictor of heart disease mortality. There were slightly stronger relationships between the percentage of animal protein consumed, and larger correlations with the amount of carbohydrates.</p>
 
-  <img src="img/ancel.png" alt="Ancel Keys ALT TEXT" style="width: 100%"/>
+  <img src="img/ancel.png" alt="On the right is Ancel Keys' graph depicting dietary fat as the cause of heart disease. On the left is another graph with more data showing less correlation." style="width: 100%"/>
 
   <p>“It is immediately obvious that the inclusion of all the countries greatly reduces the apparent association,” wrote researchers Jacob Yerushalmy and Herman Hilleboe, when they included 22 countries in the model instead of just the 6 that Keys selected.</p>
 
@@ -158,13 +154,13 @@
   </div>
 </section>
 
-<section class="narrative">
+<section class="narrative" aria-label="section">
   <h3>Compare fat consumption by country</h3>
   <p>It's apparent that increasing consumption of PUFAs failed to solve America's deadly and costly heart disease problem. During our effort to double-down on saturated fat, seed oils have thrived in the same environment that commodity crops, factory farms, ultra-processed and fast foods have. </p>
   
   <p>They may, in fact, enable it. Seed oils represent a form of fat that is nowhere to be found in nature and are shelf-stable for years at a time, inserted into most hyperpalatable foods while simultaneously reducing the brain's ability to regulate hunger.</p>
 
-  <p>Have you ever heard someone say they can eat certain foods in other countries, but not America? Seed oils may have something to do with it. Although the U.S. is not the only country that consumed seed oils, the daily amount consumed per person in calories is a rarity.</p>
+  <p>Have you ever heard someone say they can eat certain foods in other countries, but not America? Seed oils may have something to do with it. Although the U.S. is not the only country that consumes seed oils, the daily amount consumed per person in calories is a rarity.</p>
 </section>
 </main>
 
