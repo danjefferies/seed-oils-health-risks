@@ -9,10 +9,10 @@
     <div class="flip-card">
         <div class="flip-card-inner">
         <div class="flip-card-front">
-            <img src="img/enfamil.jpeg" alt="side A"/>
+            <img src="img/enfamil.jpeg" alt="Front of an Enfamil baby formula package."/>
         </div>
         <div class="flip-card-back">
-            <img src="img/enfamil-back.jpg" alt="side B" />
+            <img src="img/enfamil-back.jpg" alt="The Enfamil baby formula label shows it contains vegetable oil, palm olein, soy, coconut and high oleic sunflower oils." />
         </div>
         </div>
     </div>

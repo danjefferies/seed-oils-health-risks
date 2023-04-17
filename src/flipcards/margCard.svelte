@@ -9,10 +9,10 @@
     <div class="flip-card">
         <div class="flip-card-inner">
         <div class="flip-card-front">
-            <img src="img/margarine.jpg" alt="side A"/>
+            <img src="img/margarine.jpg" alt="Tub of Smart Balance buttery margarine spread."/>
         </div>
         <div class="flip-card-back">
-            <img src="img/margarine-back.jpg" alt="side B" />
+            <img src="img/margarine-back.jpg" alt="Smart Balance margarine is made from a vegetable oil blend that uses canola, palm and olive oils." />
         </div>
         </div>
     </div>

@@ -9,10 +9,10 @@
     <div class="flip-card">
         <div class="flip-card-inner">
         <div class="flip-card-front">
-            <img src="img/oatly.jpg" alt="side A"/>
+            <img src="img/oatly.jpg" alt="A box of Oatly oat milk."/>
         </div>
         <div class="flip-card-back">
-            <img src="img/oatly-back.jpg" alt="side B" />
+            <img src="img/oatly-back.jpg" alt="The Oatly label shows the oat beverage contains rapeseed/canola oil."/>
         </div>
         </div>
     </div>

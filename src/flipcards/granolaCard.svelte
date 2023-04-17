@@ -9,10 +9,10 @@
     <div class="flip-card">
         <div class="flip-card-inner">
         <div class="flip-card-front">
-            <img src="img/granola.png" alt="side A"/>
+            <img src="img/granola.png" alt="Box of Nature Valley crunchy oats 'n honey granola bars."/>
         </div>
         <div class="flip-card-back">
-            <img src="img/granola-back.png" alt="side B" />
+            <img src="img/granola-back.png" alt="The Nature Valley granola label shows it contains canola and/or sunflower oil." />
         </div>
         </div>
     </div>
