@@ -117,11 +117,9 @@
             return allData.slice(7,13);
           case 6:
             return allData.slice(7,13);
-          case 7:
-            return allData.slice(7,13);
         }
       }
-        return allData.slice(0,4);
+        return allData.slice(7,13);
     }
 
     $: chartData = changeData(step)
@@ -233,15 +231,6 @@
   </script>
   
   <div>
-    <!-- <div>
-      <div>
-      <div>
-            <h4>
-            Dietary fat consumption in calories
-          </h4>
-      </div>
-    </div>
-    </div> -->
     <div class="p-4 flex-auto">
       <!-- Chart -->
       <div>

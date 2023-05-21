@@ -1,4 +1,4 @@
-# Seed oils: The expanding backbone of the American diet and its health effects
+# Seed oils: Decades of science point to health risks of America’s most consumed fats
 
 ### by Danica Jefferies for U.S. Right to Know
 
