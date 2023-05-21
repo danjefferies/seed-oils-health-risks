@@ -129,7 +129,7 @@
   <p>Other researchers remained skeptical as well. John Yudkin, a professor of nutrition and dietetics at the University of London, pushed back against the fat hypothesis in favor of one involving sugar. His <a href="https://www.nytimes.com/1964/07/03/archives/sugar-gets-role-in-heart-disease-briton-doubts-high-fat-in-diet-is.html" target="_blank">comments appeared in The New York Times</a> and The Lancet, a prominent medical journal. His point? Sugar and fat consumption often rise together in wealthy nations, and are therefore conflated.</p> 
 
 
-  <h3>A landscape of confusion</h3>
+  <h2>A landscape of confusion</h2>
   <p>Funding determines what studies are done in the first place. And though good quality, respectable science is subject to peer reviews and critiques, corporate financial support can influence research outcomes. This is why researchers are typically required to disclose their conflicts of interest. Similarly, some organizations accept corporate funding while claiming to promote the health of millions of people.</p>
 
   <p>In 1948, the makers of Crisco, Procter & Gamble, <a href="https://journals.lww.com/co-endocrinology/Fulltext/2023/02000/A_short_history_of_saturated_fat__the_making_and.10.aspx" target="_blank">donated $1.7 million</a> to what was then a small organization called the American Heart Association. Now one of the leading authorities on heart disease, the AHA gained prominence thanks to P&G’s support. But throughout the 1950s, the AHA was reluctant to provide guidance on heart disease prevention, citing a lack of evidence. When Ancel Keys joined the AHA’s nutrition committee in 1960, the group began <a href="https://pubmed.ncbi.nlm.nih.gov/14447694/" target="_blank">formally recommending</a> vegetable oils over animal fats the next year. </p>
@@ -161,7 +161,7 @@
 </section>
 
 <section class="narrative" aria-label="section">
-  <h3>Compare fat consumption by country</h3>
+  <h2>Compare fat consumption by country</h2>
   <p>It's clear that increasing consumption of PUFAs failed to solve America's deadly and costly heart disease problem. In the century since Crisco’s creation, seed oils have thrived in the same environment that commodity crops, factory farms, ultra-processed and fast foods have.</p>
   
   <p>They may, in fact, enable it. Seed oils represent a form of fat that is nowhere to be found in nature and are shelf-stable for years at a time, inserted into most hyperpalatable foods while simultaneously reducing the brain's ability to regulate hunger. In a mouse model study, <a href="https://academic.oup.com/endo/article/161/2/bqz044/5698148" target="_blank">soybean oil altered the gene expression and regulation of the hypothalamus</a>, the part of the brain that controls appetite.</p>

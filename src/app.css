@@ -12,11 +12,6 @@ Canola yellow #FFDD73 */
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  /* color-scheme: light dark; */
-  /* color: rgba(255, 255, 255, 0.87);
-  background-color: #242424; */
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -42,10 +37,10 @@ banner{
 
 #intro {
   font-family: "Georgia", serif;
-  font-size: 1rem;
+  font-size: 1.1rem;
   font-weight: 400;
   text-align: left;
-  margin: 5%;
+  margin: 8%;
   padding: 0 0 1vh 0;
   /* max-width: 1200px; */
   justify-content: center;
@@ -95,7 +90,7 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   text-align: left;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 .flipcards{
