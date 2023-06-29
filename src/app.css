@@ -42,8 +42,15 @@ banner{
   text-align: left;
   margin: 8%;
   padding: 0 0 1vh 0;
-  /* max-width: 1200px; */
   justify-content: center;
+}
+
+.narrative{
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+  font-size: 1rem;
 }
 
 body {
@@ -83,14 +90,6 @@ h1 {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-}
-
-.narrative{
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: left;
-  font-size: 1rem;
 }
 
 .flipcards{

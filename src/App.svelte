@@ -10,19 +10,18 @@
   let value;
 
   const steps = [
-    "<p>Introducing ultra-processed food’s closest friend: seed oils. Do you know what's in these oils, how they are made, and why they may be harming your health?</p>",
-    "<p>In case you skipped science class, all fats are composed of a mixture of saturated, monounsaturated and polyunsaturated fatty acids.<br><br>PUFAs come in a few forms, Omega-3 and Omega-6 are the most common.</p>",
+    "<p>Introducing ultra-processed food’s closest friend: seed oils. Do you know what's in these oils and how they are made?</p>",
+    "<p>In case you skipped science class, all fats are composed of a mixture of saturated, monounsaturated and polyunsaturated fatty acids. PUFAs come in a few forms, Omega-3 and Omega-6 are the most common.</p>",
     "<p>While both Omega sources are necessary for proper growth, brain development and cell membrane health, evidence suggests that excessive Omega-6 consumption <a href='https://www.sciencedirect.com/science/article/pii/S0024320518302303?via%3Dihub' target='_blank'>promotes inflammation</a>.</p>",
-    "<p>Seed oils are mainly composed of <span style='background-color: #C90000; color: whitesmoke;'>Omega-6s</span>, some of which are inflammatory and vulnerable to oxidation within the body. This oxidation can kick off inflammation and hormone disruption.</p>",
-    "<p>Scientists believe we used to consume Omega-6s and Omega-3s in a 1:1 ratio. Today in Western diets, the ratio is <a href='https://pubmed.ncbi.nlm.nih.gov/12442909/#:~:text=Abstract,%2F1%2D16.7%2F1.' target='_blank'>16 times higher for seed oil's Omega 6s</a>.This shift occurred in the last century and is unprecedented in human history.</p>",
-    "<p>How are seed oils made? The seeds are ground and pressed before the oils are extracted using hexane as a solvent. Then they are refined, deodorized and bleached. Unlike butter or ghee, oilseed fats are liquid at room temperature and shelf-stable for 1-2 years, due to their processing.</p>",
+    "<p>Seed oils are mainly composed of <span style='background-color: #C90000; color: whitesmoke; padding: 0.2em;'>Omega-6s</span>, some of which are inflammatory and vulnerable to oxidation within the body. This oxidation can kick off inflammation and hormone disruption.</p>",
+    "<p>Scientists believe we used to consume Omega-6s and Omega-3s in a 1:1 ratio. Today in Western diets, the ratio is <a href='https://pubmed.ncbi.nlm.nih.gov/12442909/#:~:text=Abstract,%2F1%2D16.7%2F1.' target='_blank'>16 times higher for seed oil's Omega 6s</a>. This shift occurred in the last century and is unprecedented in human history.</p>",
+    "<p>How are seed oils made? It involves everything from hexane to preservatives of dubious safety such as BHA and BHT.</p>",
     "<p>Seed oil consumption has been associated with a slew of harmful conditions.</p>",
     "<p>And in a society where sugar and processed grain consumption have simultaneously increased, seed oils are just one of the pitfalls of the American diet. So how did we get here?</p>",
-    "<p>In the late 1800s, two businessmen formed the soap company Procter & Gamble. To reduce the price of materials, they replaced animal fats with plant oils to create the first bar soap. They eventually settled on a <span style='background-color: #0B5FA5; color: whitesmoke'>byproduct of the cotton industry.</span></p>",
+    "<p>In the late 1800s, two businessmen formed the soap company Procter & Gamble. To reduce the price of materials, they replaced animal fats with plant oils to create the first bar soap. They eventually settled on a <span style='background-color: #0B5FA5; color: whitesmoke; padding: 0.2em;'>byproduct of the cotton industry.</span></p>",
     "<p>Thus Crisco was born of cottonseed oil. And it would find its way into kitchens across America thanks to the process of hydrogenation: turning liquid fats into solids to resemble lard.</p>",
     "<p>But there was one problem, how would P&G convince people to give up the animal fats people cooked with for ages for a factory substitute?</p>",
-    "<p>Messaging of a truly delicious standard: Crisco fought to convince people of its purity and edibility, making patriotic ploys and marketing its new product as just “so digestible.”</p>",
-    "<p>Today, processed foods containing partially hydrogenated oils are the main source of trans fat in the diet. Although Crisco re-formulated in 2007 to remove most trans fats, any product that contains less than 0.5g per serving can be marketed as having none.</p>"
+    "<p>Messaging of a truly delicious standard: Crisco fought to convince people of its purity and edibility, making patriotic ploys and <span style='background-color: #C90000; color: whitesmoke; padding: 0.2em;'>marketing its new product as just “so digestible.”</span></p>"
   ];
 
   const chartSteps = [
@@ -38,9 +37,9 @@
 
 <header aria-hidden="false" aria-label="header">
   <figure class="padded">
-    <a href="https://usrtk.org/" target="_blank" rel="noreferrer">
-      <img src="img/usrtk.svg" class="logo" alt="USRTK Logo" />
-    </a>
+    <!-- <a href="https://usrtk.org/" target="_blank" rel="noreferrer"> -->
+      <img src="img/ahabanner.png" class="logo" alt="Heart healthy logo" />
+    <!-- </a> -->
   </figure>
   
   <banner aria-label="title">
@@ -48,21 +47,19 @@
   </banner>
 
   <h3 class="byline" aria-label="byline">
-   Posted: May XX, 2023 by <a href='https://datadanica.com' target="_blank" aria-label="Danica Jefferies website (new tab)">Danica Jefferies</a>
+   Posted: MONTH DATE, 2023 by <a href='https://datadanica.com' target="_blank" aria-label="Danica Jefferies website (new tab)">Danica Jefferies</a>
   </h3>
 
-  <section id="intro" aria-label="narrative" aria-hidden="false">
-    <p>For thousands of years, humans consumed and cooked with animal fats like butter and lard. But today, industrially processed seed oils are ubiquitous in kitchens and few restaurants cook without them. Like many modern foods, seed oils like canola, soybean and sunflower – known collectively as “vegetable oil” – did not make their way into the human diet until just over a century ago. </p>
+  <section class="narrative">
+    <p>For thousands of years, people have consumed and cooked with animal fats like butter and lard. But today, industrially processed seed oils are nearly ubiquitous in kitchens, and few restaurants cook without them. Like many modern foods, seed oils like canola, soybean and sunflower – known collectively as “vegetable oil” – did not find their way into the human diet until just over a century ago.</p>
     
-    <p>The vegetable oils lining grocery store shelves are commonly referred to as healthy, plant-based fats, though they are harshly extracted from seeds – not vegetables – hence the name “seed oils.” Unlike olive or coconut oils, which are pressed from fruits, oilseeds are ground and pressed before the oils are extracted using chemical solvents like hexane. Afterward, they are often refined, deodorized and bleached.</p>
+    <p>The vegetable oils lining grocery store shelves are industrially extracted from seeds – not vegetables – hence the name “seed oils.” Unlike olive or coconut oils, which are pressed from fruits, oilseeds are ground and pressed before the oils are extracted using petroleum-based solvents like hexane. Afterward, they are often refined, deodorized and bleached, yet seed oils are commonly called <a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/scientists-debunk-seed-oil-health-risks/" target="_blank">healthy, plant-based fats</a>.</p>
 
-    <p>But scientists have repeatedly found risks to consuming these oils, including links to diabetes and obesity, and even a <a href="https://www.bmj.com/content/353/bmj.i1246" target="_blank">higher risk of death</a> when substituting saturated fat with seed oils. Yet these processed oils are commonly accepted as <a href="https://www.hsph.harvard.edu/news/hsph-in-the-news/scientists-debunk-seed-oil-health-risks/" target="_blank">healthy products</a>. Meanwhile a  growing body of research over the last six decades is reconsidering whether saturated fat – traditional butter and lard – is the health antagonist it’s <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" target="_blank">made out to be</a>. But confusion and deliberate industry disinformation has pushed Americans and people around the world to consume more seed oils each year.</p>
+    <p>But scientists have repeatedly found <a href="https://www.sciencedirect.com/science/article/abs/pii/S0955286323000645" target="_blank">health risks</a> to consuming these oils, including links to <a href="https://openheart.bmj.com/content/5/2/e000898" target="_blank">cardiovascular disease</a> and even a <a href="https://www.bmj.com/content/353/bmj.i1246" target="_blank">higher risk of death</a> when <a href="https://www.bmj.com/content/346/bmj.e8707" target="_blank">substituting saturated fat with seed oils</a>. But <a href="https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2548255" target="_blank">industry disinformation</a> and aggressive advertising from these products’ makers has pushed Americans and people around the world to eat more seed oils each year. </p>
 
     <p> In fact, researchers have estimated that per-capita seed oil consumption <a href="https://pubmed.ncbi.nlm.nih.gov/21367944/" target="_blank">skyrocketed over 1,000-fold</a> between 1909 and 1999. Americans spend nearly <a href="https://www.alliedmarketresearch.com/us-vegetable-oil-market-A07961" target="_blank">$100 billion on vegetable oil</a>, and the market is projected to grow another 30% by 2027. Due to their processing, oilseed fats are liquid at room temperature and shelf-stable for 1-2 years, allowing processed food companies to fill products from ice cream to salad dressing with seed oils.</p>
 
-    <p>The American Heart Association began recommending vegetable oils over animal fats in 1961. Since then, rates of obesity, <a href="https://diabetes.org/healthy-living/recipes-nutrition/eating-well/fats" target='_blank'>diabetes</a>, nonalcoholic fatty liver and Alzheimer’s – conditions that are supposedly preventable by limiting saturated fat – have shot up in the U.S. and worldwide. While <a href="https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades#:~:text=Researchers%20found%20the%20overall%20rate,per%20100%2C000%20people%20in%202020." target="_blank">dying from a heart attack</a> is less likely today, more and <a href="https://www.ahajournals.org/doi/10.1161/JAHA.122.025426#:~:text=Overall%2C%20the%20elective%20PCI%20volume,000%20population%20(Figure%20S2)." target="_blank">more people need coronary interventions</a> like stents.</p>
-
-    <p>Seed oils account for part of the public health crisis of overconsuming processed food that Americans face on a daily basis. Consumer awareness about this issue can mark the difference between health and chronic illness – and in some cases, life and death.</p>
+    <p>The American Heart Association began recommending vegetable oils over animal fats in 1961. Since then, rates of obesity, diabetes, nonalcoholic fatty liver and Alzheimer’s – conditions that are supposedly preventable by limiting saturated fat – have shot up in the U.S. and worldwide.</p> 
 
     </section>
   </header>
@@ -75,7 +72,7 @@
       <Scrolly bind:value>
         {#each steps as text, i}
           <div class="step" class:active={value === i}>
-            <div aria-label="narrative" class="step-content">{@html text}</div>
+            <div class="step-content">{@html text}</div>
           </div>
         {/each}
         <div class="spacer" />
@@ -89,7 +86,7 @@
 
 </section>
 
-<section class="narrative" aria-label="section">
+<section class="narrative">
   <h2>Am I eating seed oils?</h2>
   <p>Good question. Walk into any supermarket and flip over a box of your favorite snack. Seed oils are found in most grocery products, including supposedly healthy, organic and non-GMO ones. Many grain-based and processed foods including cookies and crackers, bars, chips, bread, pizza, nut butters and nut milks, frozen meals and desserts contain seed oils, which can help foods appear glazed or golden. And vegans beware, most plant-based substitutes are made with a seed oil base.<p>
 
@@ -129,7 +126,7 @@
   <p>Other researchers remained skeptical as well. John Yudkin, a professor of nutrition and dietetics at the University of London, pushed back against the fat hypothesis in favor of one involving sugar. His <a href="https://www.nytimes.com/1964/07/03/archives/sugar-gets-role-in-heart-disease-briton-doubts-high-fat-in-diet-is.html" target="_blank">comments appeared in The New York Times</a> and The Lancet, a prominent medical journal. His point? Sugar and fat consumption often rise together in wealthy nations, and are therefore conflated.</p> 
 
 
-  <h2>A landscape of confusion</h2>
+  <h2>“Heart healthy”</h2>
   <p>Funding determines what studies are done in the first place. And though good quality, respectable science is subject to peer reviews and critiques, corporate financial support can influence research outcomes. This is why researchers are typically required to disclose their conflicts of interest. Similarly, some organizations accept corporate funding while claiming to promote the health of millions of people.</p>
 
   <p>In 1948, the makers of Crisco, Procter & Gamble, <a href="https://journals.lww.com/co-endocrinology/Fulltext/2023/02000/A_short_history_of_saturated_fat__the_making_and.10.aspx" target="_blank">donated $1.7 million</a> to what was then a small organization called the American Heart Association. Now one of the leading authorities on heart disease, the AHA gained prominence thanks to P&G’s support. But throughout the 1950s, the AHA was reluctant to provide guidance on heart disease prevention, citing a lack of evidence. When Ancel Keys joined the AHA’s nutrition committee in 1960, the group began <a href="https://pubmed.ncbi.nlm.nih.gov/14447694/" target="_blank">formally recommending</a> vegetable oils over animal fats the next year. </p>
@@ -148,7 +145,7 @@
       <Scrolly bind:value>
         {#each chartSteps as text, i}
           <div class="step" class:active={value === i}>
-            <div aria-label="narrative" class="step-content-side">{@html text}</div>
+            <div class="step-content-side">{@html text}</div>
           </div>
         {/each}
         <div class="spacer" />
@@ -160,7 +157,7 @@
   </div>
 </section>
 
-<section class="narrative" aria-label="section">
+<section class="narrative">
   <h2>Compare fat consumption by country</h2>
   <p>It's clear that increasing consumption of PUFAs failed to solve America's deadly and costly heart disease problem. In the century since Crisco’s creation, seed oils have thrived in the same environment that commodity crops, factory farms, ultra-processed and fast foods have.</p>
   
@@ -298,8 +295,8 @@
   }
 
   .logo {
-    height: 6em;
-    padding: 1em;
+    height: 10em;
+    padding: 0.1em;
     will-change: filter;
     transition: filter 300ms;
   }

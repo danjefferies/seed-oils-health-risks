@@ -64,8 +64,6 @@
             case 10:
               return backdrops[6];
             case 11:
-              return backdrops[6];
-            case 12:
               return backdrops[7];
           }
         } 
