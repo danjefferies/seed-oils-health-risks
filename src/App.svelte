@@ -35,19 +35,19 @@
   ];
 </script>
 
-<header aria-hidden="false" aria-label="header">
+<header>
   <figure class="padded">
     <!-- <a href="https://usrtk.org/" target="_blank" rel="noreferrer"> -->
-      <img src="img/ahabanner.png" class="logo" alt="Heart healthy logo" />
+      <img src="img/heart-healthy.png" class="logo" alt="Heart healthy logo" />
     <!-- </a> -->
   </figure>
   
-  <banner aria-label="title">
+  <banner>
     <h1>Seed oils: Decades of science point to health risks of America’s most consumed fats</h1>
   </banner>
 
-  <h3 class="byline" aria-label="byline">
-   Posted: MONTH DATE, 2023 by <a href='https://datadanica.com' target="_blank" aria-label="Danica Jefferies website (new tab)">Danica Jefferies</a>
+  <h3 class="byline">
+    Posted on June 29, 2023 by <a href='https://datadanica.com' target="_blank">Danica Jefferies</a>
   </h3>
 
   <section class="narrative">
@@ -97,7 +97,7 @@
 </section>
     
 
-  <section id="flipcards" class="flipcards" aria-label="interactive cards" aria-hidden="false" >
+  <section id="flipcards" class="flipcards">
       <OatmilkCard/>
       <GranolaCard />
       <FormulaCard />
@@ -105,7 +105,7 @@
   </section>
 
 
-<section class="narrative" aria-label="section">
+<section class="narrative">
   <h3>Monumental decisions made on shaky research</h3>
   <p>By the 1950s, the increasing rate of cardiovascular disease and heart attacks frightened Americans. Until Ancel Keys, a physiologist from the University of Minnesota, came forward with a solution.</p>
 
@@ -296,9 +296,7 @@
 
   .logo {
     height: 10em;
-    padding: 0.1em;
-    will-change: filter;
-    transition: filter 300ms;
+    /* padding: 0.1em; */
   }
 
   /* Media queries to resize the ai2html graphics for wide versus mobile */
